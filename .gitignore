@@ -1,0 +1,12 @@
+*.DS_Store
+*.env
+*package-lock.json
+*node_modules
+*.vscode/settings.json
+*.zip
+*.tar.gz
+
+*.xmind
+*.psd
+*.xd
+*.fig
