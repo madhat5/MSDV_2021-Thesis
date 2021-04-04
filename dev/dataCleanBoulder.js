@@ -10,8 +10,6 @@ let dataModel = {
 }
 
 let data = [];
-let linkedData = [];
-let sendsData = []
 
 let baseSendData = function (fileName, climbType) {
     let content = fs.readFileSync('data/' + fileName + '.txt');
@@ -67,8 +65,6 @@ baseSendData('sportData', 'Sport Route')
 
 // ascent gaps
 // scrape crag page > for every item in this list, check if exists in crag
-// grab year + link
-// on link grab ascent years
 let cragLinks = function (fileName) {
     let content = fs.readFileSync('data/' + fileName + '.txt');
 
@@ -98,16 +94,15 @@ let cragLinks = function (fileName) {
                 // dataEl.splice(index, i)
             }
         })
-        // if ('sendsLink' in dataEl.sends === true) {
-        //     // console.log(dataEl)
-
-        //     linkedData.push(dataEl)
-        // }
     })
-    // console.log(linkedData.length);
+    // console.log(data.length);
 }
-// cragLinks('boulderCragLink')
-// cragLinks('sportCragLink')
+cragLinks('boulderCragLinkData')
+cragLinks('sportCragLinkData')
+
+// grab year + link
+// on link grab ascent years
+
 
 // ======================================================
 // for each name of file with scrape page
@@ -191,5 +186,3 @@ function writeFile(fsName, fsData) {
     console.log('writeFile complete for', fsName);
 }
 writeFile('hardClimbData', data)
-// writeFile('boulderData', linkedData)
-// writeFile('boulderData', sendsData)

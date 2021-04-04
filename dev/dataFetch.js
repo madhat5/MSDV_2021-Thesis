@@ -25,13 +25,15 @@ let scrape = function (urlData, dataName) {
 // scrape(urlOne, 'boulder');
 // scrape(urlFour, 'sport');
 scrape(urlTwo, 'boulderCragLink')
-// scrape(urlThree, 'hardClimbs')
 scrape(urlFive, 'sportCragLink')
+// scrape(urlThree, 'hardClimbs')
 
 // scrape loop of data.sendsLink
 // console.log(jsonData)
 let scrapeCragLinks = function () {
     jsonData.forEach((el, i) => {
+        // add if statement for boulder vs sport
+        
         // console.log(i);
         // console.log(el.sends.sendsLink);
 
