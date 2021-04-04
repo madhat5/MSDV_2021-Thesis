@@ -82,18 +82,16 @@ let cragLinks = function (fileName) {
         // console.log(dataEl.name);
         queryEl.each((i, el) => {
             // console.log(i);  
-            // console.log($(el).children('td.rt_name').children('span.route').children('a').text()); // name
-            // console.log('https://www.thecrag.com' + $(el).children('td.rt_name').children('span.route').children('a').attr('href')); // link
 
             let routeName = $(el).children('td.rt_name').children('span.route').children('a').text();
-            let routeLink = 'https://www.thecrag.com' + $(el).children('td.rt_name').children('span.route').children('a').attr('href');
+            let cragRouteLink = 'https://www.thecrag.com' + $(el).children('td.rt_name').children('span.route').children('a').attr('href');
             // console.log(dataEl.name)
 
             if (routeName == dataEl.name) {
                 // console.log(routeName)
                 // console.log(dataEl.name)
 
-                dataEl.sends.sendsLink = routeLink
+                dataEl.sends.cragSendLink = cragRouteLink
                 // console.log(dataEl.sends.sendsLink)
             } else if (routeName !== dataEl.name) {
                 // console.log(dataEl)
@@ -108,7 +106,8 @@ let cragLinks = function (fileName) {
     })
     // console.log(linkedData.length);
 }
-// cragLinks('hardClimbData')
+// cragLinks('boulderCragLink')
+// cragLinks('sportCragLink')
 
 // ======================================================
 // for each name of file with scrape page

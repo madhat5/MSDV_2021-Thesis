@@ -2,12 +2,13 @@
 
 let request = require('request');
 let fs = require('fs');
-let jsonData = require('./data/boulderData.json')
+let jsonData = require('./data/hardClimbData.json')
 
 let urlOne = "https://www.99boulders.com/hardest-boulder-problems";
 let urlTwo = "https://www.thecrag.com/en/article/hardestboulders";
 let urlThree = "https://hardclimbs.info/"
 let urlFour = "https://www.99boulders.com/hardest-sport-climbs";
+let urlFive = "https://www.thecrag.com/en/article/hardestroutes";
 
 let scrape = function (urlData, dataName) {
     request(urlData, function (err, res, body) {
@@ -22,9 +23,10 @@ let scrape = function (urlData, dataName) {
     });
 };
 // scrape(urlOne, 'boulder');
-scrape(urlFour, 'sport');
-// scrape(urlTwo, 'boulderDates')
+// scrape(urlFour, 'sport');
+scrape(urlTwo, 'boulderCragLink')
 // scrape(urlThree, 'hardClimbs')
+scrape(urlFive, 'sportCragLink')
 
 // scrape loop of data.sendsLink
 // console.log(jsonData)
