@@ -2,13 +2,6 @@ let fs = require('fs');
 let cheerio = require('cheerio');
 const puppeteer = require('puppeteer')
 
-let dataModel = {
-    name: 'string',
-    grade: 'string',
-    repeatNumber: 123,
-    firstSends: 123
-}
-
 let data = [];
 
 let baseSendData = function (fileName, climbType) {
@@ -153,7 +146,11 @@ let sendsDataUpdate = async() => {
     const page = await browser.newPage();
     let url = "https://hardclimbs.info/"
 
-    await page.goto(url);
+    await page.goto('https://hardclimbs.info/');
+
+    // test
+    // await page.screenshot({path: './tempScreenshot.png'})
+
 
     let res = await page.evaluate(() => {
         // let queryEl = document.querySelectorAll("#ember33")
@@ -163,7 +160,7 @@ let sendsDataUpdate = async() => {
         
         // queryEl.each((i, el) => {
 
-            // check name against site climb name
+            // check name against main climb data
             // if doesnt exist push data
             // else if exists add dates and check if has name?
                 // if no name add name
@@ -172,9 +169,10 @@ let sendsDataUpdate = async() => {
     })
 
     browser.close()
-    return res
+    // return res
 }
-// sendsDataUpdate().then((value) => {
+sendsDataUpdate()
+// .then((value) => {
 //     console.log(value)
 // });
 
@@ -185,4 +183,4 @@ function writeFile(fsName, fsData) {
     console.log('*** *** *** *** ***');
     console.log('writeFile complete for', fsName);
 }
-writeFile('hardClimbData', data)
+// writeFile('hardClimbData', data)
