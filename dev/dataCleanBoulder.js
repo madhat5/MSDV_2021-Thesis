@@ -1,3 +1,5 @@
+'use strict'
+
 let fs = require('fs');
 let cheerio = require('cheerio');
 const puppeteer = require('puppeteer')
@@ -23,7 +25,7 @@ let baseSendData = function (fileName, climbType) {
     queryEl.each((i, el) => {
         // console.log(i);  
         // console.log($(el).children('td.column-1').text()) // name
-        
+
         // split grade into V grade and Font Grade
         let grades = ($(el).children('td.column-2').text()).split('(')
         // let fontgrade = grades[1].slice(0, -1);
@@ -53,8 +55,8 @@ let baseSendData = function (fileName, climbType) {
     })
     // console.log(data);
 }
-baseSendData('boulderData', 'Boulder Problem')
-baseSendData('sportData', 'Sport Route')
+// baseSendData('boulderData', 'Boulder Problem')
+// baseSendData('sportData', 'Sport Route')
 
 // ascent gaps
 // scrape crag page > for every item in this list, check if exists in crag
@@ -90,13 +92,12 @@ let cragLinks = function (fileName) {
     })
     // console.log(data.length);
 }
-cragLinks('boulderCragLinkData')
-cragLinks('sportCragLinkData')
+// cragLinks('boulderCragLinkData')
+// cragLinks('sportCragLinkData')
+
 
 // grab year + link
 // on link grab ascent years
-
-
 // ======================================================
 // for each name of file with scrape page
 // pull dates and calc gap btw 1st and 2nd sends + longest gap?
@@ -118,60 +119,66 @@ cragLinks('sportCragLinkData')
 // sendsBoulderData();
 // ======================================================
 
-// let sendsBoulderData = function () {
-//     data.forEach((el, i) => {
+let sendsDataUpdate = function () {
+    // data.forEach((el, i) => {
+        let dataArray;
 
-//         let content = fs.readFileSync('data/' + fileName + '.txt');
+        fs.readFileSync('data/hardClimbInfo.csv', 'utf8', function (err, dataFile) {
+            dataArray = dataFile.split(/\r?\n/);
+            // console.log(dataArray);
+            return dataArray
+        });
+        console.log(dataArray);
 
-//         let $ = cheerio.load(content);
-//         // console.log($); 
-    
-//         let queryEl = $("")
+        // let $ = cheerio.load(content);
+        // // console.log($); 
 
-//         queryEl.each((i, el) => {
+        // let queryEl = $("")
 
-//             // check name against site climb name
+        // queryEl.each((i, el) => {
+
+        //     // check name against site climb name
+        //     // if doesnt exist push data
+        //     // else if exists add dates and check if has name?
+        //     // if no name add name
+
+        // })
+    // })
+}
+sendsDataUpdate();
+
+
+// let sendsDataUpdate = async() => {
+//     const browser = await puppeteer.launch();
+//     const page = await browser.newPage();
+//     let url = "https://hardclimbs.info/"
+
+//     await page.goto('https://hardclimbs.info/');
+
+//     // test
+//     // await page.screenshot({path: './tempScreenshot.png'})
+
+
+//     let res = await page.evaluate(() => {
+//         // let queryEl = document.querySelectorAll("#ember33")
+//         let queryEl = document.querySelectorAll("[id='ember33']")
+
+//         return queryEl
+
+//         // queryEl.each((i, el) => {
+
+//             // check name against main climb data
 //             // if doesnt exist push data
 //             // else if exists add dates and check if has name?
 //                 // if no name add name
-            
-//         })
+
+//         // })
 //     })
+
+//     browser.close()
+//     // return res
 // }
-// sendsBoulderData();
-
-
-let sendsDataUpdate = async() => {
-    const browser = await puppeteer.launch();
-    const page = await browser.newPage();
-    let url = "https://hardclimbs.info/"
-
-    await page.goto('https://hardclimbs.info/');
-
-    // test
-    // await page.screenshot({path: './tempScreenshot.png'})
-
-
-    let res = await page.evaluate(() => {
-        // let queryEl = document.querySelectorAll("#ember33")
-        let queryEl = document.querySelectorAll("[id='ember33']")
-
-        return queryEl
-        
-        // queryEl.each((i, el) => {
-
-            // check name against main climb data
-            // if doesnt exist push data
-            // else if exists add dates and check if has name?
-                // if no name add name
-            
-        // })
-    })
-
-    browser.close()
-    // return res
-}
-sendsDataUpdate()
+// sendsDataUpdate()
 // .then((value) => {
 //     console.log(value)
 // });

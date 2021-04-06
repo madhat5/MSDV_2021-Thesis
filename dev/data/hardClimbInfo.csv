@@ -1,0 +1,903 @@
+CLIMB,FIRST NAME,LAST NAME,DATE,GRADE,AREA,TYPE
+1994-05-01,E la nave va,Frédéric,Nicole,8C,Lindental,Traverse
+1995-06-06,Akira,Frédéric,Rouhling,9b,Charante,Sport Route
+1996-01-01,L'Alchimiste (original version),Marc,Le Menestrel,8B,Fontainebleau,Boulder Problem
+1997-01-01,Trave de arroita/La travesía de Baltzola,Ricardo,Otegui Zubiyaga,9A,Baltzola,Traverse
+2001-11-08,Bügeleisen,Klem,Loskot,8B+,Maltatal,Boulder Problem
+2002-02-01,Fou Rire,Jean-Pierre,Bouvier,8C+,Fontainebleau,Traverse
+2002-03-01,Bügeleisen,Markus,Bock,8B+,Maltatal,Boulder Problem
+2002-04-06,Trave de arroita/La travesía de Baltzola,Josune,Bereziartu Urruzola,8B+,Baltzola,Traverse
+2002-04-15,Gossip,Markus,Bock,8C,Frankenjura,Boulder Problem
+2002-08-18,Black Eagle SD,Frédéric,Nicole,8C,Rocklands,Boulder Problem
+2002-08-20,Monkey Wedding,Frédéric,Nicole,8B+,Rocklands,Boulder Problem
+2002-09-07,Amazonia,Francis,Hélias,8C+,Fontainebleau,Traverse
+2002-09-24,Viva la Evolution,Bernd,Zangerl,8C,Flirsch,Boulder Problem
+2002-11-01,Broadsword,Frédéric,Rouhling,8C,Lindental,Traverse
+2002-11-01,E la nave va,Frédéric,Rouhling,8C,Lindental,Traverse
+2002-11-10,Emotional Landscapes,Klem,Loskot,8C,Maltatal,Boulder Problem
+2003-01-01,Walk Away SD,John,Gaskins,8C,Lake District,Boulder Problem
+2003-01-01,Maharadja (aller-retour de Psychose),Francis,Hélias,8B+,Fontainebleau,Traverse
+2003-01-01,E la nave va più avanti,Hanspeter,Bodmer,9A,Lindental,Traverse
+2003-01-01,Yami no Emaki,Tokio,Muroi,8C,Ogawayama,Boulder Problem
+2003-01-25,Fou Rire,Francis,Hélias,8C,Fontainebleau,Traverse
+2003-02-15,Transcendance,Thomas,Willenberg,8C+,Sachsen,Boulder Problem
+2003-03-22,Le Punk,Philip,Moser,8C,St. Anne,Boulder Problem
+2003-03-23,L'Anarchiste,Philip,Moser,8C,St. Anne,Boulder Problem
+2003-05-01,E la nave va,Ricardo,Otegui Zubiyaga,Unknown,Lindental,Traverse
+2003-05-01,Trip Hop,Sébastien,Frigault,8C,Fontainebleau,Traverse
+2003-05-10,E la nave va,Josune,Bereziartu Urruzola,8C,Lindental,Traverse
+2003-07-04,Chilam Balam,Bernabé,Fernández,9b+,Villanueva del Rosario,Sport Route
+2003-10-01,At the Heart of it All,John,Gaskins,8B+,Lake District,Boulder Problem
+2003-11-18,Byaku-dou / The Road to the Heaven (白道),Dai,Koyamada,8C,Horai,Boulder Problem
+2003-12-06,Zunami,Bernhard,Schwaiger,8C,Saalachtal,Boulder Problem
+2004-01-01,Emotional Landscapes,Martin,Moser,Unknown,Maltatal,Boulder Problem
+2004-01-01,Ajna,Christian,Core,8C,Varazze,Boulder Problem
+2004-01-01,Le Poinçonneur des Lilas,Frédéric,Nicole,8C,Basler Jura,Boulder Problem
+2004-01-01,Gossip,John,Gaskins,Unknown,Frankenjura,Boulder Problem
+2004-01-01,Zunami,Hermann,Schwaiger,8C,Saalachtal,Boulder Problem
+2004-01-24,Tonino 78,Mauro,Calibani,8C+,Mont Sibilini,Boulder Problem
+2004-02-01,Il Pirata,John,Gaskins,8C,Lake District,Boulder Problem
+2004-02-08,Methuselahzation (メトセラゼーション),Dai,Koyamada,8C,Yatsue,Boulder Problem
+2004-03-09,Yami no Emaki,Dai,Koyamada,Unknown,Ogawayama,Boulder Problem
+2004-03-11,Maria Singer,Toni,Lamprecht,8C,Kochel,Boulder Problem
+2004-03-13,L'Anarchiste,Frédéric,Tuscan,Unknown,St. Anne,Boulder Problem
+2004-04-15,Sleepy Rave,Dai,Koyamada,8C,Grampians,Traverse
+2004-05-12,The Wheel of Life (original version),Dai,Koyamada,8C,Grampians,Traverse
+2004-06-27,Practice of the Wild,Chris,Sharma,Unknown,Magic Wood,Boulder Problem
+2004-10-01,Shadowplay,John,Gaskins,8C,Lake District,Boulder Problem
+2004-10-02,Tonino 78,Julien,Nadiras,Unknown,Mont Sibilini,Boulder Problem
+2005-01-01,La Force du Destin,Kevin,Lopata,8B+,Fontainebleau,Boulder Problem
+2005-01-09,The Story of Two Worlds,David,Graham,8C,Cresciano,Boulder Problem
+2005-03-01,Montecore,Markus,Bock,8C,Frankenjura,Boulder Problem
+2005-03-07,From Dirt Grows the Flowers (original version),David,Graham,8C,Chironico,Boulder Problem
+2005-03-13,Witness the Fitness,Chris,Sharma,8C,Ozark Mountains,Boulder Problem
+2005-04-01,E la nave va più avanti,Simon,Wandeler,Unknown,Lindental,Traverse
+2005-04-22,Hydrangea (ハイドランジア),Dai,Koyamada,8B+,Shiobara,Boulder Problem
+2005-05-07,Tonino 78,Antoine,Vandeputte,8C,Mont Sibilini,Boulder Problem
+2005-05-26,Uma (ユーマ),Dai,Koyamada,8C,Shiobara,Boulder Problem
+2005-12-01,Trave de arroita/La travesía de Baltzola (variant),Iker,Pou,8C,Baltzola,Traverse
+2005-12-01,The Long Road of Life,Christian,Core,8C,Varazze,Traverse
+2006-01-01,Mystification intégrale,Jean-Pierre,Bouvier,8C,Fontainebleau,Traverse
+2006-01-01,Terremer,Frédéric,Nicole,8C+,Hueco Tanks,Boulder Problem
+2006-02-23,Voluptueuse Fantaisie,Francis,Hélias,Unknown,Fontainebleau,Traverse
+2006-03-01,Bokassa's Fridge,Toni,Lamprecht,8C,Kochel,Boulder Problem
+2006-03-31,Hyper Ballad,Dai,Koyamada,8C,Shiobara,Boulder Problem
+2006-06-09,Trave de arroita/La travesía de Baltzola,Daniel,Andrada Jiménez,8C,Baltzola,Traverse
+2006-06-12,Trave de arroita (sin pegado)/La travesía de Baltzola sin pegado,Daniel,Andrada Jiménez,9A,Baltzola,Traverse
+2006-09-01,Kimera,Christian,Core,8C,Piemonte,Boulder Problem
+2006-09-28,Es Pontas,Chris,Sharma,Unknown,Mallorca,Sport Route
+2006-10-24,Angama (Fata i Helvete en traversée),Dai,Koyamada,8C,Fontainebleau,Traverse
+2006-11-22,Orochi (オロチ),Dai,Koyamada,8C,Kanoto,Boulder Problem
+2006-12-23,Witness the Fitness,Frédéric,Nicole,Unknown,Ozark Mountains,Boulder Problem
+2007-01-24,Amanite Tue-Mouche,Jean-Pierre,Bouvier,8C,Fontainebleau,Traverse
+2007-01-31,Babel (バベル),Dai,Koyamada,8C,Shiobara,Boulder Problem
+2007-03-21,Trip Hop,Thomas,Willenberg,Unknown,Fontainebleau,Traverse
+2007-05-21,The Singularity,Tim,Clifford,8B+,Squamish,Boulder Problem
+2007-05-23,Le Dernier Fléau,Shawn,Diamond,8C,Fontainebleau,Boulder Problem
+2007-09-06,Sleepy Rave,Christopher,Webb-Parsons,8B+,Grampians,Traverse
+2007-10-09,Poslední mažoret,Rostislav,Štefánek,8C,Labské údolí,Boulder Problem
+2007-10-13,The Wheel of Life (original version),Christopher,Webb-Parsons,8C,Grampians,Traverse
+2007-10-14,Montecore,Dai,Koyamada,8B+,Frankenjura,Boulder Problem
+2007-10-28,Bongo (ボンゴ),Dai,Koyamada,8C,Frankenjura,Traverse
+2007-11-01,Kakusei,Tokio,Muroi,Unknown,Ogawayama,Boulder Problem
+2007-11-01,Salamandre,Frédéric,Rouhling,9a+,Saint-Pierre en Faucigny,Sport Route
+2007-11-08,Ali Hulk (sit start extension),Daniel,Andrada Jiménez,9b,Rodellar,Sport Route
+2007-11-28,The End,Urh,Čehovin,8C,Zalog,Boulder Problem
+2008-01-01,E la nave va,Pirmin,Bertle,8B+,Lindental,Traverse
+2008-01-01,Nec Plus Ultra en retour-aller,Jean-Pierre,Bouvier,8B+,Fontainebleau,Traverse
+2008-01-01,Terremer,Paul,Robinson,8C,Hueco Tanks,Boulder Problem
+2008-01-01,Trave de arroita/La travesía de Baltzola,Iván,Larrión,Unknown,Baltzola,Traverse
+2008-02-25,Gioia,Christian,Core,8C,Varazze,Boulder Problem
+2008-03-20,Euphoria (ユーフォリア),Dai,Koyamada,8C,Yatsue,Boulder Problem
+2008-04-09,"Assassin, Monkey and Man",Toni,Lamprecht,8C,Kochel,Boulder Problem
+2008-04-15,Uma (ユーマ),Yuji,Hirayama,8B+,Shiobara,Boulder Problem
+2008-04-21,Ginga,Yuji,Hirayama,8C,Kanoto,Boulder Problem
+2008-05-09,In Search of Time Lost,Daniel,Woods,8C,Magic Wood,Boulder Problem
+2008-08-02,Bongo (ボンゴ),Fabian,Christof,9a,Frankenjura,Traverse
+2008-08-04,Progressive Aggression,Christopher,Webb-Parsons,8C,Sydney,Boulder Problem
+2008-09-11,Jumbo Love,Chris,Sharma,9b,Clark Mountain,Sport Route
+2008-09-13,Delincuente Natural (extension),Daniel,Andrada Jiménez,9b,Rodellar,Sport Route
+2008-09-26,Practice of the Wild,Tyler,Landman,8C,Magic Wood,Boulder Problem
+2008-09-29,Quoi de Neuf,Rémy,Bergasse,8C,Orsay,Traverse
+2008-10-01,Keizer Sauzé,Romain,Desgranges,8C+,Chamonix,Boulder Problem
+2008-11-27,Big Paw,David,Graham,8C,Chironico,Boulder Problem
+2008-12-17,Golpe de Estado,Chris,Sharma,9b,Siurana,Sport Route
+2009-01-01,Santa Linya Never Ending Story,Tomáš,Mrázek,9A,Santa Linya,Traverse
+2009-01-01,Empreintes,Frédéric,Rouhling,9a+,Saint-Pierre en Faucigny,Sport Route
+2009-01-20,Epitaph (エピタフ),Dai,Koyamada,8C,Horai,Boulder Problem
+2009-03-01,E la nave va più avanti,Pirmin,Bertle,8C,Lindental,Traverse
+2009-03-07,"Bokassa's Fridge - Assassin, Monkey and Man",Toni,Lamprecht,8C+,Kochel,Boulder Problem
+2009-03-17,From Dirt Grows the Flowers (original version),Bernd,Zangerl,8C,Chironico,Boulder Problem
+2009-04-01,Action Discrète,Jean-Pierre,Bouvier,8B+,Fontainebleau,Traverse
+2009-04-15,Dust Devil,Bernhard,Schwaiger,8C,Saalachtal,Boulder Problem
+2009-04-24,Shiva,Thomas,Willenberg,8C,Fontainebleau,Boulder Problem
+2009-04-27,Calm (カルム),Dai,Koyamada,8B+,Ena,Boulder Problem
+2009-04-28,Karamu,Dai,Koyamada,8C,Unknown (Japan),Boulder Problem
+2009-05-01,Gossip,Markus,Windisch,8C,Frankenjura,Boulder Problem
+2009-05-10,Kryptos,Franz,Widmer,8C,Basler Jura,Boulder Problem
+2009-05-29,Misti,Arnaud,Ceintre,8C,Fontainebleau,Traverse
+2009-06-14,Hurricane,Bernhard,Schwaiger,8C,Birgkar,Boulder Problem
+2009-08-05,Livin' Large,Nalle,Hukkataival,8C,Rocklands,Boulder Problem
+2009-10-20,Marina Superstar,Adam,Ondra,9a+/9b,Domusnovas,Sport Route
+2009-10-29,Kryptos,Frédéric,Nicole,8C,Basler Jura,Boulder Problem
+2009-11-03,Sleepy Rave,James,Kassay,Unknown,Grampians,Traverse
+2009-12-18,Neanderthal,Chris,Sharma,9b,Santa Linya,Sport Route
+2010-01-01,Sleepy Rave,Ethan,Pringle,Unknown,Grampians,Traverse
+2010-01-01,La Valse aux Adieux (prolongé),Jean-Pierre,Bouvier,8C,Fontainebleau,Traverse
+2010-01-01,At the Heart of it All,Sam,Davenhall,8B+,Lake District,Boulder Problem
+2010-01-01,Catharsis (low version),Jean-Pierre,Bouvier,8C,Fontainebleau,Traverse
+2010-01-03,The Big Island,Vincent,Pochon,8C,Fontainebleau,Boulder Problem
+2010-01-30,Terremer,Daniel,Woods,8C,Hueco Tanks,Boulder Problem
+2010-02-08,Idea (イデア),Dai,Koyamada,8C,Horai,Boulder Problem
+2010-02-09,Pipe Dream SD,Bernhard,Schwaiger,8C,Saalachtal,Boulder Problem
+2010-02-10,The Game,Daniel,Woods,8C,Boulder Canyon,Boulder Problem
+2010-02-27,Desperanza,Daniel,Woods,8B+,Hueco Tanks,Boulder Problem
+2010-03-13,Golpe de Estado,Adam,Ondra,9b,Siurana,Sport Route
+2010-03-29,Emotion (エモーション),Dai,Koyamada,8B+,Ena,Boulder Problem
+2010-03-30,Lucid Dreaming,Paul,Robinson,8C,Bishop,Boulder Problem
+2010-05-12,The Story of Two Worlds,Dai,Koyamada,8C,Cresciano,Boulder Problem
+2010-06-24,The Wheel of Life (original version),Ethan,Pringle,9a,Grampians,Traverse
+2010-08-24,Monkey Wedding,Paul,Robinson,8C,Rocklands,Boulder Problem
+2010-08-29,Ali Hulk (sit start extension),Magnus,Midtbø,9b,Rodellar,Sport Route
+2010-09-04,Warrior Up,Daniel,Woods,8B+,Mt. Evans,Boulder Problem
+2010-09-04,Warrior Up,David,Graham,8C,Mt. Evans,Boulder Problem
+2010-09-12,Le Lent Silence du Moleskine,Paul,Robinson,8B+,Fionnay,Traverse
+2010-09-29,Blood Redemption,Magnus,Midtbø,8C,Matre,Boulder Problem
+2010-10-12,Ill Trill,Paul,Robinson,8C,Magic Wood,Boulder Problem
+2010-10-16,Believe in Two,Christopher,Webb-Parsons,8C,Magic Wood,Boulder Problem
+2010-10-21,Hypnotized Minds,Daniel,Woods,8C+,Rocky Mountain National Park,Boulder Problem
+2010-10-24,From Dirt Grows the Flowers (original version),Radovan,Souček,8C,Chironico,Boulder Problem
+2010-10-26,Whirlwind,Bernhard,Schwaiger,8C,Saalachtal,Boulder Problem
+2010-11-12,Big Paw,Dai,Koyamada,8B+,Chironico,Boulder Problem
+2010-11-27,From Dirt Grows the Flowers (left version),Micky,Page,8C,Chironico,Boulder Problem
+2010-11-29,Big Paw,Paul,Robinson,8B+,Chironico,Boulder Problem
+2010-11-29,Big Paw,Adam,Ondra,8C,Chironico,Boulder Problem
+2010-11-30,From Dirt Grows the Flowers (original version),Adam,Ondra,8C,Chironico,Boulder Problem
+2010-12-11,Broadsword,Benjamin,Blaser,8B,Lindental,Traverse
+2010-12-12,From Dirt Grows the Flowers (left version),Paul,Robinson,8C,Chironico,Boulder Problem
+2011-01-01,Le Lent Silence du Moleskine,Frédéric,Moix,8C,Fionnay,Traverse
+2011-01-01,Kibaranka (キバランカ),Dai,Koyamada,8B+,Ena,Boulder Problem
+2011-01-01,Trave de arroita (sin pegado)/La travesía de Baltzola sin pegado,Iván,Larrión,Unknown,Baltzola,Traverse
+2011-01-01,Asagimadara,Tokio,Muroi,8C+,Mt. Mizugaki,Boulder Problem
+2011-01-28,The Big Island,Lucas,Ménégatti,8C,Fontainebleau,Boulder Problem
+2011-02-07,Trip Hop,Paul,Robinson,8C,Fontainebleau,Traverse
+2011-02-16,La Capella,Adam,Ondra,9b,Siurana,Sport Route
+2011-02-17,La Force du Destin,Paul,Robinson,8B+,Fontainebleau,Boulder Problem
+2011-03-01,Le Boa,Frédéric,Nicole,8C,Unknown (Switzerland),Boulder Problem
+2011-03-08,The Story of Two Worlds,Paul,Robinson,8C,Cresciano,Boulder Problem
+2011-03-13,The Game,Carlo,Traversi,8C,Boulder Canyon,Boulder Problem
+2011-03-22,Entropia,Ignacio,Sánchez González,8C,Castillo de Bayuela,Boulder Problem
+2011-03-23,Le Voyage de Zhong Kui en aller-retour,Jean-Pierre,Bouvier,9A,Fontainebleau,Traverse
+2011-03-23,Angama (Fata i Helvete en traversée),Paul,Robinson,8C,Fontainebleau,Traverse
+2011-03-27,Chaxi Raxi,Adam,Ondra,9b,Oliana,Sport Route
+2011-03-30,Montecore,Fabian,Christof,8C,Frankenjura,Boulder Problem
+2011-04-13,Chilam Balam,Adam,Ondra,9b,Villanueva del Rosario,Sport Route
+2011-04-16,Ill Trill,Micky,Page,Unknown,Magic Wood,Boulder Problem
+2011-04-16,Practice of the Wild,Daniel,Woods,8C,Magic Wood,Boulder Problem
+2011-04-19,First Round First Minute,Chris,Sharma,9b,Margalef,Sport Route
+2011-04-19,Ill Trill,Daniel,Woods,8B+,Magic Wood,Boulder Problem
+2011-04-20,Believe in Two,Daniel,Woods,8B+,Magic Wood,Boulder Problem
+2011-04-22,La Planta de Shiva,Adam,Ondra,9b,Villanueva del Rosario,Sport Route
+2011-05-05,Fight or Flight,Chris,Sharma,9b,Oliana,Sport Route
+2011-08-14,Monkey Wedding,Adam,Ondra,8C,Rocklands,Boulder Problem
+2011-08-28,In Search of Time Lost,Dai,Koyamada,8C,Magic Wood,Boulder Problem
+2011-09-06,Pata Ledovce,Adam,Ondra,8C,Holštejn,Boulder Problem
+2011-09-07,The Wheel of Life (original version),James,Kassay,8C+,Grampians,Traverse
+2011-09-10,Dark Matter,Dai,Koyamada,8B+,Magic Wood,Boulder Problem
+2011-09-30,The Wheel of Life (original version),Benjamin,Cossey,8B+,Grampians,Traverse
+2011-10-01,Practice of the Wild,Adam,Ondra,8C,Magic Wood,Boulder Problem
+2011-10-02,Dark Matter,Adam,Ondra,8B+,Magic Wood,Boulder Problem
+2011-10-02,Mystic Stylez,Daniel,Woods,8B+,Magic Wood,Boulder Problem
+2011-10-04,Daedalus Direct,Dai,Koyamada,8C,Sustenpass,Boulder Problem
+2011-10-12,Circus Elephant Syndrome,Nalle,Hukkataival,8B+,Sipoo,Boulder Problem
+2011-10-15,La Force Tranquille,Daniel,Woods,8C,Magic Wood,Boulder Problem
+2011-10-15,Cháron,Adam,Ondra,8C,Petrohrad,Boulder Problem
+2011-10-18,The Ice Knife,David,Graham,8C,Guanella Pass,Boulder Problem
+2011-11-10,Terranova,Adam,Ondra,8C+,Holštejn,Boulder Problem
+2011-11-13,Big Paw,Sean,McColl,8C,Chironico,Boulder Problem
+2011-11-16,Tokoyo (常世),Dai,Koyamada,8B+,Ena,Boulder Problem
+2011-11-24,Big Paw,Daniel,Woods,8B+,Chironico,Boulder Problem
+2011-11-24,Big Paw,Guntram,Jörg,8C,Chironico,Boulder Problem
+2011-12-06,Gioia,Adam,Ondra,8C+,Varazze,Boulder Problem
+2011-12-20,Shanbara (シャンバラ),Dai,Koyamada,8B+,Toyota,Boulder Problem
+2012-01-01,Sleepy Rave,David,Graham,Unknown,Grampians,Traverse
+2012-01-01,Sleepy Rave,Ian,Dory,Unknown,Grampians,Traverse
+2012-01-01,Charlotte,Alberto,Rocasolano Jaudenes,8B+,La Pedriza,Boulder Problem
+2012-01-01,Half-Life,Felix,Knaub,8C,Frankenjura,Boulder Problem
+2012-02-01,Desperanza,Christopher,Webb-Parsons,8C,Hueco Tanks,Boulder Problem
+2012-02-29,Paint it Black,Daniel,Woods,8C,Rocky Mountain National Park,Boulder Problem
+2012-03-01,Natural Method,David,MacLeod,8B+,Glen Nevis,Boulder Problem
+2012-03-01,Airian,Iván,Larrión,8C,Baltzola,Boulder Problem
+2012-04-01,Montecore,Manuel,Brunn,8C,Frankenjura,Boulder Problem
+2012-04-03,Insomnio,Ignacio,Sánchez González,8C,Crevillente,Boulder Problem
+2012-04-11,The Big Island,Arjan,de Kock,Unknown,Fontainebleau,Boulder Problem
+2012-04-18,Paint it Black,Paul,Robinson,8C,Rocky Mountain National Park,Boulder Problem
+2012-04-24,Der mit dem Fels tanzt,Martin,Keller,8C,Chironico,Boulder Problem
+2012-04-28,Paint it Black,David,Graham,8C,Rocky Mountain National Park,Boulder Problem
+2012-05-13,Mystic Stylez,David,MacLeod,8C,Magic Wood,Boulder Problem
+2012-06-08,The Wheel of Life (original version),David,Graham,9a+,Grampians,Traverse
+2012-06-17,The Wheel of Life (original version),Ian,Dory,9a+,Grampians,Traverse
+2012-06-29,Catxasa R2,Ramón,Julián Puigblanque,9a+/9b,Santa Linya,Sport Route
+2012-06-29,Fou Rire en aller-retour,Jean-Pierre,Bouvier,9A,Fontainebleau,Traverse
+2012-06-30,Warrior Up,James,Webb,8B+,Mt. Evans,Boulder Problem
+2012-07-01,Blood Redemption,Adam,Ondra,8B+,Matre,Boulder Problem
+2012-07-12,Ukiyo (浮世),Dai,Koyamada,8C,Ena,Boulder Problem
+2012-08-13,Monkey Wedding,Daniel,Woods,8C,Rocklands,Boulder Problem
+2012-09-01,Warrior Up,Matty,Hong,8C,Mt. Evans,Boulder Problem
+2012-09-18,White Noise,Daniel,Woods,8B+,Wild Basin,Boulder Problem
+2012-09-30,White Noise,Matty,Hong,8B+,Wild Basin,Boulder Problem
+2012-10-04,Change,Adam,Ondra,9b+,Flatanger,Sport Route
+2012-10-07,White Noise,David,Graham,8C,Wild Basin,Boulder Problem
+2012-10-19,In Search of Time Lost,Carlo,Traversi,8C,Magic Wood,Boulder Problem
+2012-10-19,From Dirt Grows the Flowers (left version),Dai,Koyamada,8B+,Chironico,Boulder Problem
+2012-10-23,Practice of the Wild,Carlo,Traversi,8C,Magic Wood,Boulder Problem
+2012-10-26,Mystic Stylez,Carlo,Traversi,8B+,Magic Wood,Boulder Problem
+2012-10-28,Der mit dem Fels tanzt,Dai,Koyamada,8C,Chironico,Boulder Problem
+2012-11-01,Zunami,Klem,Loskot,8C,Saalachtal,Boulder Problem
+2012-11-07,Floating World (浮世),Dai,Koyamada,8C,Ena,Boulder Problem
+2012-11-09,Insanity of Grandeur,Dai,Koyamada,8B+,Chironico,Boulder Problem
+2012-11-10,The Wheel of Life (direct version),James,Kassay,8C+,Grampians,Traverse
+2012-11-15,Momentum,Nalle,Hukkataival,8C,Valle Bavona,Boulder Problem
+2012-11-20,Momentum,Jan,Hojer,8B+,Valle Bavona,Boulder Problem
+2012-11-21,Off the Wagon,Nalle,Hukkataival,8C,Valle Bavona,Boulder Problem
+2012-11-23,Off the Wagon,Jan,Hojer,8B+,Valle Bavona,Boulder Problem
+2012-11-30,From Dirt Grows the Flowers (original version),Nalle,Hukkataival,8C,Chironico,Boulder Problem
+2012-12-02,Wrath of the Lichking,Felix,Knaub,8C,Frankenjura,Boulder Problem
+2012-12-24,Tokoyo (常世),Toru,Nakajima,8B+,Ena,Boulder Problem
+2013-01-01,Calm (カルム),Imashi,Hashimoto,8B+,Ena,Boulder Problem
+2013-01-04,The Story of Two Worlds,Jernej,Kruder,8C,Cresciano,Boulder Problem
+2013-01-08,Witness the Fitness,Daniel,Woods,8C,Ozark Mountains,Boulder Problem
+2013-01-08,The Game,Jon,Cardwell,8C,Boulder Canyon,Boulder Problem
+2013-01-16,The Big Island,Guillaume,Glairon-Mondet,8C,Fontainebleau,Boulder Problem
+2013-01-21,Terremer,Daniel,Beall,8C,Hueco Tanks,Boulder Problem
+2013-01-25,The Big Island,Jan,Hojer,8C,Fontainebleau,Boulder Problem
+2013-01-29,Minimalomania,Pirmin,Bertle,8C+,Lindental,Traverse
+2013-02-06,Stoking the Fire,Chris,Sharma,9b,Santa Linya,Sport Route
+2013-02-07,La Dura Dura,Adam,Ondra,9b+,Oliana,Sport Route
+2013-02-07,Trip Hop,Guillaume,Glairon-Mondet,8C,Fontainebleau,Traverse
+2013-02-09,Fight or Flight,Adam,Ondra,9b,Oliana,Sport Route
+2013-02-09,Kemena,Rubén,Díaz Torres,8C,Almenara,Boulder Problem
+2013-02-14,Hydrangea (ハイドランジア),Daniel,Woods,8C,Shiobara,Boulder Problem
+2013-02-22,The Big Island,Toru,Nakajima,8C,Fontainebleau,Boulder Problem
+2013-03-01,Asagimadara,Toru,Nakajima,8C,Mt. Mizugaki,Boulder Problem
+2013-03-02,From Dirt Grows the Flowers (original version),Rok,Klančnik,8C,Chironico,Boulder Problem
+2013-03-03,The Big Island,Christopher,Schulte,8C,Fontainebleau,Boulder Problem
+2013-03-08,The Bridge of Ashes,David,Graham,8C,Elkland,Boulder Problem
+2013-03-09,Hydrangea (ハイドランジア),Motochika,Nagao,Unknown,Shiobara,Boulder Problem
+2013-03-11,The Bridge of Ashes,Daniel,Woods,8B+,Elkland,Boulder Problem
+2013-03-20,The New Chapter,Paul,Robinson,8C,Ozark Mountains,Boulder Problem
+2013-03-21,Off the Wagon,James,Webb,8B+,Valle Bavona,Boulder Problem
+2013-03-21,Four Dimensional (４次元),Dai,Koyamada,8B+,Hinokage,Boulder Problem
+2013-03-23,La Dura Dura,Chris,Sharma,9b+,Oliana,Sport Route
+2013-03-25,The Story of Two Worlds,Carlo,Traversi,8C,Cresciano,Boulder Problem
+2013-03-27,Misti,Nalle,Hukkataival,8C,Fontainebleau,Traverse
+2013-03-31,The Kingdom,Carlo,Traversi,8C,Brione,Boulder Problem
+2013-04-07,La Rustica,James,Webb,8B+,Valle Bavona,Boulder Problem
+2013-04-11,Bügeleisen,Nalle,Hukkataival,8B+,Maltatal,Boulder Problem
+2013-05-01,Eternal (エターナル),Dai,Koyamada,8C,Hinokage,Boulder Problem
+2013-05-19,The Ice Knife,Daniel,Woods,8B+,Guanella Pass,Boulder Problem
+2013-05-19,The Ice Knife,Paul,Robinson,8C,Guanella Pass,Boulder Problem
+2013-06-11,Shantaram,Bernd,Zangerl,Unknown,Osen,Boulder Problem
+2013-06-15,The Understanding,Nalle,Hukkataival,8C,Magic Wood,Boulder Problem
+2013-06-17,La Force Tranquille,Nalle,Hukkataival,8C,Magic Wood,Boulder Problem
+2013-07-01,Sleepy Rave,Alexander,Megos,Unknown,Grampians,Traverse
+2013-07-01,Sleepy Rave,Daniel,Woods,Unknown,Grampians,Traverse
+2013-07-06,The Wheel of Life (original version),Alexander,Megos,9a,Grampians,Traverse
+2013-07-07,Torture Physique Integrale,Adam,Ondra,9a+/9b,Gastlosen,Sport Route
+2013-07-23,The Wheel of Life (original version),Daniel,Woods,9a,Grampians,Traverse
+2013-08-01,Stimulating Cartwheel,Alexander,Megos,9a,Grampians,Traverse
+2013-08-01,Wheelchair,Alexander,Megos,9a+,Grampians,Traverse
+2013-08-03,Iron Curtain,Adam,Ondra,9b,Flatanger,Sport Route
+2013-08-20,Move,Adam,Ondra,9b,Flatanger,Sport Route
+2013-09-01,The Ice Knife,Toru,Nakajima,Unknown,Guanella Pass,Boulder Problem
+2013-09-05,The Wheel Of Wolvo,James,Webb,8C,Mt. Evans,Boulder Problem
+2013-09-09,The Wheel Of Wolvo,Daniel,Woods,8C,Mt. Evans,Boulder Problem
+2013-09-10,Delirium,James,Webb,8C,Mt. Evans,Boulder Problem
+2013-09-18,Delirium,Daniel,Woods,8C,Mt. Evans,Boulder Problem
+2013-09-18,The Ice Knife,James,Webb,8B+,Guanella Pass,Boulder Problem
+2013-09-18,The Wheel Of Wolvo,David,Graham,8C,Mt. Evans,Boulder Problem
+2013-10-02,Warrior Up,Paul,Robinson,8B+,Mt. Evans,Boulder Problem
+2013-10-03,Warrior Up,Michael,O'Rourke,8C,Mt. Evans,Boulder Problem
+2013-10-16,Foundation's Edge,David,Graham,8C,Fionnay,Boulder Problem
+2013-10-31,Trip Hop,Jan,Hojer,8C,Fontainebleau,Traverse
+2013-11-01,Kemena,Ignacio,Sánchez González,8B+,Almenara,Boulder Problem
+2013-11-01,Txapela,Iker,Arroitajauregi,8C,Albarracín,Traverse
+2013-11-02,The Ice Knife SDS,Daniel,Woods,8C,Guanella Pass,Boulder Problem
+2013-11-08,Belly of the Beast,Christopher,Webb-Parsons,8C,Peak District,Boulder Problem
+2013-11-09,The Bridge of Ashes,James,Webb,8B+,Elkland,Boulder Problem
+2013-11-11,White Noise,Paul,Robinson,8C,Wild Basin,Boulder Problem
+2013-11-16,Defying Gravity,Daniel,Woods,8C,South Platte,Boulder Problem
+2013-11-30,Babel (バベル),Motochika,Nagao,Unknown,Shiobara,Boulder Problem
+2013-12-04,Vasil Vasil,Adam,Ondra,9b+,Sloup,Sport Route
+2013-12-04,Soyuz (low start),Alberto,Rocasolano Jaudenes,8C,Madrid,Boulder Problem
+2013-12-06,Insanity of Grandeur,Gabriele,Moroni,8B+,Chironico,Boulder Problem
+2013-12-08,Jour de Chasse,Jan,Hojer,8C,Fontainebleau,Boulder Problem
+2013-12-12,Tokoyo (常世),Kensuke,Hamada,8B+,Ena,Boulder Problem
+2013-12-18,The Nest,Daniel,Woods,8C,Red Rock,Boulder Problem
+2013-12-18,The Nest,James,Webb,8C,Red Rock,Boulder Problem
+2013-12-19,Insanity of Grandeur,Christopher,Webb-Parsons,8B+,Chironico,Boulder Problem
+2013-12-20,Txapela,Daniel,Andrada Jiménez,8C,Albarracín,Traverse
+2013-12-24,The Nest,Paul,Robinson,8C,Red Rock,Boulder Problem
+2014-01-01,Mystic Stylez,Jakob,Schubert,8B+,Magic Wood,Boulder Problem
+2014-01-09,Txapela,Alberto,Rocasolano Jaudenes,Unknown,Albarracín,Traverse
+2014-01-19,El Diablo,Daniel,Woods,8C,Peñoles,Boulder Problem
+2014-01-21,Jour de Chasse,Guillaume,Glairon-Mondet,8C,Fontainebleau,Boulder Problem
+2014-01-25,Paint it Black,Ian,Dory,Unknown,Rocky Mountain National Park,Boulder Problem
+2014-01-26,No Peace,Matthew,Fultz,8B+,Castle Rock,Boulder Problem
+2014-01-28,Lucid Dreaming,Daniel,Woods,8C,Bishop,Boulder Problem
+2014-02-03,First Round First Minute,Adam,Ondra,9b,Margalef,Sport Route
+2014-02-04,Entropia,Alberto,Rocasolano Jaudenes,8C,Castillo de Bayuela,Boulder Problem
+2014-02-06,Vanitas (ヴァニタス),Dai,Koyamada,8C,Horai,Boulder Problem
+2014-02-09,The Story of Two Worlds,Giuliano,Cameroni,8C,Cresciano,Boulder Problem
+2014-02-18,The Story of Two Worlds,Gabriele,Moroni,8C,Cresciano,Boulder Problem
+2014-02-22,Gioia,Nalle,Hukkataival,8C,Varazze,Boulder Problem
+2014-03-02,La Toupie Carnivore assis,Guillaume,Glairon-Mondet,8C,Fontainebleau,Boulder Problem
+2014-03-02,Jour de Chasse,Iker,Arroitajauregi,8C,Fontainebleau,Boulder Problem
+2014-03-08,Le Marathon de Boissy,Jan,Hojer,8C,Fontainebleau,Boulder Problem
+2014-03-08,From Dirt Grows the Flowers (left version),James,Webb,8B+,Chironico,Boulder Problem
+2014-03-12,The Story of Two Worlds,Toru,Nakajima,8C,Cresciano,Boulder Problem
+2014-03-13,Big Paw,James,Webb,8B+,Chironico,Boulder Problem
+2014-03-13,La Toupie Carnivore assis,Nalle,Hukkataival,8B+,Fontainebleau,Boulder Problem
+2014-03-14,Insanity of Grandeur,James,Webb,8B+,Chironico,Boulder Problem
+2014-03-15,Big Paw,Toru,Nakajima,8B+,Chironico,Boulder Problem
+2014-03-19,The Kingdom,James,Webb,8B+,Brione,Boulder Problem
+2014-03-22,Belly of the Beast,Stefano,Ghisolfi,8B+,Peak District,Boulder Problem
+2014-03-24,Insanity of Grandeur,Toru,Nakajima,8C,Chironico,Boulder Problem
+2014-03-25,The Story of Two Worlds,James,Webb,8C,Cresciano,Boulder Problem
+2014-03-30,Zunami,Florian,Schmalzl,8C,Saalachtal,Boulder Problem
+2014-03-31,Kawaki no umi / Sea of Dry (乾きの海),Dai,Koyamada,8C,Minamata,Boulder Problem
+2014-04-01,Misti,Jérémy,Bonder,8C,Fontainebleau,Traverse
+2014-04-02,Off the Wagon,Niccolò,Ceria,8B+,Valle Bavona,Boulder Problem
+2014-04-07,Bügeleisen,Rok,Klančnik,8C,Maltatal,Boulder Problem
+2014-04-07,Mystic Stylez,James,Webb,8B+,Magic Wood,Boulder Problem
+2014-04-10,Belly of the Beast,Ethan,Walker,8B+,Peak District,Boulder Problem
+2014-04-10,The Understanding,James,Webb,8C,Magic Wood,Boulder Problem
+2014-04-11,The Story of Two Worlds,Jan,Hojer,8C,Cresciano,Boulder Problem
+2014-04-15,Practice of the Wild,James,Webb,8C,Magic Wood,Boulder Problem
+2014-04-24,Believe in Two,James,Webb,8B+,Magic Wood,Boulder Problem
+2014-04-27,Lurragorri,Markel,Mendieta Uribarren,8C,Araotz,Boulder Problem
+2014-04-30,Gepresster Hase,Martin,Keller,8C,Sustenpass,Boulder Problem
+2014-05-01,Bügeleisen Sit Start,Nalle,Hukkataival,8C,Maltatal,Boulder Problem
+2014-05-05,Emotional Landscapes,Nalle,Hukkataival,8C,Maltatal,Boulder Problem
+2014-05-11,Jour de Chasse,James,Webb,8B+,Fontainebleau,Boulder Problem
+2014-05-13,Babel (バベル),Sachi,Amma,8C,Shiobara,Boulder Problem
+2014-05-13,Hydrangea (ハイドランジア),Sachi,Amma,8C,Shiobara,Boulder Problem
+2014-06-13,Practice of the Wild,Nalle,Hukkataival,8C,Magic Wood,Boulder Problem
+2014-06-20,Gepresster Hase,David,Firnenburg,8B+,Sustenpass,Boulder Problem
+2014-06-22,Khoikhoi,James,Webb,8B+,Weighbridge,Boulder Problem
+2014-06-26,Gepresster Hase,Giuliano,Cameroni,8B+,Sustenpass,Boulder Problem
+2014-07-01,Kike,Isaac,Montes,8B+,Teverga,Boulder Problem
+2014-07-09,In Search of Time Lost,Tamás,Zupán,8C,Magic Wood,Boulder Problem
+2014-07-15,In the Depths of Solitude,Paul,Robinson,8C,Three Corners,Boulder Problem
+2014-07-16,Fortaleza,Felipe,Camargo,8C,Ubatuba,Boulder Problem
+2014-08-01,Kike,Ignacio,Sánchez González,8B+,Teverga,Boulder Problem
+2014-08-18,Practice of the Wild,Anthony,Gullsten,8C,Magic Wood,Boulder Problem
+2014-09-09,Road Sweet Home,Nalle,Hukkataival,8C,Grampians,Boulder Problem
+2014-10-07,Gepresster Hase,Unknown,Unknown,8B+,Sustenpass,Boulder Problem
+2014-10-28,Practice of the Wild,Martin,Stráník,8C,Magic Wood,Boulder Problem
+2014-10-31,Orochi (オロチ),Makoto,Yamauchi,8C,Kanoto,Boulder Problem
+2014-11-20,Defying Gravity,James,Webb,8C,South Platte,Boulder Problem
+2014-11-25,Montecore,Alexander,Megos,8B+,Frankenjura,Boulder Problem
+2014-12-26,Crisis,Ignacio,Sánchez González,8C+,Crevillente,Boulder Problem
+2014-12-27,The Story of Two Worlds,Samuel,Ometz,8C,Cresciano,Boulder Problem
+2014-12-30,Le Marathon de Boissy,Guillaume,Glairon-Mondet,8C,Fontainebleau,Boulder Problem
+2014-12-31,Shanbara (シャンバラ),Daisuke,Ichimiya,8C,Toyota,Boulder Problem
+2014-12-31,Fight or Flight,Jakob,Schubert,9b,Oliana,Sport Route
+2015-01-01,Insanity of Grandeur,Martin,Keller,8C,Chironico,Boulder Problem
+2015-01-01,La Valse aux Adieux (prolongé),Charles,Albert,8C,Fontainebleau,Traverse
+2015-01-01,Serenata,Edward,Feehally,Unknown,Maltby,Boulder Problem
+2015-01-01,Mandragora Sit Start,Alberto,Rocasolano Jaudenes,8C,Buñol,Boulder Problem
+2015-01-01,From Dirt Grows the Flowers (original version),Manuel,Brunn,8C,Chironico,Boulder Problem
+2015-01-10,The Nest,Nalle,Hukkataival,8C,Red Rock,Boulder Problem
+2015-01-15,The Process,Daniel,Woods,8C+,Bishop,Boulder Problem
+2015-01-19,From Dirt Grows the Flowers (original version),Nils,Favre,8C,Chironico,Boulder Problem
+2015-01-25,Kintsugi,Nalle,Hukkataival,8C,Red Rock,Boulder Problem
+2015-01-27,Lucid Dreaming,Alexander,Megos,8C,Bishop,Boulder Problem
+2015-02-01,Fight or Flight,Sachi,Amma,9b,Oliana,Sport Route
+2015-02-03,Serenata,Michael,Adams,8C,Maltby,Boulder Problem
+2015-02-04,Big Paw,Giuliano,Cameroni,8B+,Chironico,Boulder Problem
+2015-02-04,Underclass Poem,Pirmin,Bertle,8C,Cousimbert,Traverse
+2015-02-05,The Big Island,Griffin,Whiteside,8C,Fontainebleau,Boulder Problem
+2015-02-07,Ice Storm,Bernhard,Schwaiger,8C,Großarltal,Boulder Problem
+2015-02-08,Wintertime Love,Pirmin,Bertle,8C,Cousimbert,Traverse
+2015-02-09,From Dirt Grows the Flowers (original version),Kilian,Fischhuber,Unknown,Chironico,Boulder Problem
+2015-02-11,Byaku-dou / The Road to the Heaven (白道),Motochika,Nagao,8C,Horai,Boulder Problem
+2015-02-12,Insanity of Grandeur,Kilian,Fischhuber,Unknown,Chironico,Boulder Problem
+2015-02-20,Desperanza,Sam,Davis,8B+,Hueco Tanks,Boulder Problem
+2015-02-21,La Force du Destin,Nalle,Hukkataival,8C,Fontainebleau,Boulder Problem
+2015-02-24,Jour de Chasse,Edward,Feehally,8B+,Fontainebleau,Boulder Problem
+2015-03-04,Big Paw,Jan,Hojer,8B+,Chironico,Boulder Problem
+2015-03-04,L'Alchimiste (right version),Nalle,Hukkataival,Unknown,Fontainebleau,Boulder Problem
+2015-03-07,El Bon Combat,Chris,Sharma,9b/9b+,La Cova de l'Ocell,Sport Route
+2015-03-08,From Dirt Grows the Flowers (original version),Jan,Hojer,8C,Chironico,Boulder Problem
+2015-03-11,The Big Island,Niccolò,Ceria,8C,Fontainebleau,Boulder Problem
+2015-03-12,Arzak,Frédéric,Nicole,8C,Murgtal,Boulder Problem
+2015-03-13,La Toupie Carnivore assis,Griffin,Whiteside,8C,Fontainebleau,Boulder Problem
+2015-03-14,Zephyr,Bernhard,Schwaiger,8C,Großarltal,Boulder Problem
+2015-03-23,Orochi (オロチ),Alexander,Megos,Unknown,Kanoto,Boulder Problem
+2015-03-23,Bügeleisen,Kilian,Fischhuber,Unknown,Maltatal,Boulder Problem
+2015-03-28,Insanity of Grandeur,David,Graham,8C,Chironico,Boulder Problem
+2015-03-31,La Grosse Tarlouze,Michael,Piccolruaz,8C,Magic Wood,Boulder Problem
+2015-04-05,Jour de Chasse,Niccolò,Ceria,8B+,Fontainebleau,Boulder Problem
+2015-04-07,Bügeleisen Sit Start,Jakob,Schubert,8C,Maltatal,Boulder Problem
+2015-04-07,Bügeleisen,Jakob,Schubert,8B+,Maltatal,Boulder Problem
+2015-04-10,Eternal (エターナル),Kazuma,Watanabe,8C,Hinokage,Boulder Problem
+2015-04-18,Mystic Stylez,David,Graham,8B+,Magic Wood,Boulder Problem
+2015-04-18,Orochi (オロチ),Toshi,Takeuchi,8C,Kanoto,Boulder Problem
+2015-04-19,Misti,Rubén,Díaz Torres,8C,Fontainebleau,Traverse
+2015-04-22,Drop a Line,Pirmin,Bertle,8C+,Cousimbert,Traverse
+2015-04-25,Mystic Stylez,Samuel,Ometz,8B+,Magic Wood,Boulder Problem
+2015-05-01,Cthulhu,Ignacio,Sánchez González,8C,Arnao,Boulder Problem
+2015-05-08,Horizon (ホライゾン),Dai,Koyamada,8C,Mt. Hiei,Boulder Problem
+2015-05-17,Jumbo Love,Ethan,Pringle,9b,Clark Mountain,Sport Route
+2015-05-27,Chilam Balam,Sébastien,Bouin,9a+/9b,Villanueva del Rosario,Sport Route
+2015-05-29,Ill Trill,Nalle,Hukkataival,8C,Magic Wood,Boulder Problem
+2015-06-01,Ill Trill,Gabriele,Moroni,8B+,Magic Wood,Boulder Problem
+2015-06-02,White Noise,Adam,Ondra,8B+,Wild Basin,Boulder Problem
+2015-06-05,Believe in Two,Nalle,Hukkataival,8B+,Magic Wood,Boulder Problem
+2015-06-18,Noise vs Beauty,Daniel,Woods,8C,Rocklands,Boulder Problem
+2015-06-27,Monkey Wedding,Ignacio,Sánchez González,8C,Rocklands,Boulder Problem
+2015-07-01,Kikela,Isaac,Montes,8C,Teverga,Boulder Problem
+2015-07-06,Livin' Large,James,Webb,8C,Rocklands,Boulder Problem
+2015-07-12,Spray of Light,Daniel,Woods,8C,Rocklands,Boulder Problem
+2015-07-13,Gepresster Hase,Baptiste,Ometz,8B+,Sustenpass,Boulder Problem
+2015-08-02,Mystic Stylez,Alexey,Rubtsov,8B+,Magic Wood,Boulder Problem
+2015-08-09,Noise vs Beauty,Nalle,Hukkataival,8C,Rocklands,Boulder Problem
+2015-08-10,Ill Trill,Alexey,Rubtsov,8B+,Magic Wood,Boulder Problem
+2015-08-12,Mystic Stylez,Vadim,Timonov,8B+,Magic Wood,Boulder Problem
+2015-08-15,Practice of the Wild,Toshi,Takeuchi,8C,Magic Wood,Boulder Problem
+2015-08-29,Spray of Light,David,Graham,8C,Rocklands,Boulder Problem
+2015-08-31,Nussknacker Sit,Christof,Rauch,8C,Zillertal,Boulder Problem
+2015-09-21,The Stepping Stone,Nalle,Hukkataival,8C,Grampians,Boulder Problem
+2015-09-22,Paint it Black,Toru,Nakajima,8C,Rocky Mountain National Park,Boulder Problem
+2015-09-27,Quoi de Neuf,Sébastien,Bouin,Unknown,Orsay,Traverse
+2015-10-02,Supernova,Alexander,Megos,9b,Frankenjura,Sport Route
+2015-10-03,Gepresster Hase,Gabriele,Moroni,8B+,Sustenpass,Boulder Problem
+2015-10-06,Ill Trill,Alex,Khazanov,8B+,Magic Wood,Boulder Problem
+2015-10-11,La Toupie Carnivore assis,Michael,Leweson,8B+,Fontainebleau,Boulder Problem
+2015-10-18,Asagimadara,Toshi,Takeuchi,8C,Mt. Mizugaki,Boulder Problem
+2015-10-20,Orochi (オロチ),Ryuichi,Murai,8C,Kanoto,Boulder Problem
+2015-10-27,Broadsword,Dimitri,Vogt,8B,Lindental,Traverse
+2015-11-02,C.R.S.,Adam,Ondra,9b,Mollans,Sport Route
+2015-11-02,Lapsus,Stefano,Ghisolfi,9b,Andonno,Sport Route
+2015-11-04,The Wheel of Life (direct version),Jorg,Verhoeven,8C,Grampians,Traverse
+2015-11-04,Mediomalomania,Pirmin,Bertle,8C+,Lindental,Traverse
+2015-11-06,Ill Trill,Christof,Rauch,8B+,Magic Wood,Boulder Problem
+2015-11-08,Gepresster Hase,Martin,Stráník,8B+,Sustenpass,Boulder Problem
+2015-11-14,Chilam Balam,Daniel,Andrada Jiménez,9a+/9b,Villanueva del Rosario,Sport Route
+2015-11-17,E la nave va,Dimitri,Vogt,8C,Lindental,Traverse
+2015-11-17,The Story of Two Worlds,Martin,Stráník,8C,Cresciano,Boulder Problem
+2015-11-19,Chilam Balam,Eduard,Marín García,9a+/9b,Villanueva del Rosario,Sport Route
+2015-11-19,Southern Drawl,James,Webb,8B+,Chattanooga,Boulder Problem
+2015-11-19,Meiose,Pirmin,Bertle,9b,Charmey,Sport Route
+2015-11-27,Obsesja,Łukasz,Dudek,8C,Kusięta,Boulder Problem
+2015-11-28,The Big Island,Edward,Feehally,8C,Fontainebleau,Boulder Problem
+2015-12-04,Throwback,Timmy,Fairfield,8C,Flagstaff,Boulder Problem
+2015-12-05,Massacrate,Jernej,Kruder,9a+,Celje,Traverse
+2015-12-07,Ziqqurat,Niccolò,Ceria,8C,Gaby,Boulder Problem
+2015-12-07,La Toupie Carnivore assis,Jan,Hojer,8B+,Fontainebleau,Boulder Problem
+2015-12-16,Terremer,Simon,Parton,8C,Hueco Tanks,Boulder Problem
+2015-12-20,The Matriarch,James,Webb,8C,Rocktown,Boulder Problem
+2015-12-20,Quoi de Neuf,Alban,Levier,8C,Orsay,Traverse
+2015-12-21,The Big Island,Michiel,Nieuwenhuijsen,8C,Fontainebleau,Boulder Problem
+2015-12-29,Kike,Alberto,Rocasolano Jaudenes,8B+,Teverga,Boulder Problem
+2015-12-31,First Round First Minute,Alexander,Megos,9b,Margalef,Sport Route
+2016-01-01,Shiva,Charles,Albert,8C+,Fontainebleau,Boulder Problem
+2016-01-01,Serenata,Dawid,Skoczylas,8C,Maltby,Boulder Problem
+2016-01-01,Kaizen,Alberto,Rocasolano Jaudenes,9A,Madrid,Traverse
+2016-01-02,Kikela,Alberto,Rocasolano Jaudenes,8C,Teverga,Boulder Problem
+2016-01-02,Catalán Witness the Fitness,Chris,Sharma,8C,La Cova de l'Ocell,Boulder Problem
+2016-01-09,La Planta de Shiva,Jakob,Schubert,9b,Villanueva del Rosario,Sport Route
+2016-01-10,Misti,Kevin,Lopata,8C,Fontainebleau,Traverse
+2016-01-13,La Force,Alban,Levier,9a,Orsay,Traverse
+2016-01-15,The Game,James,Webb,8C,Boulder Canyon,Boulder Problem
+2016-01-15,Le Pied à Coulisse,Guillaume,Glairon-Mondet,8C+,Fontainebleau,Boulder Problem
+2016-01-20,La Force du Destin,Alban,Levier,8B+,Fontainebleau,Boulder Problem
+2016-01-26,L'Alchimiste (right version),Alban,Levier,8C,Fontainebleau,Boulder Problem
+2016-01-29,L'Alchimiste (original version),Charles,Albert,8B+,Fontainebleau,Boulder Problem
+2016-02-01,Catalán Witness the Fitness,Ignacio,Sánchez González,8C,La Cova de l'Ocell,Boulder Problem
+2016-02-01,Off the Wagon,Luca,Rinaldi,8B+,Valle Bavona,Boulder Problem
+2016-02-01,Mikelon,Iván,Larrión,8C,Baltzola,Boulder Problem
+2016-02-03,L'Alchimiste (original version),James,Webb,8B,Fontainebleau,Boulder Problem
+2016-02-03,Jour de Chasse,Kevin,Lopata,8C,Fontainebleau,Boulder Problem
+2016-02-03,Catalán Witness the Fitness,Alberto,Rocasolano Jaudenes,8C,La Cova de l'Ocell,Boulder Problem
+2016-02-06,La Toupie Carnivore assis,James,Webb,8B+,Fontainebleau,Boulder Problem
+2016-02-06,The Big Island,James,Webb,8C,Fontainebleau,Boulder Problem
+2016-02-07,L'Alchimiste (original version),Lucas,Ménégatti,8B+,Fontainebleau,Boulder Problem
+2016-02-13,Desperanza,Jakob,Schubert,8B+,Hueco Tanks,Boulder Problem
+2016-02-15,Le Pied à Coulisse,James,Webb,8C,Fontainebleau,Boulder Problem
+2016-02-15,Le Pied à Coulisse (direct),Charles,Albert,8B+,Fontainebleau,Boulder Problem
+2016-02-19,Stoking the Fire,Adam,Ondra,9b,Santa Linya,Sport Route
+2016-02-23,Catalán Witness the Fitness,Felipe,Camargo,8C,La Cova de l'Ocell,Boulder Problem
+2016-02-24,The Cold and Smelly Breath of Death,Pirmin,Bertle,8C,Puerto Natales,Traverse
+2016-02-24,The Big Island,Jonas,Winter,8C,Fontainebleau,Boulder Problem
+2016-02-25,Satan i Helvete,Alban,Levier,8C,Fontainebleau,Boulder Problem
+2016-02-26,Misti,Markus,Jung,8C,Fontainebleau,Traverse
+2016-03-01,Entropia,Ignacio,Mulero,Unknown,Castillo de Bayuela,Boulder Problem
+2016-03-04,Uma (ユーマ),Ryuichi,Murai,8B+,Shiobara,Boulder Problem
+2016-03-16,Asagimadara,Sachi,Amma,8C,Mt. Mizugaki,Boulder Problem
+2016-03-16,Asagimadara,Adam,Ondra,8C,Mt. Mizugaki,Boulder Problem
+2016-03-16,Asagimadara,Jongwon,Chon,Unknown,Mt. Mizugaki,Boulder Problem
+2016-03-17,Babel (バベル),Ryuichi,Murai,8C,Shiobara,Boulder Problem
+2016-03-18,Meikyoushisui (明鏡止水),Dai,Koyamada,8C,Toyamagawa,Boulder Problem
+2016-03-22,Horizon (ホライゾン),Ashima,Shiraishi,8C,Mt. Hiei,Boulder Problem
+2016-03-23,Meikyoushisui (明鏡止水),Toshi,Takeuchi,8B+,Toyamagawa,Boulder Problem
+2016-03-25,Vicious Circle,Adam,Ondra,9a+/9b,Mišja Peč,Sport Route
+2016-03-25,Rokudou (六道),Dai,Koyamada,8C,Toyamagawa,Boulder Problem
+2016-03-26,S.W.A.T.,Bernhard,Schwaiger,8B+,Saalachtal,Boulder Problem
+2016-03-27,Bügeleisen,Christof,Rauch,8B+,Maltatal,Boulder Problem
+2016-03-28,Vanitas (ヴァニタス),Ryuichi,Murai,8C,Horai,Boulder Problem
+2016-03-28,Vanitas (ヴァニタス),Daisuke,Ichimiya,8C,Horai,Boulder Problem
+2016-04-13,Hydrangea (ハイドランジア),Ryuichi,Murai,8C,Shiobara,Boulder Problem
+2016-05-01,Practice of the Wild,David,MacLeod,8C,Magic Wood,Boulder Problem
+2016-05-01,Uma (ユーマ),Toshi,Takeuchi,8B+,Shiobara,Boulder Problem
+2016-05-01,Petite Sorcellerie,Jean-Pierre,Bouvier,8C,Fontainebleau,Traverse
+2016-05-06,Practice of the Wild,Gabriele,Moroni,8B+,Magic Wood,Boulder Problem
+2016-05-11,Zunami,Tamás,Zupán,8C,Saalachtal,Boulder Problem
+2016-05-26,Sleepy Rave,Alex,Barrows,8B,Grampians,Traverse
+2016-05-28,The Wheel of Life (original version),Alex,Barrows,9a,Grampians,Traverse
+2016-05-31,Airian,Alberto,Rocasolano Jaudenes,8C,Baltzola,Boulder Problem
+2016-06-03,Highlander,Martin,Keller,8C,Sustenpass,Boulder Problem
+2016-06-04,Nehanna (ネハンナ),Dai,Koyamada,8C,Gero,Boulder Problem
+2016-06-17,Hypnotized Minds,Rustam,Gelmanov,Unknown,Rocky Mountain National Park,Boulder Problem
+2016-06-20,Mystic Stylez,Nathan,Phillips,8B+,Magic Wood,Boulder Problem
+2016-06-25,Delirium,David,Graham,8C,Mt. Evans,Boulder Problem
+2016-07-01,Spray of Light,Shawn,Raboutou,Unknown,Rocklands,Boulder Problem
+2016-07-01,Monkey Wedding,Shawn,Raboutou,Unknown,Rocklands,Boulder Problem
+2016-07-04,The Dragon's Guardian,Paul,Robinson,8C,Three Corners,Boulder Problem
+2016-07-14,The Dragon's Guardian,Nalle,Hukkataival,Unknown,Three Corners,Boulder Problem
+2016-07-24,Monkey Wedding,Nalle,Hukkataival,8C,Rocklands,Boulder Problem
+2016-07-24,Monkey Wedding,Vadim,Timonov,8C,Rocklands,Boulder Problem
+2016-08-01,Spray of Light,Toshi,Takeuchi,8C,Rocklands,Boulder Problem
+2016-08-04,Sleepy Rave,Ashima,Shiraishi,8C,Grampians,Traverse
+2016-08-05,Monkey Wedding,David,Graham,8C,Rocklands,Boulder Problem
+2016-08-15,Fightclub,Alexander,Megos,9b,Canmore,Sport Route
+2016-08-18,In the Depths of Solitude,Nalle,Hukkataival,8B+,Three Corners,Boulder Problem
+2016-08-29,The Wheel Of Wolvo,Matthew,Fultz,8B+,Mt. Evans,Boulder Problem
+2016-09-15,Alasha,Chris,Sharma,Unknown,Mallorca,Sport Route
+2016-09-17,Spray of Light,Ryuichi,Murai,8C,Rocklands,Boulder Problem
+2016-09-18,Warrior Up,Griffin,Whiteside,8C,Mt. Evans,Boulder Problem
+2016-09-28,Creature from the Black Lagoon,Daniel,Woods,8C+,Rocky Mountain National Park,Boulder Problem
+2016-10-01,Bügeleisen,Martin,Stráník,8B+,Maltatal,Boulder Problem
+2016-10-01,Chakijana,Frédéric,Nicole,8C,Rocklands,Boulder Problem
+2016-10-01,Practice of the Wild,Baptiste,Ometz,8B+,Magic Wood,Boulder Problem
+2016-10-05,Robin úd,Adam,Ondra,9b,Alternatívna stena,Sport Route
+2016-10-11,MinerBuster,Toshi,Takeuchi,8C,Mt. Mizugaki,Boulder Problem
+2016-10-12,Topaz,David,Graham,8C,Wild Basin,Boulder Problem
+2016-10-13,Topaz,Daniel,Woods,8C,Wild Basin,Boulder Problem
+2016-10-15,Asagimadara,Ryuichi,Murai,8C,Mt. Mizugaki,Boulder Problem
+2016-10-20,White Noise,Carlo,Traversi,8B+,Wild Basin,Boulder Problem
+2016-10-22,Ill Trill,Martin,Stráník,8B+,Magic Wood,Boulder Problem
+2016-10-23,Topaz,Paul,Robinson,8C,Wild Basin,Boulder Problem
+2016-10-23,Burden of Dreams,Nalle,Hukkataival,9A,Lappnor,Boulder Problem
+2016-10-25,Creature from the Black Lagoon,David,Graham,8C+,Rocky Mountain National Park,Boulder Problem
+2016-10-27,Insanity of Grandeur,Christof,Rauch,8B+,Chironico,Boulder Problem
+2016-10-27,Mystic Stylez,Martin,Stráník,8B+,Magic Wood,Boulder Problem
+2016-10-28,The Mystical Patatohead´s Direct Edge,Alexander,Feichter,8C,Gais,Boulder Problem
+2016-10-30,Jour de Chasse,James,Noble,8B+,Fontainebleau,Boulder Problem
+2016-11-01,Es Pontas,Jernej,Kruder,9b,Mallorca,Sport Route
+2016-11-11,La teoría del todo,Alberto,Rocasolano Jaudenes,8C+,Albarracín,Boulder Problem
+2016-11-11,Eternal Sunshine,Jongwon,Chon,8C,Mudeungsan National Park,Boulder Problem
+2016-11-23,Mystic Stylez,Sean,McColl,8B+,Magic Wood,Boulder Problem
+2016-11-26,Babylon,Toshi,Takeuchi,8C,Toyota,Boulder Problem
+2016-11-29,La Colombe,David,Graham,8C,Vernayaz,Boulder Problem
+2016-12-01,Misti,Iván,Larrión,8A+,Fontainebleau,Traverse
+2016-12-01,Eskerrik Asko,Markel,Mendieta Uribarren,8C,Araotz,Boulder Problem
+2016-12-01,Trave de arroita (sin pegado)/La travesía de Baltzola sin pegado,Iker,Pou,9a+,Baltzola,Traverse
+2016-12-01,Crisis por Insomnio,Alberto,Rocasolano Jaudenes,8C,Crevillente,Boulder Problem
+2016-12-03,Bügeleisen,David,Kompatscher,8B+,Maltatal,Boulder Problem
+2016-12-09,Jour de Chasse,Alban,Levier,8C,Fontainebleau,Boulder Problem
+2016-12-11,Hymn,Jongwon,Chon,8C,Mudeungsan National Park,Boulder Problem
+2016-12-15,Kintsugi,James,Webb,8C,Red Rock,Boulder Problem
+2016-12-24,Catalán Witness the Fitness,Martin,Stráník,8C,La Cova de l'Ocell,Boulder Problem
+2016-12-24,Paint it Black,Nicholas,Milburn,8C,Rocky Mountain National Park,Boulder Problem
+2016-12-26,Soyuz (low start),César,Quero,8C,Madrid,Boulder Problem
+2016-12-30,Sound of Silence,Bernhard,Schwaiger,8C,Saalachtal,Boulder Problem
+2016-12-31,Jour de Chasse,Giuliano,Cameroni,8B,Fontainebleau,Boulder Problem
+2017-01-01,Crisis,Alberto,Rocasolano Jaudenes,8C+,Crevillente,Boulder Problem
+2017-01-01,Le Boa,Fabian,Buhl,8C,Unknown (Switzerland),Boulder Problem
+2017-01-02,Crisis,Jonatan,Flor Vazquez,8C+,Crevillente,Boulder Problem
+2017-01-07,Délire Onirique (assis),Charles,Albert,8C,Fontainebleau,Boulder Problem
+2017-01-09,From Dirt Grows the Flowers (original version),Alexey,Rubtsov,8C,Chironico,Boulder Problem
+2017-01-13,Horizon (ホライゾン),Daisuke,Ichimiya,8C,Mt. Hiei,Boulder Problem
+2017-01-23,Insanity of Grandeur,Giuliano,Cameroni,8B+,Chironico,Boulder Problem
+2017-01-30,First Round First Minute,Stefano,Ghisolfi,9b,Margalef,Sport Route
+2017-02-01,La teoría del todo,Rubén,Díaz Torres,8C,Albarracín,Boulder Problem
+2017-02-07,Der mit dem Fels tanzt,Giuliano,Cameroni,8C,Chironico,Boulder Problem
+2017-02-08,Mamichula,Adam,Ondra,9b,Oliana,Sport Route
+2017-02-18,Jour de Chasse,Pascal,Gagneux,Unknown,Fontainebleau,Boulder Problem
+2017-02-19,Lucid Dreaming,Toru,Nakajima,8C,Bishop,Boulder Problem
+2017-02-19,Kuzan,Toshi,Takeuchi,8C,Mie,Boulder Problem
+2017-02-28,Big Paw,Edward,Feehally,8B+,Chironico,Boulder Problem
+2017-03-01,Netsuke,Frédéric,Nicole,8C,Murgtal,Boulder Problem
+2017-03-03,Kintsugi,Nils,Favre,8C,Red Rock,Boulder Problem
+2017-03-07,Catalán Witness the Fitness,Jernej,Kruder,8C,La Cova de l'Ocell,Boulder Problem
+2017-03-16,Jour de Chasse,Nalle,Hukkataival,8C,Fontainebleau,Boulder Problem
+2017-03-22,Lithium,David,MacLeod,8B+,Arisaig,Boulder Problem
+2017-03-29,Epitaph (エピタフ),Ryuichi,Murai,8C,Horai,Boulder Problem
+2017-04-01,Bordello,Michael,Adams,8C,Conisbrough,Boulder Problem
+2017-04-01,Serenation,Michael,Adams,8C,Maltby,Boulder Problem
+2017-04-01,Bélial,Charles,Albert,8C,Fontainebleau,Boulder Problem
+2017-04-04,Nayuta (那由多),Dai,Koyamada,8C+,Gero,Boulder Problem
+2017-04-13,Bordello,Edward,Feehally,Unknown,Conisbrough,Boulder Problem
+2017-04-15,Practice of the Wild,David,Firnenburg,8B+,Magic Wood,Boulder Problem
+2017-04-16,Ill Trill,David,Graham,8B+,Magic Wood,Boulder Problem
+2017-04-18,Ill Trill,James,Webb,8B+,Magic Wood,Boulder Problem
+2017-04-18,Queen Line,Adam,Ondra,9b,Arco,Sport Route
+2017-04-20,Lapsus,Adam,Ondra,9b,Andonno,Sport Route
+2017-04-23,Bordello,James,Noble,8B+,Conisbrough,Boulder Problem
+2017-04-24,Kryptos,Kevin,Heiniger,8C,Basler Jura,Boulder Problem
+2017-04-28,Off the Wagon,Giuliano,Cameroni,8B+,Valle Bavona,Boulder Problem
+2017-04-30,One Punch,Stefano,Ghisolfi,9a+,Arco,Sport Route
+2017-05-01,Metropolis,Michael,Duffy,Unknown,Lough Tay,Boulder Problem
+2017-05-06,Power of Silence,Bernhard,Schwaiger,8C,Saalachtal,Boulder Problem
+2017-05-07,Jour de Chasse,Luis,Gerhardt,8B+,Fontainebleau,Boulder Problem
+2017-05-14,Iron Knuckles,Christof,Rauch,8C,Kärnten,Boulder Problem
+2017-05-21,Styrian Delirium,Christof,Rauch,8C,Weststeiermark,Boulder Problem
+2017-05-25,Carinthian Dreams,Christof,Rauch,8C,Kärnten,Boulder Problem
+2017-06-04,Rainman,Steve,McClure,9b,Malham Cove,Sport Route
+2017-06-11,The Wheel Of Wolvo,Griffin,Whiteside,8C,Mt. Evans,Boulder Problem
+2017-06-12,Monkey Wedding,Charles,Albert,8C,Rocklands,Boulder Problem
+2017-06-15,Mystic Stylez,Tamás,Zupán,8B+,Magic Wood,Boulder Problem
+2017-06-18,Delirium,Griffin,Whiteside,8C,Mt. Evans,Boulder Problem
+2017-06-24,Kráter,Adam,Ondra,8C,Holštejn,Boulder Problem
+2017-06-27,Hyper Ballad,Akira,Waku,8B+,Shiobara,Boulder Problem
+2017-06-27,The Finnish Line,Nalle,Hukkataival,8C+,Rocklands,Boulder Problem
+2017-07-01,Trafic (en retour-aller),Jean-Pierre,Bouvier,9A,Fontainebleau,Traverse
+2017-07-01,Parálisis Espástica,César,Quero,8C,Navalosa,Boulder Problem
+2017-07-04,In Search of Time Lost,Ryuichi,Murai,8C,Magic Wood,Boulder Problem
+2017-07-04,Ill Trill,Ryuichi,Murai,8B+,Magic Wood,Boulder Problem
+2017-07-06,Monkey Wedding,Alex,Khazanov,8C,Rocklands,Boulder Problem
+2017-07-07,Noise vs Beauty,Paul,Robinson,8B+,Rocklands,Boulder Problem
+2017-07-08,Silák Panoramix,Martin,Stráník,8C,Sloup,Boulder Problem
+2017-07-09,Triangular Face,Vadim,Timonov,8C,Triangular Lake,Boulder Problem
+2017-07-09,Practice of the Wild,Ryuichi,Murai,8C,Magic Wood,Boulder Problem
+2017-07-10,Move Hard,Adam,Ondra,9b,Flatanger,Sport Route
+2017-07-10,Monkey Wedding,Alexander,Megos,Unknown,Rocklands,Boulder Problem
+2017-07-22,The Finnish Line,Alexander,Megos,Unknown,Rocklands,Boulder Problem
+2017-08-01,The Dragon's Guardian,David,Graham,8B+,Three Corners,Boulder Problem
+2017-08-01,Hazel Grace,Giuliano,Cameroni,8C,Gottardo,Boulder Problem
+2017-08-09,Khoikhoi,Shawn,Raboutou,8C,Weighbridge,Boulder Problem
+2017-08-09,Khoikhoi,Nalle,Hukkataival,8C,Weighbridge,Boulder Problem
+2017-08-20,Creature from the Black Lagoon,James,Webb,8C+,Rocky Mountain National Park,Boulder Problem
+2017-08-21,Monkey Wedding,Toby,Saxton,8C,Rocklands,Boulder Problem
+2017-08-25,Red Bottom Sky,David,Graham,8C,Rocklands,Boulder Problem
+2017-08-29,Ill Trill,Jongwon,Chon,8B+,Magic Wood,Boulder Problem
+2017-09-01,Eterno Legado,Alberto,Rocasolano Jaudenes,8C,Hoya Moros,Boulder Problem
+2017-09-01,Trinity,Alberto,Rocasolano Jaudenes,8C,Madrid,Boulder Problem
+2017-09-03,Silence,Adam,Ondra,9c,Flatanger,Sport Route
+2017-09-08,Shantaram,Niccolò,Ceria,Unknown,Osen,Boulder Problem
+2017-09-08,Ballad Direct (バラッドダイレクト),Akira,Waku,8C,Shiobara,Boulder Problem
+2017-09-08,Shantaram,Martin,Mobråten,8B+,Osen,Boulder Problem
+2017-09-09,Practice of the Wild,Alex,Khazanov,8C,Magic Wood,Boulder Problem
+2017-09-11,Gepresster Hase,David,Graham,8B+,Sustenpass,Boulder Problem
+2017-09-15,Creature from the Black Lagoon,Daisuke,Ichimiya,8C+,Rocky Mountain National Park,Boulder Problem
+2017-09-19,The Finnish Line,Toby,Saxton,8C+,Rocklands,Boulder Problem
+2017-09-21,The Singularity,Nalle,Hukkataival,8C,Squamish,Boulder Problem
+2017-09-26,Topaz,Sam,Weir,8C,Wild Basin,Boulder Problem
+2017-09-28,Ziqqurat,Gabriele,Moroni,8C,Gaby,Boulder Problem
+2017-09-28,Circus Elephant Syndrome,Anthony,Gullsten,8B+,Sipoo,Boulder Problem
+2017-10-01,Walden,Pirmin,Bertle,8C,Cousimbert,Boulder Problem
+2017-10-05,Triangular Face,Alexey,Rubtsov,8B+,Triangular Lake,Boulder Problem
+2017-10-08,Drift,Adam,Ondra,8C,Holštejn,Boulder Problem
+2017-10-10,El Indomable,Alberto,Rocasolano Jaudenes,8C+,Tamajón,Boulder Problem
+2017-10-11,The Outer Limits,James,Webb,8C,Lake Tahoe,Boulder Problem
+2017-10-13,Vrtule,Adam,Ondra,8C+,Holštejn,Boulder Problem
+2017-10-20,Sleepy Rave,Thomas,O'Halloran,Unknown,Grampians,Traverse
+2017-10-20,The Wheel of Life (original version),Thomas,O'Halloran,8B+,Grampians,Traverse
+2017-10-22,La Planta de Shiva,Angela,Eiter,9b,Villanueva del Rosario,Sport Route
+2017-10-23,Jour de Chasse,Lucien,Martinez,8A+,Fontainebleau,Boulder Problem
+2017-10-23,The Big Island,Taylor,McNeill,8C,Fontainebleau,Boulder Problem
+2017-10-26,Whiplash,Alexey,Rubtsov,8C,Lietlahti Park,Boulder Problem
+2017-10-27,Salamandre,Baptiste,Dherbilly,Unknown,Saint-Pierre en Faucigny,Sport Route
+2017-10-27,Dark Matter,Christof,Rauch,8B+,Magic Wood,Boulder Problem
+2017-10-28,Bügeleisen,Paul,Robinson,8B+,Maltatal,Boulder Problem
+2017-10-31,Yocuto (ヨクト),Dai,Koyamada,8C,Gero,Boulder Problem
+2017-11-01,Quoi de Neuf,Jan,Hojer,8C,Orsay,Traverse
+2017-11-03,Jour de Chasse,Ryohei,Kameyama,8C,Fontainebleau,Boulder Problem
+2017-11-04,Zunami,Christof,Rauch,8C,Saalachtal,Boulder Problem
+2017-11-04,Sound of Silence,Christof,Rauch,8B+,Saalachtal,Boulder Problem
+2017-11-06,The Big Island,Ryohei,Kameyama,8C,Fontainebleau,Boulder Problem
+2017-11-07,Le Pied à Coulisse (direct),Nalle,Hukkataival,8B+,Fontainebleau,Boulder Problem
+2017-11-07,Kaizen,Jorge,Díaz-Rullo,8C,Madrid,Traverse
+2017-11-08,La Révolutionnaire,Charles,Albert,8C+,Fontainebleau,Boulder Problem
+2017-11-13,One Slap,Adam,Ondra,9b,Arco,Sport Route
+2017-11-13,Eternity,Alberto,Rocasolano Jaudenes,8C,Madrid,Boulder Problem
+2017-11-13,One Punch,Adam,Ondra,9a+/9b,Arco,Sport Route
+2017-11-22,One Slap,Stefano,Ghisolfi,9b,Arco,Sport Route
+2017-11-23,Papa Oso,Alberto,Rocasolano Jaudenes,8C,Torrelodones,Boulder Problem
+2017-11-27,Bügeleisen,Florian,Schmalzl,8B+,Maltatal,Boulder Problem
+2017-11-27,Emotional Landscapes,Florian,Schmalzl,8C,Maltatal,Boulder Problem
+2017-12-01,La Cène du lézard,Pirmin,Bertle,9a+,Jansegg,Sport Route
+2017-12-01,El Elegido,Alberto,Rocasolano Jaudenes,8C,La Pedriza,Boulder Problem
+2017-12-02,Babylon,Ryuichi,Murai,8B,Toyota,Boulder Problem
+2017-12-03,Babylon,Nomura,Shinichiro,8C,Toyota,Boulder Problem
+2017-12-03,Dreamcatcher,Martin,Stráník,8B+,Petrohrad,Boulder Problem
+2017-12-10,Bügeleisen,Zan,Lovenjak Sudar,8B+,Maltatal,Boulder Problem
+2017-12-10,The Nest,Facundo,Langbehn,8C,Red Rock,Boulder Problem
+2017-12-12,Jour de Chasse,Nicolas,Pelorson,8B,Fontainebleau,Boulder Problem
+2017-12-14,Shanbara (シャンバラ),Nomura,Shinichiro,8C,Toyota,Boulder Problem
+2017-12-16,Big Paw,David,Firnenburg,8B+,Chironico,Boulder Problem
+2017-12-30,Babylon,Ryohei,Kameyama,8B+,Toyota,Boulder Problem
+2017-12-30,Uma (ユーマ),Makoto,Yamauchi,8B+,Shiobara,Boulder Problem
+2018-01-01,Gekirin (逆鱗),Dai,Koyamada,8C,Ryutosen,Boulder Problem
+2018-01-03,The Story of Two Worlds,Alex,Khazanov,8C,Cresciano,Boulder Problem
+2018-01-05,Stoking the Fire,Jakob,Schubert,9b,Santa Linya,Sport Route
+2018-01-10,Netsuke,Alfons,Dornauer,8B,Murgtal,Boulder Problem
+2018-01-11,The Last Jedi,Tamás,Zupán,8C,Remeteszőlős,Boulder Problem
+2018-01-12,La Capella,Stefano,Ghisolfi,9b,Siurana,Sport Route
+2018-01-13,Catalán Witness the Fitness,Jakob,Schubert,8B+,La Cova de l'Ocell,Boulder Problem
+2018-01-13,Netsuke,David,von Allmen,8B+,Murgtal,Boulder Problem
+2018-01-25,The Nest,Keenan,Takahashi,8C,Red Rock,Boulder Problem
+2018-01-25,Arobayo,Dai,Koyamada,8C,Yakushima,Boulder Problem
+2018-01-27,Meiose,Adam,Ondra,9a+,Charmey,Sport Route
+2018-01-28,The Story of Two Worlds,Christof,Rauch,8C,Cresciano,Boulder Problem
+2018-01-28,The Story of Two Worlds,Paweł,Jelonek,8C,Cresciano,Boulder Problem
+2018-01-30,Arzak,Toby,Saxton,8C,Murgtal,Boulder Problem
+2018-01-30,The Story of Two Worlds,Sebastian,Cotting,8B+,Cresciano,Boulder Problem
+2018-01-31,El Indomable,Ignacio,Sánchez González,8C,Tamajón,Boulder Problem
+2018-02-01,The Nest,Ethan,Pringle,Unknown,Red Rock,Boulder Problem
+2018-02-03,Catalán Witness the Fitness,David,MacLeod,8B+,La Cova de l'Ocell,Boulder Problem
+2018-02-12,The Expanse,Matthew,Fultz,8B+,Joe's Valley,Boulder Problem
+2018-02-13,Eagle-4,Adam,Ondra,9b,St. Léger,Sport Route
+2018-02-17,No Additives Sit-Start (Post Break),Griffin,Whiteside,8C,Joe's Valley,Boulder Problem
+2018-02-17,Orochi (オロチ),Nomura,Shinichiro,8C,Kanoto,Boulder Problem
+2018-02-23,The Big Island,Giuliano,Cameroni,8C,Fontainebleau,Boulder Problem
+2018-02-23,Der mit dem Fels tanzt,Martin,Stráník,8C,Chironico,Boulder Problem
+2018-02-25,La Capella,Daniel,Woods,9b,Siurana,Sport Route
+2018-03-01,Netsuke,Guntram,Jörg,8B+,Murgtal,Boulder Problem
+2018-03-02,Malédiction assis,Clément,Lechaptois,8C,Rioupéroux,Boulder Problem
+2018-03-04,Netsuke,Patrick,Vonbrül,8B+,Murgtal,Boulder Problem
+2018-03-04,Hipoxia,Alberto,Rocasolano Jaudenes,8C,Navalosa,Boulder Problem
+2018-03-05,Netsuke,Toby,Saxton,8B+,Murgtal,Boulder Problem
+2018-03-08,La Force du Destin,Anthony,Gullsten,8B+,Fontainebleau,Boulder Problem
+2018-03-11,Gekirin (逆鱗),Daisuke,Ichimiya,8C,Ryutosen,Boulder Problem
+2018-03-13,Paint it Black,Griffin,Whiteside,8C,Rocky Mountain National Park,Boulder Problem
+2018-03-19,The Big Island,Anthony,Gullsten,8C,Fontainebleau,Boulder Problem
+2018-03-21,Quoi de Neuf,Jonas,Winter,8C,Orsay,Traverse
+2018-03-24,Bügeleisen,David,Fitzgerald,8B+,Maltatal,Boulder Problem
+2018-03-25,Soul Mate,Sachi,Amma,9b,Gozen Rock,Sport Route
+2018-03-31,The Expanse,James,Webb,8B+,Joe's Valley,Boulder Problem
+2018-04-03,Les yeux plus gros que l’antre,Sébastien,Bouin,9a+/9b,Russan,Sport Route
+2018-04-05,Big Paw,David,Fitzgerald,8C,Chironico,Boulder Problem
+2018-04-06,Frozen Water,Alexander,Feichter,8C,Gais,Boulder Problem
+2018-04-12,Topaz,Griffin,Whiteside,8C,Wild Basin,Boulder Problem
+2018-04-15,White Noise,Griffin,Whiteside,8C,Wild Basin,Boulder Problem
+2018-04-21,Sierra Madre,Florian,Schmalzl,Unknown,Zillertal,Boulder Problem
+2018-04-22,Mystic Stylez,Nalle,Hukkataival,8B+,Magic Wood,Boulder Problem
+2018-05-01,Babel (バベル),Akira,Waku,8C,Shiobara,Boulder Problem
+2018-05-02,Fight or Flight,Matty,Hong,9b,Oliana,Sport Route
+2018-05-07,Uma (ユーマ),Akira,Waku,8B+,Shiobara,Boulder Problem
+2018-05-07,Babel (バベル),Jun,Shibanuma,8C,Shiobara,Boulder Problem
+2018-05-07,Uma (ユーマ),Jun,Shibanuma,8B+,Shiobara,Boulder Problem
+2018-05-09,Believe in Two,Tamás,Zupán,8B+,Magic Wood,Boulder Problem
+2018-05-09,Perfecto Mundo,Alexander,Megos,9b+,Margalef,Sport Route
+2018-05-12,Ill Trill,Toby,Saxton,8B+,Magic Wood,Boulder Problem
+2018-05-14,Kryptos,Katrin,Lehmann,8C,Basler Jura,Boulder Problem
+2018-05-17,Jumbo Love,Jonathan,Siegrist,9b,Clark Mountain,Sport Route
+2018-05-20,The Ice Knife,Sam,Weir,8C,Guanella Pass,Boulder Problem
+2018-05-24,Hydrangea (ハイドランジア),Nomura,Shinichiro,8C,Shiobara,Boulder Problem
+2018-05-24,Babel (バベル),Nomura,Shinichiro,8C,Shiobara,Boulder Problem
+2018-05-24,Uma (ユーマ),Nomura,Shinichiro,8B+,Shiobara,Boulder Problem
+2018-05-25,Warrior Up,Keenan,Takahashi,8B+,Mt. Evans,Boulder Problem
+2018-05-26,Warrior Up,Sam,Weir,8B+,Mt. Evans,Boulder Problem
+2018-05-27,Warrior Up,Fanny,Dong,8B+,Mt. Evans,Boulder Problem
+2018-05-29,Sierra Madre,Alfons,Dornauer,8C,Zillertal,Boulder Problem
+2018-05-31,Viva la Evolution,Christof,Rauch,8B+,Flirsch,Boulder Problem
+2018-06-02,Uma (ユーマ),Rei,Kawamata,8B+,Shiobara,Boulder Problem
+2018-06-16,Ill Trill,Tamás,Zupán,8B+,Magic Wood,Boulder Problem
+2018-06-22,The Finnish Line,Shawn,Raboutou,8C,Rocklands,Boulder Problem
+2018-06-22,Tekuté Štěstí,Martin,Stráník,8C,Holštejn,Boulder Problem
+2018-06-24,Ill Trill,Michiel,Nieuwenhuijsen,8B+,Magic Wood,Boulder Problem
+2018-06-24,Tekuté Štěstí,Adam,Ondra,8C,Holštejn,Boulder Problem
+2018-06-26,Spray of Light,Martin,Mobråten,Unknown,Rocklands,Boulder Problem
+2018-06-28,The Finnish Line,Daniel,Woods,8C,Rocklands,Boulder Problem
+2018-06-28,Mystic Stylez,Michiel,Nieuwenhuijsen,8B+,Magic Wood,Boulder Problem
+2018-06-29,Daedalus Direct,Christof,Rauch,8B+,Sustenpass,Boulder Problem
+2018-06-30,Highlander,Christof,Rauch,8C,Sustenpass,Boulder Problem
+2018-07-10,Warrior Up,Matthew,Fultz,8B+,Mt. Evans,Boulder Problem
+2018-07-11,Noise vs Beauty,David,Graham,8C,Rocklands,Boulder Problem
+2018-07-13,Spray of Light,Thilo,Schröter,8C,Rocklands,Boulder Problem
+2018-07-14,The Smile,Giuliano,Cameroni,8C,Rocklands,Boulder Problem
+2018-07-16,The Pirate's Code,Paul,Robinson,8C,Three Corners,Boulder Problem
+2018-07-20,Disbelief,Adam,Ondra,9b,Canmore,Sport Route
+2018-07-20,Creature from the Black Lagoon,Griffin,Whiteside,8C+,Rocky Mountain National Park,Boulder Problem
+2018-08-01,Monkey Wedding,Aidan,Roberts,8C,Rocklands,Boulder Problem
+2018-08-02,The Pirate's Code,Daniel,Woods,8C,Three Corners,Boulder Problem
+2018-08-03,Black Eagle SD,David,Graham,8C,Rocklands,Boulder Problem
+2018-08-06,The Finnish Line,Daisuke,Ichimiya,8C,Rocklands,Boulder Problem
+2018-08-09,Highlander,Gabriele,Moroni,8B+,Sustenpass,Boulder Problem
+2018-08-13,Monkey Wedding,Toshi,Takeuchi,8C,Rocklands,Boulder Problem
+2018-08-17,Black Eagle SD,Daniel,Woods,8C,Rocklands,Boulder Problem
+2018-08-18,Black Eagle SD,Giuliano,Cameroni,8C,Rocklands,Boulder Problem
+2018-08-20,Parzival,David,Graham,8C,Rocklands,Boulder Problem
+2018-08-22,Netsuke,Erik,Bäcklin,8B+,Murgtal,Boulder Problem
+2018-08-26,La Barrière,Pirmin,Bertle,9b,Jansegg,Sport Route
+2018-08-27,The World is Yours,James,Squire,8C,Biblins Cave,Boulder Problem
+2018-08-30,Spray of Light,Kim,Marschner,8C,Rocklands,Boulder Problem
+2018-09-01,Hazel Grace,David,Graham,8C,Gottardo,Boulder Problem
+2018-09-03,Noise vs Beauty,Moritz,Perwitzschky,8C,Rocklands,Boulder Problem
+2018-09-05,Mystic Stylez,Gabriele,Moroni,8B+,Magic Wood,Boulder Problem
+2018-09-08,Hazel Grace,Nalle,Hukkataival,8C,Gottardo,Boulder Problem
+2018-09-08,Highlander,Lorenzo,Puri,8B+,Sustenpass,Boulder Problem
+2018-09-19,La teoría del todo,Jonatan,Flor Vazquez,8B+,Albarracín,Boulder Problem
+2018-09-19,Indartsu,Jesús,Muñoz Chuchi,8C,Hoya Moros,Boulder Problem
+2018-09-22,Hazel Grace,Gabriele,Moroni,8B+,Gottardo,Boulder Problem
+2018-09-24,The Ice Knife,Keenan,Takahashi,8B+,Guanella Pass,Boulder Problem
+2018-09-26,Metafizika,Jernej,Kruder,8C,Jurklošter,Boulder Problem
+2018-09-27,Delirium,Paul,Robinson,8C,Mt. Evans,Boulder Problem
+2018-09-27,Practice of the Wild,William,Bosi,8C,Magic Wood,Boulder Problem
+2018-09-27,Creature from the Black Lagoon,Shawn,Raboutou,8C+,Rocky Mountain National Park,Boulder Problem
+2018-09-29,Believe in Two,Vadim,Timonov,8B+,Magic Wood,Boulder Problem
+2018-10-01,Practice of the Wild,Vadim,Timonov,8B+,Magic Wood,Boulder Problem
+2018-10-03,Ill Trill,Vadim,Timonov,8B+,Magic Wood,Boulder Problem
+2018-10-04,La Rustica,Nalle,Hukkataival,8C,Valle Bavona,Boulder Problem
+2018-10-05,Es Pontas,Jan,Hojer,9b,Mallorca,Sport Route
+2018-10-07,The Understanding,Vadim,Timonov,8C,Magic Wood,Boulder Problem
+2018-10-10,La Cène du lézard,Cédric,Lachat,9a+,Jansegg,Sport Route
+2018-10-12,Ill Trill,Giuliano,Cameroni,8B+,Magic Wood,Boulder Problem
+2018-10-29,Box Therapy,Daniel,Woods,8C+,Rocky Mountain National Park,Boulder Problem
+2018-10-29,La Force du Destin,Giuliano,Cameroni,8B+,Fontainebleau,Boulder Problem
+2018-11-02,Netsuke,Stefan,Bednar,8A+,Murgtal,Boulder Problem
+2018-11-08,Kryptos,Elias,Iagnemma,8C,Basler Jura,Boulder Problem
+2018-11-09,Dust Devil,Christof,Rauch,8B+,Saalachtal,Boulder Problem
+2018-11-14,Happy Idiot,Christof,Rauch,8C,Zillertal,Boulder Problem
+2018-11-18,Ill Trill,Stefan,Bednar,8B+,Magic Wood,Boulder Problem
+2018-11-19,Foundation's Edge,Shawn,Raboutou,8C,Fionnay,Boulder Problem
+2018-11-20,Sierra Madre,Jakob,Schubert,8C,Zillertal,Boulder Problem
+2018-11-27,Off the Wagon Low,Shawn,Raboutou,8C+,Valle Bavona,Boulder Problem
+2018-11-29,Boulder Blaster,Pol,Roca Lopez,8C,La Comarca,Boulder Problem
+2018-12-01,El Bon Combat,Jakob,Schubert,9a+,La Cova de l'Ocell,Sport Route
+2018-12-01,Hypothèse assis,Charles,Albert,8C+,Fontainebleau,Boulder Problem
+2018-12-06,Squoze,James,Webb,8B+,Red Rock,Boulder Problem
+2018-12-07,Perfecto Mundo,Stefano,Ghisolfi,9b+,Margalef,Sport Route
+2018-12-10,La teoría del todo,Pol,Roca Lopez,8B+,Albarracín,Boulder Problem
+2018-12-11,The Big Island,Nicolas,Pelorson,8C,Fontainebleau,Boulder Problem
+2018-12-13,Kintsugi,Keenan,Takahashi,8C,Red Rock,Boulder Problem
+2018-12-13,No Kpote Only,Charles,Albert,9A,Fontainebleau,Boulder Problem
+2018-12-15,Karoshi,Paul,Robinson,8C,Hueco Tanks,Boulder Problem
+2018-12-15,Sleepwalker,James,Webb,8C+,Red Rock,Boulder Problem
+2018-12-16,Extrasystole,Elias,Iagnemma,8C,Poggio Umbricchio,Boulder Problem
+2018-12-19,Off the Wagon,Gabriele,Moroni,8B+,Valle Bavona,Boulder Problem
+2018-12-28,Neanderthal,Jakob,Schubert,9b,Santa Linya,Sport Route
+2018-12-29,Der mit dem Fels tanzt,Christof,Rauch,8C,Chironico,Boulder Problem
+2019-01-04,Catalán Witness the Fitness,Pol,Roca Lopez,8C,La Cova de l'Ocell,Boulder Problem
+2019-01-09,Kintsugi,Ethan,Pringle,8B+,Red Rock,Boulder Problem
+2019-01-16,Sleepwalker,Daniel,Woods,8C+,Red Rock,Boulder Problem
+2019-01-16,Squoze,Daniel,Woods,8C,Red Rock,Boulder Problem
+2019-01-16,Southern Drawl,Taylor,McNeill,8C,Chattanooga,Boulder Problem
+2019-01-18,Bélial,James,Webb,8B+,Fontainebleau,Boulder Problem
+2019-01-22,La teoría del todo,Vadim,Timonov,8B+,Albarracín,Boulder Problem
+2019-01-26,From Dirt Grows the Flowers (original version),Christof,Rauch,8C,Chironico,Boulder Problem
+2019-02-01,Millenium assis,Elric,Besnier,8C,Fontainebleau,Traverse
+2019-02-01,Sleepwalker,Nalle,Hukkataival,Unknown,Red Rock,Boulder Problem
+2019-02-01,"Bokassa's Fridge - Assassin, Monkey and Man",Christof,Rauch,8C,Kochel,Boulder Problem
+2019-02-02,Poison The Well,Giuliano,Cameroni,8C+,Brione,Boulder Problem
+2019-02-12,Neanderthal,Adam,Ondra,9b,Santa Linya,Sport Route
+2019-02-12,Kuzan,Ryohei,Kameyama,8C,Mie,Boulder Problem
+2019-02-21,Kintsugi,Bryce,Viola,8B,Red Rock,Boulder Problem
+2019-03-09,REM,Giuliano,Cameroni,8C+,Cresciano,Boulder Problem
+2019-03-23,Kintsugi,Pablo,Hammock,8B,Red Rock,Boulder Problem
+2019-03-27,Quoi de Neuf,Manu,Cornu,8C,Orsay,Traverse
+2019-04-01,Quoi de Neuf,Anthony,Gullsten,8C,Orsay,Traverse
+,La Colonne du Tigre,Arnaud,Ceintre,8C,Fontainebleau,Traverse
+,Voluptueuse Fantaisie,Jean-Pierre,Bouvier,8C,Fontainebleau,Traverse
+,E la nave va,Hanspeter,Bodmer,Unknown,Lindental,Traverse
+,Le Dernier Fléau,Sébastien,Frigault,8B+,Fontainebleau,Boulder Problem
+,Sleepy Rave,Benjamin,Cossey,Unknown,Grampians,Traverse
+,Big Paw,Micky,Page,Unknown,Chironico,Boulder Problem
+,Hull Shea Nation (ハルシネーション),Dai,Koyamada,8C,Horai,Boulder Problem
+,Wrath of the Lichking,Alexander,Megos,8C,Frankenjura,Boulder Problem
+,Sword,Klem,Loskot,8C,Unknown,Boulder Problem
+,Desert Fox,Klem,Loskot,8C,Unknown,Boulder Problem
+,Tokoyo (常世),Unknown,Unknown,Unknown,Ena,Boulder Problem
+,E la nave va,Simon,Wandeler,Unknown,Lindental,Traverse
+,Hyper Ballad,Sachi,Amma,Unknown,Shiobara,Boulder Problem
+,Le Lent Silence du Moleskine,Romain,Desgranges,8B,Fionnay,Traverse
+,Le Poinçonneur des Lilas,Franz,Widmer,Unknown,Basler Jura,Boulder Problem
+,Broadsword,Frédéric,Nicole,8C,Lindental,Traverse
+,L'Intégrale de Météorite (aller-retour),Jean-Pierre,Bouvier,8B+,Fontainebleau,Traverse
+,Meikyoushisui (明鏡止水),Satoshi,Ogawa,8C,Toyamagawa,Boulder Problem
+,Uma (ユーマ),Unknown,Unknown,Unknown,Shiobara,Boulder Problem
+,Le Voyage Éternel,Robert,Girard,8C,Fontainebleau,Boulder Problem
+,Didgeridoo,Francis,Hélias,8C,Fontainebleau,Traverse
