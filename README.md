@@ -1,7 +1,7 @@
 # WHAT IS STRENGTH IN CLIMBING?
 
 ### Are climbers getting stronger or are there more strong climbers?
-
+------
 
 By David Malary 
 
