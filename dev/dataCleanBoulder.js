@@ -121,8 +121,12 @@ cragLinks('sportCragLinkData')
 // sendsBoulderData();
 // ======================================================
 
-let sendsDataUpdate = function () {
-    // data.forEach((el, i) => {
+let sendsDateUpdate = function () {
+    let datesArr = []
+
+    data.forEach((el, i) => {
+
+        el.sends.sendDates = []
 
         fs.createReadStream('data/hardClimbInfo.csv')
             .on('error', () => {
@@ -130,22 +134,63 @@ let sendsDataUpdate = function () {
             })
             .pipe(csvParser())
             .on('data', (row) => {
-                console.log(row);
-                
-                // if (el.name == row.CLIMB) {
-                //     console.log(row.CLIMB);
-                // check if last name from csv exists in data, and if does, add date in json at index of last name
-                // if doesn't exist, add to data.name + date
+                // console.log(row);
 
-                // }
+                if (el.name == row.CLIMB) {
+                    // console.log(row.CLIMB);
+
+                    // check if last name from csv exists in data, and if does, add date in json at index of last name
+                    // if doesn't exist, add to data.name + date
+
+                    // console.log(row.DATE)
+                    // datesArr.push(row.DATE)
+                    // // console.log(datesArr)
+                    // el.sends.sendDates = datesArr;
+                    el.sends.sendDates.push(row.DATE)
+                    // console.log(el.sends.sendDates)
+
+                    // let loopData = el.sends.climberList;
+                    // // console.log(loopData)
+
+                    // loopData.forEach((e, n) => {
+                    //     function matchString() {
+                    //         let string = e;
+                    //         let result = string.match(row.LASTNAME);
+                    //         if (result !== null) {
+                    //             // console.log("match found: " + result);
+                    //             return true
+                    //         } 
+                    //         // else if (result == null) {
+                    //         //     console.log("no match: " 
+                    //         //         + row.LASTNAME 
+                    //         //         + "\n" +
+                    //         //         + row.CLIMB
+                    //         //         )
+                    //         // }
+                    //     }
+                    //     matchString();
+
+                    //     if (matchString()) {
+                    //         // console.log("working")
+
+                    //         datesArr.push(row.DATE)
+                    //         console.log(datesArr)
+
+                    //     }
+                    // })
+
+                }
             })
             .on('end', () => {
-                console.log('CSV file successfully processed');
+                // console.log('CSV file successfully processed');
+                // el.sends.sendDates = datesArr;
+                console.log(el)
             });
 
-    // })
+    })
+    // console.log(data)
 }
-sendsDataUpdate();
+sendsDateUpdate();
 
 
 
@@ -155,3 +200,4 @@ function writeFile(fsName, fsData) {
     console.log('writeFile complete for', fsName);
 }
 // writeFile('hardClimbData', data)
+// writeFile('hardClimbDataTemp', data)
