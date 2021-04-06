@@ -3,6 +3,8 @@
 let fs = require('fs');
 let cheerio = require('cheerio');
 const puppeteer = require('puppeteer')
+const csvParser = require('csv-parser');
+
 
 let data = [];
 
@@ -55,8 +57,8 @@ let baseSendData = function (fileName, climbType) {
     })
     // console.log(data);
 }
-// baseSendData('boulderData', 'Boulder Problem')
-// baseSendData('sportData', 'Sport Route')
+baseSendData('boulderData', 'Boulder Problem')
+baseSendData('sportData', 'Sport Route')
 
 // ascent gaps
 // scrape crag page > for every item in this list, check if exists in crag
@@ -92,8 +94,8 @@ let cragLinks = function (fileName) {
     })
     // console.log(data.length);
 }
-// cragLinks('boulderCragLinkData')
-// cragLinks('sportCragLinkData')
+cragLinks('boulderCragLinkData')
+cragLinks('sportCragLinkData')
 
 
 // grab year + link
@@ -120,30 +122,26 @@ let cragLinks = function (fileName) {
 // ======================================================
 
 let sendsDataUpdate = function () {
-    // data.forEach((el, i) => {
-        let dataArray;
+    data.forEach((el, i) => {
 
-        fs.readFileSync('data/hardClimbInfo.csv', 'utf8', function (err, dataFile) {
-            dataArray = dataFile.split(/\r?\n/);
-            // console.log(dataArray);
-            return dataArray
-        });
-        console.log(dataArray);
+        fs.createReadStream('data/hardClimbInfo.csv')
+            .on('error', () => {
+                console.log('error')
+            })
+            .pipe(csvParser())
+            .on('data', (row) => {
+                // console.log(row);
+                
+                if (el.name == row.CLIMB) {
+                    console.log(row.CLIMB);
 
-        // let $ = cheerio.load(content);
-        // // console.log($); 
+                }
+            })
+            .on('end', () => {
+                console.log('CSV file successfully processed');
+            });
 
-        // let queryEl = $("")
-
-        // queryEl.each((i, el) => {
-
-        //     // check name against site climb name
-        //     // if doesnt exist push data
-        //     // else if exists add dates and check if has name?
-        //     // if no name add name
-
-        // })
-    // })
+    })
 }
 sendsDataUpdate();
 
