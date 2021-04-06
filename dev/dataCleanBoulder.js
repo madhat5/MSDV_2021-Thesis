@@ -2,7 +2,7 @@
 
 let fs = require('fs');
 let cheerio = require('cheerio');
-const puppeteer = require('puppeteer')
+// const puppeteer = require('puppeteer')
 const csvParser = require('csv-parser');
 
 
@@ -122,7 +122,7 @@ cragLinks('sportCragLinkData')
 // ======================================================
 
 let sendsDataUpdate = function () {
-    data.forEach((el, i) => {
+    // data.forEach((el, i) => {
 
         fs.createReadStream('data/hardClimbInfo.csv')
             .on('error', () => {
@@ -130,56 +130,22 @@ let sendsDataUpdate = function () {
             })
             .pipe(csvParser())
             .on('data', (row) => {
-                // console.log(row);
+                console.log(row);
                 
-                if (el.name == row.CLIMB) {
-                    console.log(row.CLIMB);
+                // if (el.name == row.CLIMB) {
+                //     console.log(row.CLIMB);
+                // check if last name from csv exists in data, and if does, add date in json at index of last name
+                // if doesn't exist, add to data.name + date
 
-                }
+                // }
             })
             .on('end', () => {
                 console.log('CSV file successfully processed');
             });
 
-    })
+    // })
 }
 sendsDataUpdate();
-
-
-// let sendsDataUpdate = async() => {
-//     const browser = await puppeteer.launch();
-//     const page = await browser.newPage();
-//     let url = "https://hardclimbs.info/"
-
-//     await page.goto('https://hardclimbs.info/');
-
-//     // test
-//     // await page.screenshot({path: './tempScreenshot.png'})
-
-
-//     let res = await page.evaluate(() => {
-//         // let queryEl = document.querySelectorAll("#ember33")
-//         let queryEl = document.querySelectorAll("[id='ember33']")
-
-//         return queryEl
-
-//         // queryEl.each((i, el) => {
-
-//             // check name against main climb data
-//             // if doesnt exist push data
-//             // else if exists add dates and check if has name?
-//                 // if no name add name
-
-//         // })
-//     })
-
-//     browser.close()
-//     // return res
-// }
-// sendsDataUpdate()
-// .then((value) => {
-//     console.log(value)
-// });
 
 
 
