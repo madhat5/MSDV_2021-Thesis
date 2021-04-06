@@ -1,13 +1,22 @@
-# MSDV_2021-Thesis
+# WHAT IS STRENGTH IN CLIMBING?
+
+### Are climbers getting stronger or are there more strong climbers?
 
 
-### Bibliography:
-- Woollings, Kaikanani Y., McKay, Carly D., Emery, Carolyn A.. *Risk factors for injury in sport climbing and bouldering: a systematic review of the literature*. England: British Medical Association, 2015
+By David Malary 
 
-- Schöffl, Volker R., MD, PhD, MHBA, Hoffmann, Georg, Küpper, Thomas, MD, PhD. *Acute Injury Risk and Severity in Indoor Climbing—A Prospective Analysis of 515,337 Indoor Climbing Wall Visits in 5 Years*. United States: Elsevier Inc, 2013
+Project links: 
+- microsite link 
+- repo
 
-- Lutter, Christoph, MD, Schweizer, Andreas, MD., PhD, Hochholzer, Thomas, MD., Bayer, Thomas, MD., Schöffl, Volker, MD, PhD. *Pulling Harder than the Hamate Tolerates: Evaluation of Hamate Injuries in Rock Climbing and Bouldering*. United States: Elsevier Inc, 2016
+#### Abstract
+------
+As I’ve delved into climbing, both in practice and research, one thing has quickly become apparent: the continuous effort and never-ending endeavour to get stronger. As I began to look into this further, and developed questions about climbing benchmarks around the world, as well as the rate of strength increase of climbers, I focused my research on two questions: have we as climbers gotten stronger over time, or are there more strong climbers (or both)? Our treatment for this thesis will attempt to answer these questions by understanding what strength is in climbing. We will focus on bouldering and sport/lead climbing. It should be noted that there are other types of climbing, including: top-rope; ice-climbing; mountaineering and trad climbing; free solo and deep water solo. We will analyze several aspects of climbing, including what the records and benchmarks are for climbing routes, what the various grading systems are (how climbs are measured); what makes a climb hard; how climbers get stronger; and other aspects such as the increase in popularity of the sport over time, and accompanying research and literature. As we work on answering the aforementioned questions, we will work to expand the reader’s climbing knowledge and vocabulary throughout this essay.
 
-- Sas-Nowosielski, K., Kandzia, K. *Climbers! Don’t stretch your forearm muscles before climbing: Effect of static stretching on a finger strength in various grip positions*. Elsevier Masson SAS, 2019
 
-- Salehhodin, Siti Nursarah, Abdullah, Borhannudin, Khalid, Hanis Mohd. *Comparison Level of Handgrip Strength, Finger Grip Strength and Anthropometric Measurement among Artificial Wall Athletes*. International journal of academic research in business and social sciences, 2019
+#### Preview
+------
+![](preview.png)
+
+#### Acknowledgements
+------

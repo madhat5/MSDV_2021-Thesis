@@ -1,9 +1,0 @@
-{
-  "dependencies": {
-    "cheerio": "^1.0.0-rc.5",
-    "csv-parser": "^3.0.0",
-    "fs": "^0.0.1-security",
-    "puppeteer": "^8.0.0",
-    "request": "^2.88.2"
-  }
-}
