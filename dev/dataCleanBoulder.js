@@ -122,11 +122,11 @@ cragLinks('sportCragLinkData')
 // ======================================================
 
 let sendsDateUpdate = function () {
-    let datesArr = []
 
     data.forEach((el, i) => {
 
-        el.sends.sendDates = []
+        let datesArr = []
+        // el.sends.sendDates = []
 
         fs.createReadStream('data/hardClimbInfo.csv')
             .on('error', () => {
@@ -143,54 +143,34 @@ let sendsDateUpdate = function () {
                     // if doesn't exist, add to data.name + date
 
                     // console.log(row.DATE)
-                    // datesArr.push(row.DATE)
+                    datesArr.push(row.DATE)
                     // // console.log(datesArr)
                     // el.sends.sendDates = datesArr;
-                    el.sends.sendDates.push(row.DATE)
+                    // el.sends.sendDates.push(row.DATE)
                     // console.log(el.sends.sendDates)
-
-                    // let loopData = el.sends.climberList;
-                    // // console.log(loopData)
-
-                    // loopData.forEach((e, n) => {
-                    //     function matchString() {
-                    //         let string = e;
-                    //         let result = string.match(row.LASTNAME);
-                    //         if (result !== null) {
-                    //             // console.log("match found: " + result);
-                    //             return true
-                    //         } 
-                    //         // else if (result == null) {
-                    //         //     console.log("no match: " 
-                    //         //         + row.LASTNAME 
-                    //         //         + "\n" +
-                    //         //         + row.CLIMB
-                    //         //         )
-                    //         // }
-                    //     }
-                    //     matchString();
-
-                    //     if (matchString()) {
-                    //         // console.log("working")
-
-                    //         datesArr.push(row.DATE)
-                    //         console.log(datesArr)
-
-                    //     }
-                    // })
-
                 }
             })
             .on('end', () => {
                 // console.log('CSV file successfully processed');
-                // el.sends.sendDates = datesArr;
-                console.log(el)
+                // console.log(el.sends.sendDates)
+                // console.log(datesArr)
+                el.sends.sendDates = datesArr;
+                // console.log(el.sends.sendDates)
+
+                // setup if i == data.lengthb
+                if (i == data.length - 1) {
+                    writeFile('hardClimbDataTemp', data)
+                }
+
             });
+        // el.sends.sendDates = datesArr;
+        // console.log(datesArr)
+        // console.log(el)
 
     })
-    // console.log(data)
 }
 sendsDateUpdate();
+// console.log(data)
 
 
 
