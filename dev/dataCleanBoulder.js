@@ -159,7 +159,7 @@ let sendsDateUpdate = function () {
 
                 // setup if i == data.lengthb
                 if (i == data.length - 1) {
-                    writeFile('hardClimbDataTemp', data)
+                    writeFile('hardClimbData', data)
                 }
 
             });
