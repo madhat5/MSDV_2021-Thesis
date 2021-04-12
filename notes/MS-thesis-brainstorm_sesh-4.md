@@ -15,6 +15,28 @@ code notes
             - links
             - #of moves/clipins?
 
+- *data chart 1*
+    - grade
+        - x axis
+    - #of repeats (# of climbers)
+        - y axis
+    - total time between ascent (years)
+        - radius: use time / people (gives an estimate of years per person to achieve)
+    - color
+        - 
+
+- *data chart 2*
+    - bars
+        - years
+            - x axis
+        - #of sends
+            - y axis
+    - line
+        - years
+            - x axis
+        - #of climbers
+            - y axis
+
 option 1
   _|
  /

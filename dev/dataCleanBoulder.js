@@ -156,9 +156,30 @@ let sendsDateUpdate = function () {
                 // console.log(datesArr)
                 el.sends.sendDates = datesArr;
                 // console.log(el.sends.sendDates)
+                let timeCount = 0;
+
+                if (datesArr.length > 1) {
+                    let date1 = new Date(datesArr[0]);
+                    let date2 = new Date(datesArr[datesArr.length - 1]);
+
+                    let Difference_In_Time = date2.getTime() - date1.getTime();
+  
+                    let Difference_In_Days = Difference_In_Time / (1000 * 3600 * 24);
+
+                    timeCount = Difference_In_Days / 365
+                }
+
+                // console.log(el.name + ' ' + datesArr + ' ' + timeCount);
+                // console.log(datesArr)
+                // console.log();
+                // el.sends.totalYears = timeCount;
+                el.sends.totalYears = Math.round(timeCount * 100) / 100;
 
                 // setup if i == data.lengthb
                 if (i == data.length - 1) {
+                    // console.log(data)
+                    // console.log(el.name + ' ' + el.sends.sendDates)
+                    // console.log("the End")
                     writeFile('hardClimbData', data)
                 }
 
@@ -175,6 +196,7 @@ sendsDateUpdate();
 
 
 function writeFile(fsName, fsData) {
+    // fs.writeFileSync('data/' + fsName + '.json', JSON.stringify(fsData));
     fs.writeFileSync('data/' + fsName + '.json', JSON.stringify(fsData));
     console.log('*** *** *** *** ***');
     console.log('writeFile complete for', fsName);
