@@ -23,7 +23,7 @@ code notes
     - total time between ascent (years)
         - radius: use time / people (gives an estimate of years per person to achieve)
     - color
-        - 
+        - country?
 
 - *data chart 2*
     - bars

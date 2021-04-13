@@ -31,12 +31,12 @@ export default {
       },
       svgContainer: Object,
       chartWrapper: Object,
-      key_x: "Danceability",
-      key_y: "Popularity",
-      key_r: "Beats.Per.Minute",
-      // key_x: "grade.gradeV",
-      // key_y: "sends.totalSends",
-      // key_r: "sends.totalYears",
+      // key_x: "Danceability",
+      // key_y: "Popularity",
+      // key_r: "Beats.Per.Minute",
+      key_x: "grade.gradeV",
+      key_y: "sends.totalSends",
+      key_r: "sends.totalYears",
     }
   },
   mounted: function() {
@@ -86,14 +86,14 @@ export default {
           .attr("y", this.settings.height + this.settings.margin.top)
           .attr("dy", "1em")
           .style("text-anchor", "middle")
-          .text("Danceability");
+          .text("Climb Grade (v-scale)");
     this.chartWrapper.append("text")
           .attr("transform", "rotate(-90)")
           .attr("y", 0 - this.settings.margin.left)
           .attr("x", 0 - (this.settings.height / 2))
           .attr("dy", "1em")
           .style("text-anchor", "middle")
-          .text("Popularity");
+          .text("Sends made");
 
     const rScale = d3.scaleLinear()
 			.range([5,12])
@@ -107,11 +107,11 @@ export default {
       .append("circle")
         .attr("class", function() { return "Spotify" ; })//+ d[]; })
         .style("opacity", this.settings.opacityCircles)
-        .style("fill", function(d) {return that.colorScale(d.Genre);})
+        .style("fill", function(d) {return that.colorScale(d.geoInfo.country);})
         .style("stroke", "white")
-        .attr("cx", function(d) {return xScale(d.Danceability);})
-        .attr("cy", function(d) {return yScale(d.Popularity);})
-        .attr("r", function(d) {return rScale(d["Beats.Per.Minute"])});
+        .attr("cx", function(d) {return xScale(d.grade.gradeV);})
+        .attr("cy", function(d) {return yScale(d.sends.totalSends);})
+        .attr("r", function(d) {return rScale(d.sends.totalYears)});
   },
   methods: {
     key_dom: function(key){

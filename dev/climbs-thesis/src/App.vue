@@ -1,38 +1,34 @@
 <template>
-  <!-- add static page code (cf treatment copy) -->
-  <main id="app">
-    <div class="container">
-      <div class="chart" ref="chart"></div>
-
+  <div id="app">
+    <!-- <img alt="Vue logo" src="./assets/logo.png"> -->
+    <h1>What is strength in climbing?</h1>
+    <div class="intro">
+      <p>Intro lorem ipsum</p>
     </div>
-  </main>
+    <Holds/>
+    <Grades/>
+    <Chart/>
+    <div class="conclusion">
+      <p>Conclusion lorem ipsum</p>
+    </div>
+    <div class="reference">
+      <p>References lorem ipsum</p>
+    </div>
+  </div>
 </template>
 
 <script>
-import * as d3 from 'd3'
-import moment from "moment"
-import axios from "axios"
+import Holds from './components/Holds.vue'
+import Grades from './components/Grades.vue'
+import Chart from './components/Chart.vue'
 
 export default {
   name: 'App',
-  data() {
-    return {
-      type: "",
-      climberList: [],
-      totalClimbers: null,
-      sendDates: [],
-      totalGapYears: null
-    }
-  },
-  methods: {
-    // get data
-    getClimbData() {
-      fetch("../public/hardClimbData.json")
-        .then
-    }
-  },
   components: {
-    HelloWorld
+    Holds,
+    Grades,
+    Chart,
+    // HelloWorld
   }
 }
 </script>
