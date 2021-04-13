@@ -2907,7 +2907,7 @@
     "type": "Sport Route",
     "name": "120 Degrees",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
@@ -2926,7 +2926,7 @@
     "type": "Sport Route",
     "name": "Akira",
     "grade": {
-        "gradeV": "5.15b",
+        "gradeYDS": "5.15b",
         "gradeFont": "9b"
     },
     "sends": {
@@ -2944,7 +2944,7 @@
     "type": "Sport Route",
     "name": "Alasha",
     "grade": {
-        "gradeV": "5.15a/5.15b",
+        "gradeYDS": "5.15a/5.15b",
         "gradeFont": "9a+/9b"
     },
     "sends": {
@@ -2962,7 +2962,7 @@
     "type": "Sport Route",
     "name": "Ali Hulk",
     "grade": {
-        "gradeV": "5.15b",
+        "gradeYDS": "5.15b",
         "gradeFont": "9b"
     },
     "sends": {
@@ -2980,7 +2980,7 @@
     "type": "Sport Route",
     "name": "Ali Hulk Extension",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
@@ -2998,7 +2998,7 @@
     "type": "Sport Route",
     "name": "Ali Hulk Extension Total",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
@@ -3016,7 +3016,7 @@
     "type": "Sport Route",
     "name": "Ali Hulk Extension Variation",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
@@ -3034,7 +3034,7 @@
     "type": "Sport Route",
     "name": "Ali Hulk Sit Start",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
@@ -3052,7 +3052,7 @@
     "type": "Sport Route",
     "name": "Ali Hulk Sit Start Extension Total",
     "grade": {
-        "gradeV": "5.15b",
+        "gradeYDS": "5.15b",
         "gradeFont": "9b"
     },
     "sends": {
@@ -3070,7 +3070,7 @@
     "type": "Sport Route",
     "name": "All You Can Eat",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
@@ -3088,7 +3088,7 @@
     "type": "Sport Route",
     "name": "Apocalipsis de la Gioconda",
     "grade": {
-        "gradeV": "5.15b",
+        "gradeYDS": "5.15b",
         "gradeFont": "9b"
     },
     "sends": {
@@ -3107,7 +3107,7 @@
     "type": "Sport Route",
     "name": "Artaburu",
     "grade": {
-        "gradeV": "5.15a/5.15b",
+        "gradeYDS": "5.15a/5.15b",
         "gradeFont": "9a+/9b"
     },
     "sends": {
@@ -3126,7 +3126,7 @@
     "type": "Sport Route",
     "name": "Aubade Directe",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
@@ -3144,7 +3144,7 @@
     "type": "Sport Route",
     "name": "Becoming",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
@@ -3162,7 +3162,7 @@
     "type": "Sport Route",
     "name": "Big Men",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
@@ -3181,7 +3181,7 @@
     "type": "Sport Route",
     "name": "Biographie/Realization",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
@@ -3199,7 +3199,7 @@
     "type": "Sport Route",
     "name": "Black Block",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
@@ -3217,7 +3217,7 @@
     "type": "Sport Route",
     "name": "Bone Tomahawk",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
@@ -3236,7 +3236,7 @@
     "type": "Sport Route",
     "name": "C.R.S.",
     "grade": {
-        "gradeV": "5.15b",
+        "gradeYDS": "5.15b",
         "gradeFont": "9b"
     },
     "sends": {
@@ -3255,7 +3255,7 @@
     "type": "Sport Route",
     "name": "Catxasa",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
@@ -3273,7 +3273,7 @@
     "type": "Sport Route",
     "name": "Catxasa (R2)",
     "grade": {
-        "gradeV": "5.15a/5.15b",
+        "gradeYDS": "5.15a/5.15b",
         "gradeFont": "9a+/9b"
     },
     "sends": {
@@ -3291,7 +3291,7 @@
     "type": "Sport Route",
     "name": "Change",
     "grade": {
-        "gradeV": "5.15c",
+        "gradeYDS": "5.15c",
         "gradeFont": "9b+"
     },
     "sends": {
@@ -3310,7 +3310,7 @@
     "type": "Sport Route",
     "name": "Chaxi",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
@@ -3329,7 +3329,7 @@
     "type": "Sport Route",
     "name": "Chaxi Raxi",
     "grade": {
-        "gradeV": "5.15b",
+        "gradeYDS": "5.15b",
         "gradeFont": "9b"
     },
     "sends": {
@@ -3347,7 +3347,7 @@
     "type": "Sport Route",
     "name": "Chilam Balam",
     "grade": {
-        "gradeV": "5.15b",
+        "gradeYDS": "5.15b",
         "gradeFont": "9b"
     },
     "sends": {
@@ -3366,7 +3366,7 @@
     "type": "Sport Route",
     "name": "Clash of the Titans",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
@@ -3385,7 +3385,7 @@
     "type": "Sport Route",
     "name": "Companion of Change",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
@@ -3404,7 +3404,7 @@
     "type": "Sport Route",
     "name": "Corona",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
@@ -3422,7 +3422,7 @@
     "type": "Sport Route",
     "name": "Czech Trip",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
@@ -3441,7 +3441,7 @@
     "type": "Sport Route",
     "name": "Deep Spot",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
@@ -3460,7 +3460,7 @@
     "type": "Sport Route",
     "name": "Delincuente Natural",
     "grade": {
-        "gradeV": "5.15b",
+        "gradeYDS": "5.15b",
         "gradeFont": "9b"
     },
     "sends": {
@@ -3479,7 +3479,7 @@
     "type": "Sport Route",
     "name": "Demencia Senil",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
@@ -3497,7 +3497,7 @@
     "type": "Sport Route",
     "name": "Des Scènes Bizarres dans la Mine d'Or",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
@@ -3516,7 +3516,7 @@
     "type": "Sport Route",
     "name": "Disbelief",
     "grade": {
-        "gradeV": "5.15b",
+        "gradeYDS": "5.15b",
         "gradeFont": "9b"
     },
     "sends": {
@@ -3534,7 +3534,7 @@
     "type": "Sport Route",
     "name": "Dugi Rat",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
@@ -3553,7 +3553,7 @@
     "type": "Sport Route",
     "name": "Eagle 4",
     "grade": {
-        "gradeV": "5.15b",
+        "gradeYDS": "5.15b",
         "gradeFont": "9b"
     },
     "sends": {
@@ -3572,7 +3572,7 @@
     "type": "Sport Route",
     "name": "El Bon Combat",
     "grade": {
-        "gradeV": "5.15b",
+        "gradeYDS": "5.15b",
         "gradeFont": "9b"
     },
     "sends": {
@@ -3590,7 +3590,7 @@
     "type": "Sport Route",
     "name": "Empreintes",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
@@ -3609,7 +3609,7 @@
     "type": "Sport Route",
     "name": "Energia Cosmica",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
@@ -3627,7 +3627,7 @@
     "type": "Sport Route",
     "name": "Es Pontas",
     "grade": {
-        "gradeV": "5.15a/5.15b",
+        "gradeYDS": "5.15a/5.15b",
         "gradeFont": "9a+/9b"
     },
     "sends": {
@@ -3645,7 +3645,7 @@
     "type": "Sport Route",
     "name": "Fight Club",
     "grade": {
-        "gradeV": "5.15b",
+        "gradeYDS": "5.15b",
         "gradeFont": "9b"
     },
     "sends": {
@@ -3663,7 +3663,7 @@
     "type": "Sport Route",
     "name": "Fight or Flight",
     "grade": {
-        "gradeV": "5.15b",
+        "gradeYDS": "5.15b",
         "gradeFont": "9b"
     },
     "sends": {
@@ -3681,7 +3681,7 @@
     "type": "Sport Route",
     "name": "Finest Pedigree",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
@@ -3700,7 +3700,7 @@
     "type": "Sport Route",
     "name": "First Ley",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
@@ -3719,7 +3719,7 @@
     "type": "Sport Route",
     "name": "First Round First Minute",
     "grade": {
-        "gradeV": "5.15b",
+        "gradeYDS": "5.15b",
         "gradeFont": "9b"
     },
     "sends": {
@@ -3738,7 +3738,7 @@
     "type": "Sport Route",
     "name": "Flex Luthor",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
@@ -3757,7 +3757,7 @@
     "type": "Sport Route",
     "name": "Following the Leader",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
@@ -3776,7 +3776,7 @@
     "type": "Sport Route",
     "name": "Geocache",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
@@ -3794,7 +3794,7 @@
     "type": "Sport Route",
     "name": "Goldrake",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
@@ -3812,7 +3812,7 @@
     "type": "Sport Route",
     "name": "Golpe de Estado",
     "grade": {
-        "gradeV": "5.15b",
+        "gradeYDS": "5.15b",
         "gradeFont": "9b"
     },
     "sends": {
@@ -3830,7 +3830,7 @@
     "type": "Sport Route",
     "name": "Hell Racer",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
@@ -3849,7 +3849,7 @@
     "type": "Sport Route",
     "name": "High Line",
     "grade": {
-        "gradeV": "5.15a/5.15b",
+        "gradeYDS": "5.15a/5.15b",
         "gradeFont": "9a+/9b"
     },
     "sends": {
@@ -3868,7 +3868,7 @@
     "type": "Sport Route",
     "name": "Hyper Finale",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
@@ -3887,7 +3887,7 @@
     "type": "Sport Route",
     "name": "Iron Curtain",
     "grade": {
-        "gradeV": "5.15b",
+        "gradeYDS": "5.15b",
         "gradeFont": "9b"
     },
     "sends": {
@@ -3906,7 +3906,7 @@
     "type": "Sport Route",
     "name": "Jaws II",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
@@ -3925,7 +3925,7 @@
     "type": "Sport Route",
     "name": "Joe Mama",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
@@ -3944,7 +3944,7 @@
     "type": "Sport Route",
     "name": "Jumbo Love",
     "grade": {
-        "gradeV": "5.15b",
+        "gradeYDS": "5.15b",
         "gradeFont": "9b"
     },
     "sends": {
@@ -3963,7 +3963,7 @@
     "type": "Sport Route",
     "name": "Jungle Boogie",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
@@ -3981,7 +3981,7 @@
     "type": "Sport Route",
     "name": "Kangoroo's Limb",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
@@ -3999,7 +3999,7 @@
     "type": "Sport Route",
     "name": "Kmira",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
@@ -4018,7 +4018,7 @@
     "type": "Sport Route",
     "name": "L'Etrange Ivresse des Lenteurs",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
@@ -4037,7 +4037,7 @@
     "type": "Sport Route",
     "name": "La Barriere",
     "grade": {
-        "gradeV": "5.15b",
+        "gradeYDS": "5.15b",
         "gradeFont": "9b"
     },
     "sends": {
@@ -4055,7 +4055,7 @@
     "type": "Sport Route",
     "name": "La Capella",
     "grade": {
-        "gradeV": "5.15b",
+        "gradeYDS": "5.15b",
         "gradeFont": "9b"
     },
     "sends": {
@@ -4074,7 +4074,7 @@
     "type": "Sport Route",
     "name": "La Castagne",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
@@ -4092,7 +4092,7 @@
     "type": "Sport Route",
     "name": "La Cène du Lézard",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
@@ -4110,7 +4110,7 @@
     "type": "Sport Route",
     "name": "La Côte d'Usure",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
@@ -4128,7 +4128,7 @@
     "type": "Sport Route",
     "name": "La Dura Dura",
     "grade": {
-        "gradeV": "5.15c",
+        "gradeYDS": "5.15c",
         "gradeFont": "9b+"
     },
     "sends": {
@@ -4147,7 +4147,7 @@
     "type": "Sport Route",
     "name": "La Madone",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
@@ -4165,7 +4165,7 @@
     "type": "Sport Route",
     "name": "La Moustache qui Fâche",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
@@ -4183,7 +4183,7 @@
     "type": "Sport Route",
     "name": "La Planta de Shiva",
     "grade": {
-        "gradeV": "5.15b",
+        "gradeYDS": "5.15b",
         "gradeFont": "9b"
     },
     "sends": {
@@ -4202,7 +4202,7 @@
     "type": "Sport Route",
     "name": "La Rage d'Adam",
     "grade": {
-        "gradeV": "5.15b/5.15c",
+        "gradeYDS": "5.15b/5.15c",
         "gradeFont": "9b/9b+"
     },
     "sends": {
@@ -4220,13 +4220,15 @@
     "type": "Sport Route",
     "name": "La Rambla",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
         "totalSends": 25,
         "climberList": ["Ramón Julián Puigblanque", " Edu Marin", " Chris Sharma", " Patxi Usobiaga", " Adam Ondra", " Enzo Oddo", " Andreas Bindhammer", " Sachi Amma", " Felix Neumärker", " Alex Megos", " Sangwon Son", " Daniel Jung", " Jonathan Siegrist", " David Firnenburg", " Matty Hong", " Margo Hayes", " Stefano Ghisolfi", " Jacopo Larcher", " Klemen Bečan", " Tomas Ravanal", " Gerard Rull", " Jon Cardwell", " Piotr Schab", " Dave Graham", " Gonzalo Larrocha"],
-        "cragSendLink": "https://www.thecrag.com/en/climbing/spain/siurana/el-pati/route/18428605"
+        "cragSendLink": "https://www.thecrag.com/en/climbing/spain/siurana/el-pati/route/18428605",
+        "sendDates": [],
+        "totalYears": 0
     },
     "geoInfo": {
         "crag": "Siurana",
@@ -4237,7 +4239,7 @@
     "type": "Sport Route",
     "name": "Lapsus",
     "grade": {
-        "gradeV": "5.15b",
+        "gradeYDS": "5.15b",
         "gradeFont": "9b"
     },
     "sends": {
@@ -4256,7 +4258,7 @@
     "type": "Sport Route",
     "name": "Le vent nous portera",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
@@ -4274,13 +4276,15 @@
     "type": "Sport Route",
     "name": "Les yeux plus gros que l'antre",
     "grade": {
-        "gradeV": "5.15a/5.15b",
+        "gradeYDS": "5.15a/5.15b",
         "gradeFont": "9a+/9b"
     },
     "sends": {
         "totalSends": 1,
         "climberList": ["Sébastien Bouin"],
-        "cragSendLink": "https://www.thecrag.com/en/climbing/france/russan/route/1746435033"
+        "cragSendLink": "https://www.thecrag.com/en/climbing/france/russan/route/1746435033",
+        "sendDates": [],
+        "totalYears": 0
     },
     "geoInfo": {
         "crag": "Russan",
@@ -4291,7 +4295,7 @@
     "type": "Sport Route",
     "name": "Licht und Schatten",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
@@ -4310,7 +4314,7 @@
     "type": "Sport Route",
     "name": "Mamichula",
     "grade": {
-        "gradeV": "5.15b",
+        "gradeYDS": "5.15b",
         "gradeFont": "9b"
     },
     "sends": {
@@ -4329,7 +4333,7 @@
     "type": "Sport Route",
     "name": "Marina Superstar",
     "grade": {
-        "gradeV": "5.15a/5.15b",
+        "gradeYDS": "5.15a/5.15b",
         "gradeFont": "9a+/9b"
     },
     "sends": {
@@ -4347,7 +4351,7 @@
     "type": "Sport Route",
     "name": "Massacrate",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
@@ -4366,7 +4370,7 @@
     "type": "Sport Route",
     "name": "Maya",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
@@ -4385,7 +4389,7 @@
     "type": "Sport Route",
     "name": "Me I Eat Dust",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
@@ -4403,7 +4407,7 @@
     "type": "Sport Route",
     "name": "Meiose",
     "grade": {
-        "gradeV": "5.15a/5.15b",
+        "gradeYDS": "5.15a/5.15b",
         "gradeFont": "9a+/9b"
     },
     "sends": {
@@ -4422,12 +4426,14 @@
     "type": "Sport Route",
     "name": "Modified",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
         "totalSends": 3,
-        "climberList": ["Alex Megos", " Adam Ondra", " David Firnenburg"]
+        "climberList": ["Alex Megos", " Adam Ondra", " David Firnenburg"],
+        "sendDates": [],
+        "totalYears": 0
     },
     "geoInfo": {
         "crag": "Frankenjura",
@@ -4438,7 +4444,7 @@
     "type": "Sport Route",
     "name": "Move",
     "grade": {
-        "gradeV": "5.15b/5.15c",
+        "gradeYDS": "5.15b/5.15c",
         "gradeFont": "9b/9b+"
     },
     "sends": {
@@ -4457,7 +4463,7 @@
     "type": "Sport Route",
     "name": "Move Hard",
     "grade": {
-        "gradeV": "5.15b",
+        "gradeYDS": "5.15b",
         "gradeFont": "9b"
     },
     "sends": {
@@ -4476,7 +4482,7 @@
     "type": "Sport Route",
     "name": "Naturalmente",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
@@ -4495,7 +4501,7 @@
     "type": "Sport Route",
     "name": "Neanderthal",
     "grade": {
-        "gradeV": "5.15b",
+        "gradeYDS": "5.15b",
         "gradeFont": "9b"
     },
     "sends": {
@@ -4513,7 +4519,7 @@
     "type": "Sport Route",
     "name": "Nit de Bruixes",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
@@ -4532,7 +4538,7 @@
     "type": "Sport Route",
     "name": "No Pain No Gain",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
@@ -4551,7 +4557,7 @@
     "type": "Sport Route",
     "name": "Obrint el Sistema",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
@@ -4570,7 +4576,7 @@
     "type": "Sport Route",
     "name": "Odyn's Crack (Valhalla)",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
@@ -4588,7 +4594,7 @@
     "type": "Sport Route",
     "name": "One Punch",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
@@ -4606,7 +4612,7 @@
     "type": "Sport Route",
     "name": "One Slap",
     "grade": {
-        "gradeV": "5.15b",
+        "gradeYDS": "5.15b",
         "gradeFont": "9b"
     },
     "sends": {
@@ -4624,7 +4630,7 @@
     "type": "Sport Route",
     "name": "Open Air",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
@@ -4643,7 +4649,7 @@
     "type": "Sport Route",
     "name": "Outro",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
@@ -4662,7 +4668,7 @@
     "type": "Sport Route",
     "name": "Overshadow",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
@@ -4681,7 +4687,7 @@
     "type": "Sport Route",
     "name": "Pachamama",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
@@ -4699,7 +4705,7 @@
     "type": "Sport Route",
     "name": "Panorama",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
@@ -4718,7 +4724,7 @@
     "type": "Sport Route",
     "name": "Papichulo",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
@@ -4736,7 +4742,7 @@
     "type": "Sport Route",
     "name": "Patanics",
     "grade": {
-        "gradeV": "5.15b",
+        "gradeYDS": "5.15b",
         "gradeFont": "9b"
     },
     "sends": {
@@ -4755,7 +4761,7 @@
     "type": "Sport Route",
     "name": "Perfecto Mundo",
     "grade": {
-        "gradeV": "5.15c",
+        "gradeYDS": "5.15c",
         "gradeFont": "9b+"
     },
     "sends": {
@@ -4773,7 +4779,7 @@
     "type": "Sport Route",
     "name": "Perlorodka",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
@@ -4791,7 +4797,7 @@
     "type": "Sport Route",
     "name": "Peruvian Necktie",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
@@ -4810,7 +4816,7 @@
     "type": "Sport Route",
     "name": "Poisson Pilote",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
@@ -4828,7 +4834,7 @@
     "type": "Sport Route",
     "name": "Power Inverter",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
@@ -4847,7 +4853,7 @@
     "type": "Sport Route",
     "name": "Queen Line",
     "grade": {
-        "gradeV": "5.15b",
+        "gradeYDS": "5.15b",
         "gradeFont": "9b"
     },
     "sends": {
@@ -4865,7 +4871,7 @@
     "type": "Sport Route",
     "name": "Rainman",
     "grade": {
-        "gradeV": "5.15b",
+        "gradeYDS": "5.15b",
         "gradeFont": "9b"
     },
     "sends": {
@@ -4884,7 +4890,7 @@
     "type": "Sport Route",
     "name": "Red Ram",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
@@ -4903,14 +4909,12 @@
     "type": "Sport Route",
     "name": "Rehabilitation",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
         "totalSends": 1,
-        "climberList": ["Klem Loskot"],
-        "sendDates": [],
-        "totalYears": 0
+        "climberList": ["Klem Loskot"]
     },
     "geoInfo": {
         "crag": "Plomberg",
@@ -4921,7 +4925,7 @@
     "type": "Sport Route",
     "name": "Rise",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
@@ -4940,14 +4944,12 @@
     "type": "Sport Route",
     "name": "Robin Ud",
     "grade": {
-        "gradeV": "5.15b",
+        "gradeYDS": "5.15b",
         "gradeFont": "9b"
     },
     "sends": {
         "totalSends": 1,
-        "climberList": ["Adam Ondra"],
-        "sendDates": [],
-        "totalYears": 0
+        "climberList": ["Adam Ondra"]
     },
     "geoInfo": {
         "crag": "Alternatívna stena",
@@ -4958,14 +4960,12 @@
     "type": "Sport Route",
     "name": "Sachidananda",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
         "totalSends": 1,
-        "climberList": ["Loïc Zehani"],
-        "sendDates": [],
-        "totalYears": 0
+        "climberList": ["Loïc Zehani"]
     },
     "geoInfo": {
         "crag": "Orgon",
@@ -4976,7 +4976,7 @@
     "type": "Sport Route",
     "name": "Sacrifice",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
@@ -4995,7 +4995,7 @@
     "type": "Sport Route",
     "name": "Salamandre",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
@@ -5014,7 +5014,7 @@
     "type": "Sport Route",
     "name": "Selección Anal",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
@@ -5032,7 +5032,7 @@
     "type": "Sport Route",
     "name": "Silence",
     "grade": {
-        "gradeV": "5.15d",
+        "gradeYDS": "5.15d",
         "gradeFont": "9c"
     },
     "sends": {
@@ -5051,7 +5051,7 @@
     "type": "Sport Route",
     "name": "Soul Mate",
     "grade": {
-        "gradeV": "5.15b",
+        "gradeYDS": "5.15b",
         "gradeFont": "9b"
     },
     "sends": {
@@ -5070,7 +5070,7 @@
     "type": "Sport Route",
     "name": "Stoking the Fire",
     "grade": {
-        "gradeV": "5.15b",
+        "gradeYDS": "5.15b",
         "gradeFont": "9b"
     },
     "sends": {
@@ -5088,7 +5088,7 @@
     "type": "Sport Route",
     "name": "Stone Butterfly",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
@@ -5106,7 +5106,7 @@
     "type": "Sport Route",
     "name": "Super Crackinette",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
@@ -5124,7 +5124,7 @@
     "type": "Sport Route",
     "name": "Supernova",
     "grade": {
-        "gradeV": "5.15a/5.15b",
+        "gradeYDS": "5.15a/5.15b",
         "gradeFont": "9a+/9b"
     },
     "sends": {
@@ -5142,7 +5142,7 @@
     "type": "Sport Route",
     "name": "Sweet Neuf",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
@@ -5161,7 +5161,7 @@
     "type": "Sport Route",
     "name": "The Balcony",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
@@ -5179,7 +5179,7 @@
     "type": "Sport Route",
     "name": "Thor's Hammer",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
@@ -5197,7 +5197,7 @@
     "type": "Sport Route",
     "name": "Tinipi",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
@@ -5216,7 +5216,7 @@
     "type": "Sport Route",
     "name": "Torture Physique Integrale",
     "grade": {
-        "gradeV": "5.15a/5.15b",
+        "gradeYDS": "5.15a/5.15b",
         "gradeFont": "9a+/9b"
     },
     "sends": {
@@ -5235,7 +5235,7 @@
     "type": "Sport Route",
     "name": "Ultimatum",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
@@ -5254,7 +5254,7 @@
     "type": "Sport Route",
     "name": "Underground Dreaming",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
@@ -5272,7 +5272,7 @@
     "type": "Sport Route",
     "name": "Vasil Vasil",
     "grade": {
-        "gradeV": "5.15c",
+        "gradeYDS": "5.15c",
         "gradeFont": "9b+"
     },
     "sends": {
@@ -5291,7 +5291,7 @@
     "type": "Sport Route",
     "name": "Viaje Morfo",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
@@ -5309,7 +5309,7 @@
     "type": "Sport Route",
     "name": "Vicious Circle",
     "grade": {
-        "gradeV": "5.15a/5.15b",
+        "gradeYDS": "5.15a/5.15b",
         "gradeFont": "9a+/9b"
     },
     "sends": {
@@ -5328,7 +5328,7 @@
     "type": "Sport Route",
     "name": "Violent New Breed",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {
@@ -5347,7 +5347,7 @@
     "type": "Sport Route",
     "name": "Wheelchair",
     "grade": {
-        "gradeV": "5.15a",
+        "gradeYDS": "5.15a",
         "gradeFont": "9a+"
     },
     "sends": {

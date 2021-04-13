@@ -2,7 +2,6 @@
 
 let fs = require('fs');
 let cheerio = require('cheerio');
-// const puppeteer = require('puppeteer')
 const csvParser = require('csv-parser');
 
 
@@ -37,12 +36,20 @@ let baseSendData = function (fileName, climbType) {
         let repeatsSplit = ($(el).children('td.column-5').text()).split(',')
         // console.log(repeatsSplit)
 
+        let key;
+
+        if (climbType == 'Boulder Problem') {
+            key = 'gradeV'
+        } else if (climbType == 'Sport Route') {
+            key = 'gradeYDS'
+        }
+
         data.push({
             id: i,
             type: climbType,
             name: $(el).children('td.column-1').text(),
             grade: {
-                gradeV: grades[0].slice(0, -1),
+                [key]: grades[0].slice(0, -1),
                 gradeFont: grades[1].slice(0, -1),
             },
             sends: {
@@ -97,29 +104,6 @@ let cragLinks = function (fileName) {
 cragLinks('boulderCragLinkData')
 cragLinks('sportCragLinkData')
 
-
-// grab year + link
-// on link grab ascent years
-// ======================================================
-// for each name of file with scrape page
-// pull dates and calc gap btw 1st and 2nd sends + longest gap?
-// hardcrags data
-// let sendsBoulderData = function () {
-//     data.forEach((el, i) => {
-
-//         if (el.sends.sendsLink) {
-//             let content = fs.readFileSync('data/txt_data/' + el.name + '.txt');
-
-//             let $ = cheerio.load(content);
-//             if ($) {
-//                 console.log(true)
-//             }
-//         }
-
-//     })
-// }
-// sendsBoulderData();
-// ======================================================
 
 let sendsDateUpdate = function () {
 
@@ -202,4 +186,3 @@ function writeFile(fsName, fsData) {
     console.log('writeFile complete for', fsName);
 }
 // writeFile('hardClimbData', data)
-// writeFile('hardClimbDataTemp', data)
