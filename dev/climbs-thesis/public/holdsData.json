@@ -1,0 +1,102 @@
+[{
+    "id": 0,
+    "name": "jug",
+    "description": "Large, easy to grab holds, held with entire hand(s) while requiring minimal energy. A climber’s best friend",
+    "imagePath": "../assets/img_avatar.png"
+},
+{
+    "id": 1,
+    "name": "sloper",
+    "description": "These tend to have no lip or edge. Needs complete friction, and so requires as much surface area of the hand as possible.",
+    "imagePath": "../assets/img_avatar.png"
+},
+{
+    "id": 2,
+    "name": "crimp",
+    "description": "Generally small, thin climbing holds. Found on more advanced routes due to a greater need for strength and solid technique.",
+    "imagePath": "../assets/img_avatar.png"
+},
+{
+    "id": 3,
+    "name": "pinch",
+    "description": "Require the thumb on the opposite side of the hold to create a strong squeezing force. Usually requires the greatest amount of strength.",
+    "imagePath": "../assets/img_avatar.png"
+},
+{
+    "id": 4,
+    "name": "pocket",
+    "description": "Holes that allow for 1 to 3 fingers combinations. Various depth and textures.",
+    "imagePath": "../assets/img_avatar.png"
+},
+{
+    "id": 5,
+    "name": "jam",
+    "description": "",
+    "imagePath": "../assets/img_avatar.png"
+},
+{
+    "id": 6,
+    "name": "side pull",
+    "description": "When a hold is oriented sideways away from the climber, forcing the climber to use a horizontal direction of force (vs gravity).",
+    "imagePath": "../assets/img_avatar.png"
+},
+{
+    "id": 7,
+    "name": "undercling",
+    "description": "When holds are oriented upside down, forcing the climber to turn their palms upward.",
+    "imagePath": "../assets/img_avatar.png"
+},
+{
+    "id": 8,
+    "name": "smear",
+    "description": "When placing the foot on a part of the wall with no actual foothold. By placing the ball of the foot on the wall and putting as much pressure as possible.",
+    "imagePath": "/assets/"
+},
+{
+    "id": 9,
+    "name": "toe hook",
+    "description": "Placing the top of the foot on a hold, and putting (by pulling) as much pressure as possible.",
+    "imagePath": "/assets/"
+},
+{
+    "id": 10,
+    "name": "heel hook",
+    "description": "Placing a heel on a hold, and putting (by pulling) as much pressure as possible.",
+    "imagePath": "../assets/img_avatar.png"
+},
+{
+    "id": 11,
+    "name": "foot",
+    "description": "Placing the tips of the feet on usually small holds.",
+    "imagePath": "../assets/img_avatar.png"
+},
+{
+    "id": 12,
+    "name": "ledge/rail",
+    "description": "Similar to crimps/incuts but much larger. Usually wide enough to fit four fingers or two hands. Common in outdoor rock climbing",
+    "imagePath": "../assets/img_avatar.png"
+},
+{
+    "id": 13,
+    "name": "incut",
+    "description": "Small jugs that provide a very solid handhold. Generally deep enough for up to the second knuckle. Finger jugs",
+    "imagePath": "../assets/img_avatar.png"
+},
+{
+    "id": 14,
+    "name": "volumes",
+    "description": "Common in indoor climbing gyms, and can be used no matter which routeis being climbed.",
+    "imagePath": "../assets/img_avatar.png"
+},
+{
+    "id": 15,
+    "name": "gaston",
+    "description": "When a hold is rotated and oriented toward the climber, requiring an opposing outward push.",
+    "imagePath": "../assets/img_avatar.png"
+},
+{
+    "id": 16,
+    "name": "horn",
+    "description": "Like jugs, with more choice on how to grab them.",
+    "imagePath": "../assets/img_avatar.png"
+}]
