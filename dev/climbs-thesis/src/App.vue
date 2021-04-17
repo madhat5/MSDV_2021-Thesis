@@ -14,7 +14,10 @@
       />
         <!-- :imagePath="hold.imagePath" -->
     </div>
-    <Grades/>
+    <div>
+    <!-- <Grades/> -->
+    <GradesTwo/>
+    </div>
     <Chart/>
     <div class="conclusion">
       <p>Conclusion lorem ipsum</p>
@@ -27,7 +30,8 @@
 
 <script>
 import Holds from './components/Holds.vue'
-import Grades from './components/Grades.vue'
+// import Grades from './components/Grades.vue'
+import GradesTwo from './components/GradesTwo.vue'
 import Chart from './components/Chart.vue'
 
 import holdsJson from "../public/holdsData.json"
@@ -44,8 +48,9 @@ export default {
   // },
   components: {
     Holds,
-    Grades,
-    Chart,
+    // Grades,
+    GradesTwo,
+    Chart
   },
   data() {
     return {
@@ -54,7 +59,6 @@ export default {
   }
   // data: function(){
   //   return {
-  //     holds_data: holdsData
   //     // holds_data: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]
   //   }
   // }
@@ -79,5 +83,20 @@ export default {
 
 .center {
   margin: 0 auto;
+}
+
+#scrollama-container-flexed {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+#scrollama-container-flexed .scrollama-graphic {
+    flex: 1;
+    height: 80vh;
+    top: 10vh;
+}
+
+#scrollama-container-flexed .scrollama-steps {
+    flex: 1;
 }
 </style>

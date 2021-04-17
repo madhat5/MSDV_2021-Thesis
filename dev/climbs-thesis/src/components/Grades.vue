@@ -1,43 +1,73 @@
 <template>
-  <div class="hello">
-    <!-- <h1>Welcome to Your Vue.js App</h1> -->
-    <table>
-      <tr>
-        <th>Font/French<br>(Universal)</th>
-        <th>V Scale<br>(Boulder)</th>
-        <th>YDS<br>(Sport)</th>
-      </tr>
-    </table>
-    <div>...</div>
-  </div>
+  <Scrollama
+      :offset="0.5"
+      @step-enter="({ element }) => (currStep = element.dataset.stepNo)"
+    >
+      <div class="graphic" slot="graphic">{{ currStep }}</div>
+      <div class="step" data-step-no="1">step 1</div>
+      <div class="step" data-step-no="2">step 2</div>
+      <div class="step" data-step-no="3">step 3</div>
+      <div class="step" data-step-no="4">step 4</div>
+    </Scrollama>
 </template>
 
 <script>
+import 'intersection-observer'; // for cross-browser support
+import Scrollama from 'vue-scrollama';
+
 export default {
-  name: 'Grades',
-  props: {
-    msg: String
+  name: "App",
+  components: {
+    Scrollama
+  },
+  data() {
+    return {
+      currStep: null
+    };
   }
-}
+};
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
+<style src="vue-scrollama/dist/vue-scrollama.css"></style>
 <style scoped>
-h3 {
-  margin: 40px 0 0;
+.scrollama-container {
+    display: flex;
 }
-ul {
-  list-style-type: none;
-  padding: 0;
+
+.scrollama-container .scrollama-graphic {
+    flex: 1;
+    height: 80vh;
+    top: 10vh;
 }
-li {
-  display: inline-block;
-  margin: 0 10px;
+
+.scrollama-container .scrollama-steps {
+    flex: 1;
 }
-a {
-  color: #42b983;
+
+.graphic {
+    height: 100%;
+    margin: 0 3rem;
+    border: 1px solid #ccc;
+    background-color: #eee;
+    font-size: 10rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
-table {
-  margin: 0 auto;
+
+.step {
+    padding: 20vh 0;
+    margin: 0 3rem;
+    margin-bottom: 10vh;
+    background-color: beige;
+    border: 1px solid #ccc;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.step:last-child {
+    margin-bottom: 0;
 }
 </style>
