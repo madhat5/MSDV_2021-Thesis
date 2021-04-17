@@ -1,8 +1,15 @@
 <template>
-<div class="container">
-  <img src="../assets/img_avatar.png" alt="Avatar" class="image">
-  <div class="overlay">
-    <div class="text">Hello World</div>
+<div>
+  <div class="container">
+    <img src="../assets/img_avatar.png" alt="Avatar" class="image">
+    <!-- <img src="{{imagePath}}" alt="Avatar" class="image"> -->
+    <div class="overlay">
+      <!-- <div class="text">Hello World</div> -->
+      <div class="text"> {{name}} </div>
+    </div>
+  </div>
+  <div class="details">
+    <p>{{description}}</p>
   </div>
 </div>
 </template>
@@ -11,7 +18,9 @@
 export default {
   name: 'Holds',
   props: {
-    msg: String
+    name: String,
+    description: String
+    // imagePath: String
   }
 }
 </script>
@@ -20,7 +29,7 @@ export default {
 <style scoped>
 .container {
   position: relative;
-  width: 50%;
+  width: 100%;
 }
 
 .image {

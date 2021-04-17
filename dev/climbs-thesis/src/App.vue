@@ -1,15 +1,18 @@
 <template>
   <div id="app">
-    <!-- <img alt="Vue logo" src="./assets/logo.png"> -->
     <h1>What is strength in climbing?</h1>
     <div class="intro">
       <p>Intro copy lorem ipsum</p>
     </div>
     <h3>Climbing Holds</h3>
     <div class="viz">
-      <template v-for="n in holds_data">
-        <Holds/>
-      </template>
+      <Holds
+        v-for="hold in holdsData"
+        :key="hold.id"
+        :name="hold.name"
+        :description="hold.description"
+      />
+        <!-- :imagePath="hold.imagePath" -->
     </div>
     <Grades/>
     <Chart/>
@@ -27,19 +30,34 @@ import Holds from './components/Holds.vue'
 import Grades from './components/Grades.vue'
 import Chart from './components/Chart.vue'
 
+import holdsJson from "../public/holdsData.json"
+
 export default {
   name: 'App',
+  // created() {
+  //   fetch('../public/holdsData.json')
+  //     .then(response => response.json())
+  //     .then(
+  //       // this.holds_data = data
+  //       holdsData => console.log(holdsData)
+  //     );
+  // },
   components: {
     Holds,
     Grades,
     Chart,
-    // HelloWorld
   },
-  data: function(){
+  data() {
     return {
-      holds_data: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
+      holdsData: holdsJson
     }
   }
+  // data: function(){
+  //   return {
+  //     holds_data: holdsData
+  //     // holds_data: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]
+  //   }
+  // }
 }
 </script>
 
@@ -56,6 +74,10 @@ export default {
 .viz {
   display: grid;
   grid-template-rows: repeat(4, 1fr);
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.center {
+  margin: 0 auto;
 }
 </style>
