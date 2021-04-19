@@ -47,8 +47,7 @@
         </p>
 
       </div>
-      <GradesTwo/>
-      <!-- <Grades/> -->
+      <Grades/>
     </div>
     <div>
       <Chart/>
@@ -64,8 +63,7 @@
 
 <script>
 import Holds from './components/Holds.vue'
-// import Grades from './components/Grades.vue'
-import GradesTwo from './components/GradesTwo.vue'
+import Grades from './components/Grades.vue'
 import Chart from './components/Chart.vue'
 
 import holdsJson from "../public/holdsData.json"
@@ -82,8 +80,7 @@ export default {
   // },
   components: {
     Holds,
-    // Grades,
-    GradesTwo,
+    Grades,
     Chart
   },
   data() {
@@ -91,11 +88,6 @@ export default {
       holdsData: holdsJson
     }
   }
-  // data: function(){
-  //   return {
-  //     // holds_data: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]
-  //   }
-  // }
 }
 </script>
 

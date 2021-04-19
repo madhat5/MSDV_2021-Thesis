@@ -1,73 +1,87 @@
 <template>
-  <Scrollama
-      :offset="0.5"
-      @step-enter="({ element }) => (currStep = element.dataset.stepNo)"
-    >
-      <div class="graphic" slot="graphic">{{ currStep }}</div>
-      <div class="step" data-step-no="1">step 1</div>
-      <div class="step" data-step-no="2">step 2</div>
-      <div class="step" data-step-no="3">step 3</div>
-      <div class="step" data-step-no="4">step 4</div>
+  <div>
+    <Scrollama @step-enter="stepEnterHandler" id="flexed">
+      <div slot="graphic" class="graphic">
+        <p>{{currStepId}}</p>
+      </div>
+      <div
+        v-for="step in scalesData" 
+          :key="step.no"
+          :data-step-id="step.id"
+        class="step" 
+          :class="{'is-active': step.id === currStepId}">
+        <p><b>{{step.level}}:</b></p>
+        <pre>&nbsp;</pre>
+        <p>{{step.details}}</p>
+      </div>
     </Scrollama>
+  </div>
 </template>
 
 <script>
 import 'intersection-observer'; // for cross-browser support
 import Scrollama from 'vue-scrollama';
 
+import scalesJson from "../../public/scalesData.json"
+
 export default {
-  name: "App",
   components: {
     Scrollama
   },
   data() {
     return {
-      currStep: null
-    };
+      currStepId: null,
+      scalesData: scalesJson
+    }
+  },
+  methods: {
+    stepEnterHandler({element, direction, index}) {
+      console.log({element, direction, index});
+      this.currStepId = element.dataset.stepId
+    }
   }
-};
+}
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style src="vue-scrollama/dist/vue-scrollama.css"></style>
 <style scoped>
-.scrollama-container {
+#scrollama-container-flexed {
     display: flex;
+    flex-direction: row-reverse;
 }
 
-.scrollama-container .scrollama-graphic {
+#scrollama-container-flexed .scrollama-graphic {
     flex: 1;
     height: 80vh;
     top: 10vh;
 }
 
-.scrollama-container .scrollama-steps {
+#scrollama-container-flexed .scrollama-steps {
     flex: 1;
 }
 
-.graphic {
-    height: 100%;
-    margin: 0 3rem;
-    border: 1px solid #ccc;
-    background-color: #eee;
-    font-size: 10rem;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
 .step {
-    padding: 20vh 0;
-    margin: 0 3rem;
-    margin-bottom: 10vh;
-    background-color: beige;
-    border: 1px solid #ccc;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+  width: 80%;
+  max-width: 40rem;
+  padding: 10rem 0;
+  margin: 0 3rem 15rem;
+  border: 1px solid #333;
+  background-color: white;
+  display: flex;
+  justify-content: center;
 }
-
-.step:last-child {
-    margin-bottom: 0;
+.step.is-active {
+  background-color: beige;
+}
+.graphic {
+  height: 80vh;
+  background-color: #DDD;
+  border: 1px solid #333;
+  margin: 0 3rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 5rem;
 }
 </style>
