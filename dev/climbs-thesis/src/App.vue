@@ -50,6 +50,10 @@
       </div>
       <Grades/>
     </div>
+    <div class="section-3">
+      <h3>Comparing problems</h3>
+      <Problems/>
+    </div>
     <div>
       <Chart/>
     </div>
@@ -66,6 +70,7 @@
 import Holds from './components/Holds.vue'
 import Grades from './components/Grades.vue'
 import Chart from './components/Chart.vue'
+import Problems from './components/Problems.vue'
 
 import holdsJson from "../public/holdsData.json"
 
@@ -82,6 +87,7 @@ export default {
   components: {
     Holds,
     Grades,
+    Problems,
     Chart
   },
   data() {

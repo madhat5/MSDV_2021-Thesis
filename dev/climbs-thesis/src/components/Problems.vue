@@ -14,6 +14,9 @@
         <p><b>{{step.v}}; <br/> {{step.font}}</b></p>
         <p>{{step.details}}</p>
       </div>
+      <div slot="graphic" class="graphic">
+        <p>{{currStepId}}</p>
+      </div>
     </Scrollama>
   </div>
 </template>
@@ -77,7 +80,8 @@ export default {
   height: 80vh;
   background-color: #DDD;
   margin: 0 3rem;
-  display: flex;
+  /* display: flex; */
+  display: inline-block;
   align-items: center;
   justify-content: center;
   font-size: 5rem;

@@ -1,9 +1,9 @@
 <template>
 <div>
   <div class="container">
-    <img src="../assets/img_avatar.png" alt="Avatar" class="image">
+    <!-- <img src="../assets/img_avatar.png" alt="Avatar" class="image"> -->
     <!-- <img :src="imagePath" :alt="name" class="image"> -->
-    <!-- <img :src="'../assets/' + imagePath" :alt="name" class="image"> -->
+    <img :src="'/imgs/' + imagePath" :alt="name" class="image">
     <!-- <img :src="require(../assets/$imagePath)" :alt="name" class="image"> -->
     <div class="overlay">
       <div class="text"> {{name}} </div>

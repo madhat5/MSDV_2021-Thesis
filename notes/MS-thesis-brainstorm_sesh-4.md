@@ -15,7 +15,7 @@ code notes
             - links
             - #of moves/clipins?
 
-- *data chart 1*
+- *data chart 1* `nice to have`
     - grades
         - x axis
     - #of repeats (# of climbers)
@@ -27,7 +27,7 @@ code notes
         - radius (color?)
         - smaller = older
 
-- *data chart 2*
+- *data chart 2* `need to have`
     - bars
         - years
             - x axis
