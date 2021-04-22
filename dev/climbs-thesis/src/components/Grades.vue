@@ -46,21 +46,6 @@ export default {
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style src="vue-scrollama/dist/vue-scrollama.css"></style>
 <style scoped>
-#scrollama-container-flexed {
-    display: flex;
-    flex-direction: row-reverse;
-}
-
-#scrollama-container-flexed .scrollama-graphic {
-    flex: 1;
-    height: 80vh;
-    top: 10vh;
-}
-
-#scrollama-container-flexed .scrollama-steps {
-    flex: 1;
-}
-
 .step {
   width: 80%;
   max-width: 40rem;

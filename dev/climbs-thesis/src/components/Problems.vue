@@ -1,89 +1,71 @@
 <template>
-  <div>
-    <Scrollama @step-enter="stepEnterHandler" id="flexed">
-      <div slot="graphic" class="graphic">
-        <p>{{currStepId}}</p>
-      </div>
-      <div
-        v-for="step in scalesData" 
-          :key="step.no"
-          :data-step-id="step.id"
-        class="step" 
-          :class="{'is-active': step.id === currStepId}">
-        <p><b>{{step.level}}:</b></p>
-        <p><b>{{step.v}}; <br/> {{step.font}}</b></p>
-        <p>{{step.details}}</p>
-      </div>
-      <div slot="graphic" class="graphic">
-        <p>{{currStepId}}</p>
-      </div>
-    </Scrollama>
+<div>
+  <div class="container">
+     <div class="cocoen">
+      <img src="../assets/img_avatar.png" alt="Avatar" class="image move-img">
+      <img src="../assets/img_avatar2.png" alt="Avatar" class="image move-img">
+     </div>
+     <iframe frameborder="0" class="juxtapose" width="640" height="360" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=05283b24-a3bf-11eb-84bf-df397a3ba76f"></iframe>
+    <!-- <img :src="'/imgs/' + imagePath" :alt="name" class="image"> -->
   </div>
+  <div class="move-description">
+    <p>lorem ipsum</p>
+  </div>
+</div>
 </template>
 
 <script>
-import 'intersection-observer'; // for cross-browser support
-import Scrollama from 'vue-scrollama';
-
-import scalesJson from "../../public/scalesData.json"
-
 export default {
-  components: {
-    Scrollama
-  },
-  data() {
-    return {
-      currStepId: null,
-      scalesData: scalesJson
-    }
-  },
-  methods: {
-    stepEnterHandler({element, direction, index}) {
-      console.log({element, direction, index});
-      this.currStepId = element.dataset.stepId
-    }
+  name: 'Holds',
+  props: {
+    name: String,
+    description: String,
+    imagePath: String
   }
 }
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
-<style src="vue-scrollama/dist/vue-scrollama.css"></style>
 <style scoped>
-#scrollama-container-flexed {
-    display: flex;
-    flex-direction: row-reverse;
+.container {
+  position: relative;
+  width: 100%;
 }
 
-#scrollama-container-flexed .scrollama-graphic {
-    flex: 1;
-    height: 80vh;
-    top: 10vh;
+.move-img {
+  display: block;
+  width: 50%;
+  height: auto;
+  margin: 0 auto
+
 }
 
-#scrollama-container-flexed .scrollama-steps {
-    flex: 1;
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #008CBA;
 }
 
-.step {
-  width: 80%;
-  max-width: 40rem;
-  padding: 10rem 0;
-  margin: 0 3rem 15rem;
-  background-color: white;
-  display: inline-block;
-  justify-content: center;
+.container:hover .overlay {
+  opacity: 1;
 }
-.step.is-active {
-  background-color: beige;
-}
-.graphic {
-  height: 80vh;
-  background-color: #DDD;
-  margin: 0 3rem;
-  /* display: flex; */
-  display: inline-block;
-  align-items: center;
-  justify-content: center;
-  font-size: 5rem;
+
+.text {
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
 }
 </style>

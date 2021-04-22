@@ -73,6 +73,7 @@ import Chart from './components/Chart.vue'
 import Problems from './components/Problems.vue'
 
 import holdsJson from "../public/holdsData.json"
+import problemsJson from "../public/problemsData.json"
 
 export default {
   name: 'App',
@@ -92,7 +93,8 @@ export default {
   },
   data() {
     return {
-      holdsData: holdsJson
+      holdsData: holdsJson,
+      problemsData: problemsJson
     }
   }
 }
