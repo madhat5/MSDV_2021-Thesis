@@ -2,9 +2,10 @@
 <div>
   <div class="container">
     <img src="../assets/img_avatar.png" alt="Avatar" class="image">
-    <!-- <img src="{{imagePath}}" alt="Avatar" class="image"> -->
+    <!-- <img :src="imagePath" :alt="name" class="image"> -->
+    <!-- <img :src="'../assets/' + imagePath" :alt="name" class="image"> -->
+    <!-- <img :src="require(../assets/$imagePath)" :alt="name" class="image"> -->
     <div class="overlay">
-      <!-- <div class="text">Hello World</div> -->
       <div class="text"> {{name}} </div>
     </div>
   </div>
@@ -19,8 +20,8 @@ export default {
   name: 'Holds',
   props: {
     name: String,
-    description: String
-    // imagePath: String
+    description: String,
+    imagePath: String
   }
 }
 </script>

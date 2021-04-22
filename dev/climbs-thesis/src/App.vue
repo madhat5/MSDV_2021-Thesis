@@ -12,6 +12,7 @@
           :key="hold.id"
           :name="hold.name"
           :description="hold.description"
+          :imagePath="hold.imagePath"
         />
           <!-- :imagePath="hold.imagePath" -->
       </div>

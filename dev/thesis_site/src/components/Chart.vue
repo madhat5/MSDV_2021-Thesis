@@ -31,12 +31,12 @@ export default {
       },
       svgContainer: Object,
       chartWrapper: Object,
-      // key_x: "Danceability",
-      // key_y: "Popularity",
-      // key_r: "Beats.Per.Minute",
-      key_x: "grade.gradeV",
-      key_y: "sends.totalSends",
-      key_r: "sends.totalYears",
+      key_x: "Danceability",
+      key_y: "Popularity",
+      key_r: "Beats.Per.Minute",
+      // key_x: "grade.gradeV",
+      // key_y: "sends.totalSends",
+      // key_r: "sends.totalYears",
     }
   },
   mounted: function() {

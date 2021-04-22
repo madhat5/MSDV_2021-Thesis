@@ -3,6 +3,7 @@
     <Scrollama @step-enter="stepEnterHandler" id="flexed">
       <div slot="graphic" class="graphic">
         <p>{{currStepId}}</p>
+
       </div>
       <div
         v-for="step in scalesData" 
@@ -11,7 +12,7 @@
         class="step" 
           :class="{'is-active': step.id === currStepId}">
         <p><b>{{step.level}}:</b></p>
-        <pre>&nbsp;</pre>
+        <p><b>{{step.v}}; <br/> {{step.font}}</b></p>
         <p>{{step.details}}</p>
       </div>
     </Scrollama>
@@ -66,9 +67,8 @@ export default {
   max-width: 40rem;
   padding: 10rem 0;
   margin: 0 3rem 15rem;
-  border: 1px solid #333;
   background-color: white;
-  display: flex;
+  display: inline-block;
   justify-content: center;
 }
 .step.is-active {
@@ -77,7 +77,6 @@ export default {
 .graphic {
   height: 80vh;
   background-color: #DDD;
-  border: 1px solid #333;
   margin: 0 3rem;
   display: flex;
   align-items: center;

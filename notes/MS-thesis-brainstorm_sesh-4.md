@@ -16,14 +16,16 @@ code notes
             - #of moves/clipins?
 
 - *data chart 1*
-    - grade
+    - grades
         - x axis
     - #of repeats (# of climbers)
         - y axis
     - total time between ascent (years)
-        - radius: use time / people (gives an estimate of years per person to achieve)
-    - color
-        - country?
+        - color (radius?): use time / people (gives an estimate of years per person to achieve)
+        - hot/cold (red/blue) as spectrum
+    - age of climb (FA date)
+        - radius (color?)
+        - smaller = older
 
 - *data chart 2*
     - bars
