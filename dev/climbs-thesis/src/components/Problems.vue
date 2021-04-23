@@ -1,13 +1,17 @@
 <template>
 <div>
   <div class="container">
-     <div class="cocoen">
-      <img src="../assets/img_avatar.png" alt="Avatar" class="image move-img">
-      <img src="../assets/img_avatar2.png" alt="Avatar" class="image move-img">
-     </div>
-     <iframe frameborder="0" class="juxtapose" width="640" height="360" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=05283b24-a3bf-11eb-84bf-df397a3ba76f"></iframe>
+     <!-- <iframe frameborder="0" class="juxtapose" width="640" height="360" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=05283b24-a3bf-11eb-84bf-df397a3ba76f"></iframe> -->
+      <div  
+        v-for="problem in problemsData"
+          :key="problem.id"
+          :imagePath="problem.imagePath">
+            <iframe frameborder="0" class="juxtapose" width="640" height="360" :src="'https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=' + imagePath"></iframe>
+            <p>image + {{imagePath}} </p>
+      </div>
     <!-- <img :src="'/imgs/' + imagePath" :alt="name" class="image"> -->
-  </div>
+  </div> 
+
   <div class="move-description">
     <p>lorem ipsum</p>
   </div>
@@ -15,13 +19,19 @@
 </template>
 
 <script>
+import problemsJson from "../../public/problemsData.json"
+
 export default {
-  name: 'Holds',
-  props: {
-    name: String,
-    description: String,
-    imagePath: String
-  }
+  name: 'Problems',
+  // props: {
+  //   imagePath: String,
+  // },
+  data() {
+    return {
+      currStepId: null,
+      problemsData: problemsJson
+    }
+  },
 }
 </script>
 
@@ -58,8 +68,6 @@ export default {
 }
 
 .text {
-  color: white;
-  font-size: 20px;
   position: absolute;
   top: 50%;
   left: 50%;

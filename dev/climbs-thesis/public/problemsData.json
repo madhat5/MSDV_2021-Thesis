@@ -2,10 +2,7 @@
     "id": 0,
     "move": "start",
     "description": "Large, easy to grab holds, held with entire hand(s) while requiring minimal energy. A climber’s best friend",
-    "imagePaths": {
-        "imagePath1": "img_avatar.png",
-        "imagePath2": "img_avatar.png"
-    },
+    "imagePath": "05283b24-a3bf-11eb-84bf-df397a3ba76f",
     "grades": {
         "grade1": "v4 | 6B+",
         "grade2": "v15 | 8C"
@@ -15,10 +12,7 @@
     "id": 1,
     "move": "move 1",
     "description": "Large, easy to grab holds, held with entire hand(s) while requiring minimal energy. A climber’s best friend",
-    "imagePaths": {
-        "imagePath1": "img_avatar.png",
-        "imagePath2": "img_avatar.png"
-    },
+    "imagePath": "05283b24-a3bf-11eb-84bf-df397a3ba76f",
     "grades": {
         "grade1": "v4 | 6B+",
         "grade2": "v15 | 8C"
@@ -28,10 +22,7 @@
     "id": 2,
     "move": "move 2",
     "description": "Large, easy to grab holds, held with entire hand(s) while requiring minimal energy. A climber’s best friend",
-    "imagePaths": {
-        "imagePath1": "img_avatar.png",
-        "imagePath2": "img_avatar.png"
-    },
+    "imagePath": "05283b24-a3bf-11eb-84bf-df397a3ba76f",
     "grades": {
         "grade1": "v4 | 6B+",
         "grade2": "v15 | 8C"
@@ -41,34 +32,17 @@
     "id": 3,
     "move": "move 3",
     "description": "Large, easy to grab holds, held with entire hand(s) while requiring minimal energy. A climber’s best friend",
-    "imagePaths": {
-        "imagePath1": "img_avatar.png",
-        "imagePath2": "img_avatar.png"
-    },
+    "imagePath": "05283b24-a3bf-11eb-84bf-df397a3ba76f",
     "grades": {
         "grade1": "v4 | 6B+",
         "grade2": "v15 | 8C"
     }
-}, {
+}, 
+{
     "id": 4,
-    "move": "move 4",
-    "description": "Large, easy to grab holds, held with entire hand(s) while requiring minimal energy. A climber’s best friend",
-    "imagePaths": {
-        "imagePath1": "img_avatar.png",
-        "imagePath2": "img_avatar.png"
-    },
-    "grades": {
-        "grade1": "v4 | 6B+",
-        "grade2": "v15 | 8C"
-    }
-}, {
-    "id": 5,
     "move": "finish",
     "description": "Large, easy to grab holds, held with entire hand(s) while requiring minimal energy. A climber’s best friend",
-    "imagePaths": {
-        "imagePath1": "img_avatar.png",
-        "imagePath2": "img_avatar.png"
-    },
+    "imagePath": "05283b24-a3bf-11eb-84bf-df397a3ba76f",
     "grades": {
         "grade1": "v4 | 6B+",
         "grade2": "v15 | 8C"

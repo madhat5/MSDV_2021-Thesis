@@ -1,8 +1,13 @@
 <template>
   <div id="app">
-    <h1>What is strength in climbing?</h1>
+    <div class="thesis-title">
+      <h1>What is strength in climbing?</h1>
+      <div class="line"></div>
+      <h2>Are climbers getting stronger or are there more strong climbers?</h2>
+    </div>
     <div class="intro">
-      <p>Intro copy lorem ipsum</p>
+      <h3>Introduction</h3>
+      <p>As I’ve delved into climbing, both in practice and research, one thing has quickly become apparent: the continuous effort and never-ending endeavour to get stronger. As I began to look into this further, and developed questions about climbing benchmarks around the world, as well as the rate of strength increase of climbers, I focused my research on two questions: have we as climbers gotten stronger over time, or are there more strong climbers (or both)? Our treatment for this thesis will attempt to answer these questions by understanding what strength is in climbing. We will focus on bouldering and sport/lead climbing. It should be noted that there are other types of climbing, including: top-rope; ice-climbing; mountaineering and trad climbing; free solo and deep water solo. We will analyze several aspects of climbing, including what the records and benchmarks are for climbing routes, what the various grading systems are (how climbs are measured); what makes a climb hard; how climbers get stronger; and other aspects such as the increase in popularity of the sport over time, and accompanying research and literature. As we work on answering the aforementioned questions, we will work to expand the reader’s climbing knowledge and vocabulary throughout this essay.</p>
     </div>
     <div class="section-1">
       <h3>Climbing Holds</h3>
@@ -73,7 +78,7 @@ import Chart from './components/Chart.vue'
 import Problems from './components/Problems.vue'
 
 import holdsJson from "../public/holdsData.json"
-import problemsJson from "../public/problemsData.json"
+// import problemsJson from "../public/problemsData.json"
 
 export default {
   name: 'App',
@@ -94,7 +99,7 @@ export default {
   data() {
     return {
       holdsData: holdsJson,
-      problemsData: problemsJson
+      // problemsData: problemsJson,
     }
   }
 }
@@ -102,11 +107,50 @@ export default {
 
 <style>
 #app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif; 
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   color: #2c3e50;
-  margin-top: 60px;
+  margin: 60px auto 0;
+  max-width: 1200px;
+  font-size: 16px;
+  line-height: 1.7em;
+}
+
+p {
+  font-size: 1.1em;
+}
+
+h2, h3 {
+  font-size: 1.6em;
+}
+
+.thesis-title {
+  margin: 0 auto;
+  width: 80%;
+  height: 720px;
+}
+
+.thesis-title h1 {
+  font-family: Didot,Didot LT STD,Hoefler Text,Garamond,Times New Roman,serif;
+  font-size: 3.2em;
+  text-align: center;
+  padding-top: 30%;
+}
+
+.thesis-title .line {
+  width: 80%;
+  height: 47px;
+  border-bottom: 1px solid black;
+  margin: 0 auto;
+}
+
+.thesis-title h2 {
+  text-align: center;
+}
+
+.intro {
+  margin-bottom: 45px;
 }
 
 .viz {
