@@ -2,9 +2,7 @@
 <div>
   <div class="container">
     <!-- <img src="../assets/img_avatar.png" alt="Avatar" class="image"> -->
-    <!-- <img :src="imagePath" :alt="name" class="image"> -->
     <img :src="'/imgs/' + imagePath" :alt="name" class="image">
-    <!-- <img :src="require(../assets/$imagePath)" :alt="name" class="image"> -->
     <div class="overlay">
       <div class="text"> {{name}} </div>
     </div>
@@ -49,16 +47,17 @@ export default {
   width: 100%;
   opacity: 0;
   transition: .5s ease;
-  background-color: #008CBA;
+  background-color: #333333;
 }
 
 .container:hover .overlay {
-  opacity: 1;
+  opacity: 85%;
 }
 
 .text {
   color: white;
-  font-size: 20px;
+  font-size: 1.8em;
+  text-transform: uppercase;
   position: absolute;
   top: 50%;
   left: 50%;
