@@ -5,6 +5,9 @@
     <img :src="'/imgs/' + imagePath" :alt="name" class="image">
     <div class="overlay">
       <div class="text"> {{name}} </div>
+      <div class="overlay-box"> 
+        <img :src="'/imgs/' + overlayImg" :alt="name" class="image overlay-img"> 
+      </div>
     </div>
   </div>
   <div class="details">
@@ -19,7 +22,8 @@ export default {
   props: {
     name: String,
     description: String,
-    imagePath: String
+    imagePath: String,
+    overlayImg: String
   }
 }
 </script>
@@ -28,7 +32,13 @@ export default {
 <style scoped>
 .container {
   position: relative;
-  width: 100%;
+  width: 95%;
+  margin: 0 auto;
+}
+
+.details {
+  width: 95%;
+  margin: 0 auto;
 }
 
 .image {
@@ -54,12 +64,21 @@ export default {
   opacity: 85%;
 }
 
+.overlay-box {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
 .text {
   color: white;
   font-size: 1.8em;
   text-transform: uppercase;
   position: absolute;
-  top: 50%;
+  top: 83%;
   left: 50%;
   -webkit-transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
