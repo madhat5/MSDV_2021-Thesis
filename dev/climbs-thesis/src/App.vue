@@ -40,19 +40,6 @@
         <br/>
         Specific to bouldering, the Fontainebleau grading system has been around much longer than the Hueco system. This scale’s grades follow a similar rating system to French free-climb ratings (which we’ll see further down).The scale includes a numerical grade ascending with difficulty; starting at level 6, letters are appended to the numbers starting (format: 7C). To differentiate the Font scale from its similar French free-climbing scale, letters are capitalized in the Font system. 
         </p>
-
-        <!-- <p>
-        <b>YDS (Yosemite Decimal System)</b>
-        <br/>
-        Specific to sport/roped climbing, this scale is split into different classes, from 1 to 5. Class 5 is our main concern. Starting here, we consider the climbing as technical climbing where hands and feet are in constant use, technical gear and ropes are used, and any fall may be fatal. The class 5 grading is further split with a decimal point and additional numbers (format: 5.X). YDS uses letters above 5.9 to create increments between full number grades (format: 5.11c).
-        </p>
-
-        <p>
-        <b>French</b>
-        <br/>
-        Specific to sport/roped climbing, this scale starts at 1 (easiest), and incrementally increases difficulty. Starting at level 4, the scale adds letters a-c for smaller increases in difficulty. For even smaller increments in difficulty, starting at level 6 the scale includes a + with each letter. To differentiate the French scale from the Font scale, letters are kept lower case. 
-        </p> -->
-
       </div>
       <Grades/>
     </div>

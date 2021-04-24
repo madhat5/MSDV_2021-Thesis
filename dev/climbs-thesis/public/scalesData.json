@@ -5,7 +5,7 @@
         "details": "just started bouldering;still learning the basics and making quick progress",
         "v": "V: 0 - 2",
         "font": "Font: 4 - 5+",
-        "imagePath": "../img_avatar.png"
+        "imagePath": "grades-beginner.png"
     },
     {
         "id": 1,
@@ -14,7 +14,7 @@
         "details": "bouldering for a while now and much stronger as a result.can now flash beginner level problems",
         "v": "V: 3 - 5",
         "font": "Font: 6A - 6C+",
-        "imagePath": "../img_avatar.png"
+        "imagePath": "grades-intermediate.png"
     }, {
         "id": 2,
         "type": "Bouldering",
@@ -22,7 +22,7 @@
         "details": "bouldering for a few years.The rapid rate of progression has slowed.Knowledge and technique have increased, to create solid foundationfor further growth",
         "v": "V: 6 - 8",
         "font": "Font: 7A - 7B",
-        "imagePath": "../img_avatar.png"
+        "imagePath": "grades-advanced.png"
     }, {
         "id": 3,
         "type": "Bouldering",
@@ -30,7 +30,7 @@
         "details": "bouldering and training HARD for many years.probably one of the top boulderers at local gyms and place in local competitions.Can campus / warmup on problems that intermediate boulderers are projecting.",
         "v": "V: 9 - 12",
         "font": "Font: 7B+ - 8A+",
-        "imagePath": "../img_avatar.png"
+        "imagePath": "grades-expert.png"
     }, {
         "id": 4,
         "type": "Bouldering",
@@ -38,6 +38,6 @@
         "details": "probably sponsored and in incredibly good shape.People film you bouldering stuff. Sport  'influencer'",
         "v": "V: 13 - 17*",
         "font": "Font: 8B - 9a*",
-        "imagePath": "../img_avatar.png"
+        "imagePath": "grades-elite.png"
     }
 ]
