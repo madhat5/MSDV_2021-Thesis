@@ -4,7 +4,9 @@
      <!-- <iframe frameborder="0" class="juxtapose" width="640" height="360" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=05283b24-a3bf-11eb-84bf-df397a3ba76f"></iframe> -->
     
      <button class="move-button"
-     @click="changeTitle"
+     @click="
+     clickData = problemsData[problem.id].id, 
+     detailsData = problemsData[problem.id].description"
       v-for="problem in problemsData"
           :key="problem.id"
           :class="'move-' + problemsData[problem.id].id">
@@ -23,8 +25,9 @@
   </div> 
 
   <div class="move-description">
-    <p>lorem ipsum</p>
+    <!-- <p>{{problemsData[clickData].description}}</p> -->
     <p>{{clickData}}</p>
+    <p>{{detailsData}}</p>
   </div>
 </div>
 </template>
@@ -37,18 +40,8 @@ export default {
   data() {
     return {
       problemsData: problemsJson,
-      clickData: "blah"
-    }
-  },
-  methods: {
-    // toggleMoves: function () {
-    //   on click (if button text != section title?/class?)
-    //    then current data shown == data[arry num] for section that matches click
-    // }
-    changeTitle() {
-        // this.clickData = this.clickData.toUpperCase();
-        this.clickData = this.clickData.toUpperCase();
-        return this.clickData;
+      clickData: 0,
+      detailsData: ""
     }
   }
 }
