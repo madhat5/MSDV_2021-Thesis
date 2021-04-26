@@ -156,7 +156,7 @@ h2, h3 {
 }
 
 .grades-copy {
-  margin-bottom: 3em;
+  margin-bottom: 10em;
 }
 
 #scrollama-container-flexed {

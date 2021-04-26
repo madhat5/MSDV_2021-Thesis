@@ -2,18 +2,29 @@
 <div>
   <div class="container">
      <!-- <iframe frameborder="0" class="juxtapose" width="640" height="360" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=05283b24-a3bf-11eb-84bf-df397a3ba76f"></iframe> -->
-      <div  
-        v-for="problem in problemsData"
+    
+     <button class="move-button"
+     @click="changeTitle"
+      v-for="problem in problemsData"
           :key="problem.id"
-          :imagePath="problem.imagePath">
-            <iframe frameborder="0" class="juxtapose" width="640" height="360" :src="'https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=' + imagePath"></iframe>
-            <p>image + {{imagePath}} </p>
-      </div>
-    <!-- <img :src="'/imgs/' + imagePath" :alt="name" class="image"> -->
+          :class="'move-' + problemsData[problem.id].id">
+          {{problemsData[problem.id].move}}
+      </button>
+
+      <!-- <div class="img-slider">
+            <iframe frameborder="0" class="juxtapose" width="640" height="360" :src="'https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=' + problem.imagePath"></iframe>
+      </div> -->
+
+      <!-- <div class="img-slider" 
+        v-for="problem in problemsData"
+          :key="problem.id">
+            <iframe frameborder="0" class="juxtapose" width="640" height="360" :src="'https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=' + problem.imagePath"></iframe>
+      </div> -->
   </div> 
 
   <div class="move-description">
     <p>lorem ipsum</p>
+    <p>{{clickData}}</p>
   </div>
 </div>
 </template>
@@ -23,15 +34,23 @@ import problemsJson from "../../public/problemsData.json"
 
 export default {
   name: 'Problems',
-  // props: {
-  //   imagePath: String,
-  // },
   data() {
     return {
-      currStepId: null,
-      problemsData: problemsJson
+      problemsData: problemsJson,
+      clickData: "blah"
     }
   },
+  methods: {
+    // toggleMoves: function () {
+    //   on click (if button text != section title?/class?)
+    //    then current data shown == data[arry num] for section that matches click
+    // }
+    changeTitle() {
+        // this.clickData = this.clickData.toUpperCase();
+        this.clickData = this.clickData.toUpperCase();
+        return this.clickData;
+    }
+  }
 }
 </script>
 
