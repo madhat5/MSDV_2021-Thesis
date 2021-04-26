@@ -155,6 +155,10 @@ h2, h3 {
   margin: 0 auto;
 }
 
+.section-2 {
+  margin-bottom: 8em;
+}
+
 .grades-copy {
   margin-bottom: 10em;
 }

@@ -3,32 +3,27 @@
   <div class="container">
      <!-- <iframe frameborder="0" class="juxtapose" width="640" height="360" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=05283b24-a3bf-11eb-84bf-df397a3ba76f"></iframe> -->
     
-     <button class="move-button"
+    <div class="button-div">
+      <button class="move-button"
      @click="
      clickData = problemsData[problem.id].id, 
-     detailsData = problemsData[problem.id].description"
+     detailsData = problemsData[problem.id].description
+     imgData= problemsData[problem.id].imagePath"
       v-for="problem in problemsData"
           :key="problem.id"
           :class="'move-' + problemsData[problem.id].id">
           {{problemsData[problem.id].move}}
       </button>
+    </div>
 
-      <!-- <div class="img-slider">
-            <iframe frameborder="0" class="juxtapose" width="640" height="360" :src="'https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=' + problem.imagePath"></iframe>
-      </div> -->
+    <div class="img-slider">
+          <iframe frameborder="0" class="juxtapose" width="100%" height="500" :src="'https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=' + imgData"></iframe>
+    </div>
 
-      <!-- <div class="img-slider" 
-        v-for="problem in problemsData"
-          :key="problem.id">
-            <iframe frameborder="0" class="juxtapose" width="640" height="360" :src="'https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=' + problem.imagePath"></iframe>
-      </div> -->
+    <div class="move-description">
+      <p>{{detailsData}}</p>
+    </div>
   </div> 
-
-  <div class="move-description">
-    <!-- <p>{{problemsData[clickData].description}}</p> -->
-    <p>{{clickData}}</p>
-    <p>{{detailsData}}</p>
-  </div>
 </div>
 </template>
 
@@ -41,7 +36,8 @@ export default {
     return {
       problemsData: problemsJson,
       clickData: 0,
-      detailsData: ""
+      detailsData: problemsJson[0].description,
+      imgData: problemsJson[0].imagePath
     }
   }
 }
@@ -87,5 +83,42 @@ export default {
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
   text-align: center;
+}
+
+.button-div {
+  text-align: center;
+  margin: 0 auto;
+}
+
+.img-slider {
+  text-align: center;
+  margin: 2em auto;
+}
+
+.move-description {
+  text-align: center;
+  margin: 0 auto;
+}
+
+.move-button {
+  border-radius: 5px;
+  background-color: #ffffff;
+  border: 2px solid #555555;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 1em;
+  margin: 2.5em;
+  width: 9em;
+}
+
+.move-button {
+  transition-duration: 0.4s;
+}
+
+.move-button:hover {
+  background-color: #555555; /* Green */
+  color: white;
 }
 </style>

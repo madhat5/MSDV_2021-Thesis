@@ -66,8 +66,9 @@ export default {
 
 .overlay-box {
   position: absolute;
-  top: 50%;
+  top: 47%;
   left: 50%;
+  width: 70%;
   -webkit-transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
@@ -78,7 +79,7 @@ export default {
   font-size: 1.8em;
   text-transform: uppercase;
   position: absolute;
-  top: 83%;
+  top: 90%;
   left: 50%;
   -webkit-transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
