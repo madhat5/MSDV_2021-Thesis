@@ -1,13 +1,12 @@
 # WHAT IS STRENGTH IN CLIMBING?
 
-### Are climbers getting stronger or are there more strong climbers?
-------
+<!-- ### Are climbers getting stronger or are there more strong climbers? -->
 
 By David Malary 
 
 Project links: 
 - microsite link 
-- repo
+- https://github.com/madhat5/MSDV_2021-Thesis
 
 #### Abstract
 ------
@@ -19,4 +18,6 @@ As I’ve delved into climbing, both in practice and research, one thing has qui
 ![](preview.png)
 
 #### Acknowledgements
+- The GP81 family
+- The New School
 ------
