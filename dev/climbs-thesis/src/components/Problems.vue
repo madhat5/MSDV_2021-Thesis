@@ -101,7 +101,7 @@ export default {
 }
 
 .move-button {
-  border-radius: 5px;
+  border-radius: 10px;
   background-color: #ffffff;
   border: 2px solid #555555;
   padding: 15px 32px;
@@ -121,4 +121,6 @@ export default {
   background-color: #555555; /* Green */
   color: white;
 }
+
+
 </style>
