@@ -45,6 +45,8 @@
     </div>
     <div class="section section-3">
       <h3>Comparing problems</h3>
+      <p>lorem ipsum re: what i'm doing here. </p> 
+      <p>Blair Witch V4, Ice Pond with Burden Of Dreams V17 (Nalle Hukkataival)</p>
       <Problems/>
     </div>
     <div>
