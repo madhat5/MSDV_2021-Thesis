@@ -96,3 +96,14 @@ https://www.sitepoint.com/vue-d3-data-visualization-intro/
 > https://geolic.net/the-kit-war/
 > https://www.r-graph-gallery.com/127-r-snail.html
 > https://rayblick.gitbooks.io/note-this/content/escargot-chart-using-d3.html
+
+
+
+
+*conclusion?*
+
+all things being equal (hold types, movement)
+
+if the constants are maintaining position and movement on the wall, then we can define that as strength.
+
+then variables are wall type/ rock type, angles, hold types combinations/sizes

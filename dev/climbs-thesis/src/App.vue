@@ -20,7 +20,6 @@
           :imagePath="hold.imagePath"
           :overlayImg="hold.overlayImg"
         />
-          <!-- :imagePath="hold.imagePath" -->
       </div>
     </div>
     <div class="section section-2">
@@ -45,8 +44,8 @@
     </div>
     <div class="section section-3">
       <h3>Comparing problems</h3>
-      <p>lorem ipsum re: what i'm doing here. </p> 
-      <p>Blair Witch V4, Ice Pond with Burden Of Dreams V17 (Nalle Hukkataival)</p>
+      <p>lorem ipsum re: what i'm doing here. Comparison of 2 problems, at different levels. As we'll see, similar movements. [...] If that's the case, we can assume then that strength lies in a climber's ability to maintain position on the wall, and move/progress along the route. These are the constants, the variables being climbing angles, hold types combinations/sizes, and wall type/ rock type, route length.</p> 
+      <p><strong>Blair Witch</strong> (6B+/V4), Ice Pond || <strong>La Toupie Carnivore</strong> assis (8B+/V14) - Jimmy Webb</p>
       <Problems/>
     </div>
     <div>
@@ -56,7 +55,7 @@
       <p>Conclusion lorem ipsum</p>
     </div>
     <div class="reference">
-      <p>References lorem ipsum</p>
+      <p>References? (in treatment only?) lorem ipsum</p>
     </div>
   </div>
 </template>
@@ -68,7 +67,6 @@ import Chart from './components/Chart.vue'
 import Problems from './components/Problems.vue'
 
 import holdsJson from "../public/holdsData.json"
-// import problemsJson from "../public/problemsData.json"
 
 export default {
   name: 'App',
@@ -89,7 +87,6 @@ export default {
   data() {
     return {
       holdsData: holdsJson,
-      // problemsData: problemsJson,
     }
   }
 }
