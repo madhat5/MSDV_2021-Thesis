@@ -53,9 +53,9 @@
       <!-- <Chart/> -->
       <BarChart
        title="Bar Chart"
-       xKey="name"
-       yKey="amount" 
-      :data="barChartData"/>
+       xKey="year"
+       yKey="climbs" 
+      :data="yearsData"/>
     </div>
     <div class="conclusion">
       <p>Conclusion lorem ipsum</p>
@@ -74,6 +74,7 @@ import Problems from './components/Problems.vue'
 import BarChart from './components/BarChart.vue'
 
 import holdsJson from "../public/holdsData.json"
+import yearsJson from "../public/yearlyClimbData.json"
 
 export default {
   name: 'App',
@@ -95,6 +96,7 @@ export default {
   data() {
     return {
       holdsData: holdsJson,
+      yearsData: yearsJson,
       barChartData: [
         {
         name: "Roses",

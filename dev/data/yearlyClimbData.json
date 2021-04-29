@@ -1,73 +1,73 @@
 [{
     "id": 1,
     "year": "2002",
-    "climbs": "4"
+    "climbs": 4
 }, {
     "id": 2,
     "year": "2003",
-    "climbs": "2"
+    "climbs": 2
 }, {
     "id": 3,
     "year": "2004",
-    "climbs": "5"
+    "climbs": 5
 }, {
     "id": 4,
     "year": "2005",
-    "climbs": "1"
+    "climbs": 1
 }, {
     "id": 5,
     "year": "2006",
-    "climbs": "3"
+    "climbs": 3
 }, {
     "id": 6,
     "year": "2007",
-    "climbs": "1"
+    "climbs": 1
 }, {
     "id": 7,
     "year": "2008",
-    "climbs": "6"
+    "climbs": 6
 }, {
     "id": 8,
     "year": "2009",
-    "climbs": "7"
+    "climbs": 7
 }, {
     "id": 9,
     "year": "2010",
-    "climbs": "7"
+    "climbs": 7
 }, {
     "id": 10,
     "year": "2011",
-    "climbs": "17"
+    "climbs": 17
 }, {
     "id": 11,
     "year": "2012",
-    "climbs": "9"
+    "climbs": 9
 }, {
     "id": 12,
     "year": "2013",
-    "climbs": "21"
+    "climbs": 21
 }, {
     "id": 13,
     "year": "2014",
-    "climbs": "20"
+    "climbs": 20
 }, {
     "id": 14,
     "year": "2015",
-    "climbs": "29"
+    "climbs": 29
 }, {
     "id": 15,
     "year": "2016",
-    "climbs": "32"
+    "climbs": 32
 }, {
     "id": 16,
     "year": "2017",
-    "climbs": "28"
+    "climbs": 28
 }, {
     "id": 17,
     "year": "2018",
-    "climbs": "28"
+    "climbs": 28
 }, {
     "id": 18,
     "year": "2019",
-    "climbs": "3"
+    "climbs": 3
 }]

@@ -45,7 +45,7 @@ for (el in counts) {
     data.push({
         id: num,
         year: `${el}`,
-        climbs: `${counts[el]}`
+        climbs: +`${counts[el]}`
     })
 }
 // console.log(data)
