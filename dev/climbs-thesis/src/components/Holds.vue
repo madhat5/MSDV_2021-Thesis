@@ -4,15 +4,18 @@
     <!-- <img src="../assets/img_avatar.png" alt="Avatar" class="image"> -->
     <img :src="'/imgs/' + imagePath" :alt="name" class="image">
     <div class="overlay">
-      <div class="text"> {{name}} </div>
+      <div class="text title-text"> {{name}} </div>
       <div class="overlay-box"> 
         <img :src="'/imgs/' + overlayImg" :alt="name" class="image overlay-img"> 
       </div>
+      <div class="text details">
+        <p>{{description}}</p>
+      </div>
     </div>
   </div>
-  <div class="details">
+  <!-- <div class="details">
     <p>{{description}}</p>
-  </div>
+  </div> -->
 </div>
 </template>
 
@@ -33,7 +36,7 @@ export default {
 .container {
   position: relative;
   width: 95%;
-  margin: 0 auto;
+  margin: 8px auto;
 }
 
 .details {
@@ -66,9 +69,9 @@ export default {
 
 .overlay-box {
   position: absolute;
-  top: 47%;
+  top: 42%;
   left: 50%;
-  width: 70%;
+  width: 50%;
   -webkit-transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
@@ -76,14 +79,29 @@ export default {
 
 .text {
   color: white;
-  font-size: 1.8em;
+  text-align: center;
+}
+
+.title-text {
+  font-size: 1.5em;
   text-transform: uppercase;
   position: absolute;
-  top: 90%;
+  top: 9%;
   left: 50%;
   -webkit-transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
-  text-align: center;
+}
+
+.details {
+  font-size: 1em;
+  position: absolute;
+  top: 85%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  font-size: .8em;
+  line-height: 1.5em;
 }
 </style>

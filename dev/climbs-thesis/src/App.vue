@@ -136,8 +136,13 @@ p {
   font-size: 1.1em;
 }
 
-h2, h3 {
+h2 {
   font-size: 1.6em;
+}
+
+h3 {
+  font-family: Didot,Didot LT STD,Hoefler Text,Garamond,Times New Roman,serif;
+  font-size: 1.9em;
 }
 
 .section {
@@ -152,7 +157,7 @@ h2, h3 {
 
 .thesis-title h1 {
   font-family: Didot,Didot LT STD,Hoefler Text,Garamond,Times New Roman,serif;
-  font-size: 3.2em;
+  font-size: 3.3em;
   text-align: center;
   padding-top: 30%;
 }
@@ -171,7 +176,7 @@ h2, h3 {
 .viz {
   display: grid;
   grid-template-rows: repeat(4, 1fr);
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(4, 1fr);
 }
 
 .section section-1 .viz {
