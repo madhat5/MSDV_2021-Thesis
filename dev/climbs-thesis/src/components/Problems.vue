@@ -1,9 +1,9 @@
 <template>
 <div>
-  <div class="container">
+  <div class="container flex-container">
      <!-- <iframe frameborder="0" class="juxtapose" width="640" height="360" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=05283b24-a3bf-11eb-84bf-df397a3ba76f"></iframe> -->
     
-    <div class="button-div">
+    <div class="button-div flex-child">
       <button class="move-button"
      @click="
      clickData = problemsData[problem.id].id, 
@@ -16,14 +16,17 @@
       </button>
     </div>
 
-    <div class="img-slider">
+    <div class="img-slider flex-child">
           <iframe frameborder="0" class="juxtapose" width="100%" height="680" :src="'https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=' + imgData"></iframe>
     </div>
 
-    <div class="move-description">
+    <!-- <div class="move-description">
+      <p>{{detailsData}}</p>
+    </div> -->
+  </div> 
+  <div class="move-description">
       <p>{{detailsData}}</p>
     </div>
-  </div> 
 </div>
 </template>
 
@@ -49,6 +52,20 @@ export default {
   position: relative;
   width: 100%;
 }
+
+.flex-container {
+    display: flex;
+    height: 37em;
+}
+
+.flex-child {
+    flex: 1;
+}  
+
+.flex-child:first-child {
+    margin-right: 5px;
+    margin-top: 2em;
+} 
 
 .move-img {
   display: block;
@@ -88,11 +105,13 @@ export default {
 .button-div {
   text-align: center;
   margin: 0 auto;
+  /* flex-grow: 1; */
 }
 
 .img-slider {
   text-align: center;
   margin: 1em auto;
+  flex-grow: 5;
 }
 
 .move-description {
@@ -107,7 +126,7 @@ export default {
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
-  display: inline-block;
+  display: block;
   font-size: 1em;
   margin: 2.5em;
   width: 9em;
