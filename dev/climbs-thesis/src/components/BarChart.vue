@@ -21,7 +21,7 @@
 import { scaleLinear, scaleBand } from "d3-scale";
 import { max, min } from "d3-array";
 import { selectAll } from "d3-selection";
-import { transition } from "d3-transition";
+// import { transition } from "d3-transition";
 
 export default {
   name: "BarChart",

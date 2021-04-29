@@ -2,9 +2,9 @@
   <div>
     <Scrollama @step-enter="stepEnterHandler" id="flexed">
       <div slot="graphic" class="graphic">
-        <p>{{currStepId}}</p>
+        <!-- <p>{{currStepId}}</p> -->
         <!-- <p>{{scalesData[currStepId].level}}</p> -->
-        <!-- <img :src="'/imgs/' + scalesData[currStepId].imagePath" :alt="name" class="image">  -->
+        <img :src="'/imgs/' + scalesData[currStepId].imagePath" :alt="name" class="image"> 
       </div>
       <div
         v-for="step in scalesData" 
@@ -38,7 +38,7 @@ export default {
   },
   methods: {
     stepEnterHandler({element, direction, index}) {
-      // console.log({element, direction, index});
+      console.log({element, direction, index});
       this.currStepId = element.dataset.stepId
     }
   }
