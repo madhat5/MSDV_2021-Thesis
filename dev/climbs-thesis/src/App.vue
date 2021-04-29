@@ -48,8 +48,14 @@
       <p><strong>Blair Witch</strong> (6B+/V4), Ice Pond || <strong>La Toupie Carnivore</strong> assis (8B+/V14) - Jimmy Webb</p>
       <Problems/>
     </div>
-    <div>
-      <Chart/>
+    <div class="section section-4">
+      <h3>The numbers</h3>
+      <!-- <Chart/> -->
+      <BarChart
+       title="Bar Chart"
+       xKey="name"
+       yKey="amount" 
+      :data="barChartData"/>
     </div>
     <div class="conclusion">
       <p>Conclusion lorem ipsum</p>
@@ -63,8 +69,9 @@
 <script>
 import Holds from './components/Holds.vue'
 import Grades from './components/Grades.vue'
-import Chart from './components/Chart.vue'
+// import Chart from './components/Chart.vue'
 import Problems from './components/Problems.vue'
+import BarChart from './components/BarChart.vue'
 
 import holdsJson from "../public/holdsData.json"
 
@@ -82,11 +89,30 @@ export default {
     Holds,
     Grades,
     Problems,
-    Chart
+    // Chart,
+    BarChart
   },
   data() {
     return {
       holdsData: holdsJson,
+      barChartData: [
+        {
+        name: "Roses",
+        amount: 25
+        },
+        {
+          name: "Tulips",
+          amount: 40
+        },
+        {
+          name: "Daisies",
+          amount: 15
+        },
+        {
+          name: "Narcissuses",
+          amount: 9
+        }
+      ]
     }
   }
 }
