@@ -43,21 +43,23 @@
       <Grades/>
     </div>
     <div class="section section-3">
-      <h3>Comparing problems</h3>
+      <h3>Comparing Boulder Problems</h3>
       <p>lorem ipsum re: what i'm doing here. Comparison of 2 problems, at different levels. As we'll see, similar movements. [...] If that's the case, we can assume then that strength lies in a climber's ability to maintain position on the wall, and move/progress along the route. These are the constants, the variables being climbing angles, hold types combinations/sizes, and wall type/ rock type, route length.</p> 
       <p><strong>Blair Witch</strong> (6B+/V4), Ice Pond || <strong>La Toupie Carnivore</strong> assis (8B+/V14) - Jimmy Webb</p>
       <Problems/>
     </div>
     <div class="section section-4">
-      <h3>The numbers</h3>
+      <h3>The Numbers</h3>
       <!-- <Chart/> -->
-      <BarChart
-       title="Bar Chart"
+      <Chart 
+        :data="yearsData"/>
+      <!-- <BarChart
        xKey="year"
        yKey="climbs" 
-      :data="yearsData"/>
+      :data="yearsData"/> -->
     </div>
     <div class="conclusion">
+      <h3>The End</h3>
       <p>Conclusion lorem ipsum</p>
     </div>
     <div class="reference">
@@ -69,9 +71,9 @@
 <script>
 import Holds from './components/Holds.vue'
 import Grades from './components/Grades.vue'
-// import Chart from './components/Chart.vue'
+import Chart from './components/Chart.vue'
 import Problems from './components/Problems.vue'
-import BarChart from './components/BarChart.vue'
+// import BarChart from './components/BarChart.vue'
 
 import holdsJson from "../public/holdsData.json"
 import yearsJson from "../public/yearlyClimbData.json"
@@ -90,31 +92,13 @@ export default {
     Holds,
     Grades,
     Problems,
-    // Chart,
-    BarChart
+    Chart,
+    // BarChart
   },
   data() {
     return {
       holdsData: holdsJson,
       yearsData: yearsJson,
-      barChartData: [
-        {
-        name: "Roses",
-        amount: 25
-        },
-        {
-          name: "Tulips",
-          amount: 40
-        },
-        {
-          name: "Daisies",
-          amount: 15
-        },
-        {
-          name: "Narcissuses",
-          amount: 9
-        }
-      ]
     }
   }
 }

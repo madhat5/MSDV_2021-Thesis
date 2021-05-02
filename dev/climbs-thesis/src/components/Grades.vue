@@ -1,5 +1,5 @@
 <template>
-  <div >
+  <div class='grades-container'>
     <Scrollama @step-enter="stepEnterHandler" id="flexed">
       <div slot="graphic" class="graphic">
         <!-- <p>{{currStepId}}</p> -->
@@ -53,18 +53,18 @@ export default {
   max-width: 40rem;
   padding: 10rem 0;
   margin: 0 3rem 15rem;
-  background-color: white;
+  /* background-color: white; */
   display: inline-block;
   justify-content: center;
 }
 
 .step.is-active {
-  background-color: beige;
+  /* background-color: beige; */
 }
 
 .graphic {
   height: 80vh;
-  background-color: #DDD;
+  /* background-color: #DDD; */
   margin: 0 3rem;
   display: flex;
   align-items: center;
