@@ -50,7 +50,7 @@
 {
     "id": 7,
     "name": "smear",
-    "description": "When placing the foot on a part of the wall with no actual foothold. By placing the ball of the foot on the wall and putting as much pressure as possible.",
+    "description": "When placing the foot on a part of the wall with no actual foothold. By placing the ball of the foot on the wall with as much pressure as possible.",
     "imagePath": "smear_01.png",
     "overlayImg": "smear_01.png"
 },

@@ -39,7 +39,7 @@
         "id": 4,
         "type": "Bouldering",
         "level": "Elite",
-        "details": "Theese climbers are world-class athletes. They are likely sponsored, competing regularly in international competitions, and setting benchmarks outdoors. These are the sport's 'influencers'.",
+        "details": "These climbers are world-class athletes. They are likely sponsored, competing regularly in international competitions, and setting benchmarks outdoors. These are the sport's 'influencers'.",
         "holds": ["Crimps", "Pinches", "Small feet", "Heel and Toe hooks", "Volumes", "Underclings", "Side pulls", "Rails", "Undersized holds", "Gastons", "Pockets"],
         "v": "V: 13 - 17*",
         "font": "Font: 8B - 9a*",

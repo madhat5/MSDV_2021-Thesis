@@ -62,10 +62,21 @@ export default {
     flex: 1;
 }  
 
-.flex-child:first-child {
+/* .flex-child:first-child {
     margin-right: 5px;
     margin-top: .5em;
-} 
+}  */
+
+.button-div {
+  margin-right: 5px;
+  margin-top: .5em;
+  text-align: center;
+  display: flex;
+  flex-direction: column-reverse;
+  height: 30em;
+  /* margin: 0 auto; */
+  /* flex-grow: 1; */
+}
 
 .move-img {
   display: block;
@@ -102,12 +113,6 @@ export default {
   text-align: center;
 }
 
-.button-div {
-  text-align: center;
-  margin: 0 auto;
-  /* flex-grow: 1; */
-}
-
 .img-slider {
   text-align: center;
   margin: 1em auto 0;
@@ -121,14 +126,16 @@ export default {
 
 .move-button {
   border-radius: 10px;
-  background-color: #ffffff;
+  /* background-color: #ffffff;
+  border: 2px solid #555555; */
+  background-color: #dddddd;
   border: 2px solid #555555;
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
   display: block;
   font-size: 1em;
-  margin: 2.5em;
+  margin: 1.25em 2.5em;
   width: 9em;
 }
 
@@ -137,8 +144,11 @@ export default {
 }
 
 .move-button:hover {
-  background-color: #555555; /* Green */
-  color: white;
+  /* background-color: #555555; 
+  color: #ffffff; */
+  background-color:#ffffff;
+  color: #555555;
+  border: 2px solid #ffffff;
 }
 
 

@@ -139,7 +139,7 @@ h3 {
   padding: 1em 11em;
 }
 
-.section-1 {
+.section-1, .section-3 {
     background-color: #ddd;
     padding: 2em 11em 4em;
 }
@@ -154,7 +154,7 @@ h3 {
   font-family: Didot,Didot LT STD,Hoefler Text,Garamond,Times New Roman,serif;
   font-size: 3.3em;
   text-align: center;
-  padding-top: 30%;
+  padding-top: 23%;
 }
 
 .thesis-title .line {
