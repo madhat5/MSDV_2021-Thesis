@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <div class="thesis-title">
+    <div class="section thesis-title">
       <h1>What is strength in climbing?</h1>
       <div class="line"></div>
       <h2>Are climbers getting stronger or are there more strong climbers?</h2>
@@ -57,11 +57,11 @@
        yKey="climbs" 
       :data="yearsData"/> -->
     </div>
-    <div class="conclusion">
+    <div class="section conclusion">
       <h3>The End</h3>
       <p>Conclusion lorem ipsum</p>
     </div>
-    <div class="reference">
+    <div class="section reference">
       <p>References? (in treatment only?) lorem ipsum</p>
     </div>
   </div>
@@ -104,13 +104,18 @@ export default {
 </script>
 
 <style>
+body {
+  margin: 0;
+}
+
 #app {
   font-family: Helvetica Neue,Helvetica,Arial,sans-serif; 
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   color: #2c3e50;
   margin: 60px auto 0;
-  max-width: 1200px;
+  /* max-width: 1200px; */
+  width: 100%;
   font-size: 16px;
   line-height: 1.7em;
 }
@@ -129,12 +134,18 @@ h3 {
 }
 
 .section {
-  margin-bottom: 4em
+  margin: 0 auto;
+  margin-bottom: 4em;
+  padding: 1em 11em;
+}
+
+.section-1 {
+    background-color: #ddd;
 }
 
 .thesis-title {
   margin: 0 auto;
-  width: 80%;
+  /* width: 80%; */
   height: 720px;
 }
 
@@ -162,7 +173,7 @@ h3 {
   grid-template-columns: repeat(4, 1fr);
 }
 
-.section section-1 .viz {
+.section .section-1 .viz {
   text-align: center;
 }
 
@@ -170,9 +181,9 @@ h3 {
   margin: 0 auto;
 }
 
-.section-2 {
+/* .section-2 {
   margin-bottom: 8em;
-}
+} */
 
 /* .grades-copy {
   margin-bottom: 10em;
