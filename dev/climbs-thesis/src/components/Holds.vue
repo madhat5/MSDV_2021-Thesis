@@ -83,6 +83,7 @@ export default {
 }
 
 .title-text {
+  width: 100%;
   font-size: 1.5em;
   text-transform: uppercase;
   position: absolute;

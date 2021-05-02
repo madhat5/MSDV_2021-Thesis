@@ -2,7 +2,8 @@
         "id": 0,
         "type": "Bouldering",
         "level": "Beginner",
-        "details": "just started bouldering;still learning the basics and making quick progress",
+        "details": "They've just started bouldering. They are still learning the basics (holds, movement, terminology) and are making quick progress through the initial grades.",
+        "holds": ["Jugs", "Normal feet", "Oversized holds"],
         "v": "V: 0 - 2",
         "font": "Font: 4 - 5+",
         "imagePath": "grades-beginner.png"
@@ -11,7 +12,8 @@
         "id": 1,
         "type": "Bouldering",
         "level": "Intermediate",
-        "details": "bouldering for a while now and much stronger as a result.can now flash beginner level problems",
+        "details": "They've been bouldering for a while longer, and are seeing visible gains in physical strength, as well as a better understanding of basic technique. Climbers at this level can likely flash (send the route on their very first attempt) boulder problems at the beginner level.",
+        "holds": ["Jugs", "Normal feet", "Crimps", "Pinches", "Heel and Toe hooks", "Volumes", "Underclings", "Side pulls", "Rails", "Incuts"],
         "v": "V: 3 - 5",
         "font": "Font: 6A - 6C+",
         "imagePath": "grades-intermediate.png"
@@ -19,7 +21,8 @@
         "id": 2,
         "type": "Bouldering",
         "level": "Advanced",
-        "details": "bouldering for a few years.The rapid rate of progression has slowed.Knowledge and technique have increased, to create solid foundationfor further growth",
+        "details": "They've been bouldering for an extended amount of time (a few years). The rate of progression seen early on has slowed down. A solid foundation of both knowledge and technique has been established, paving the way for potential further growth.",
+        "holds": ["Crimps", "Pinches", "Small feet", "Heel and Toe hooks", "Volumes", "Underclings", "Side pulls", "Rails", "Undersized holds", "Gastons", "Pockets"],
         "v": "V: 6 - 8",
         "font": "Font: 7A - 7B",
         "imagePath": "grades-advanced.png"
@@ -27,7 +30,8 @@
         "id": 3,
         "type": "Bouldering",
         "level": "Expert",
-        "details": "bouldering and training HARD for many years.probably one of the top boulderers at local gyms and place in local competitions.Can campus / warmup on problems that intermediate boulderers are projecting.",
+        "details": "They've been bouldering hard for many years, and have a regular off-wall training regimen. They are likely one of the top boulderers at their local gyms, participate and finish on the podium in local climbing competitions. These climbers can campus (moving using arms only, no feet) and warmup on boulder problems that intermediate boulderers find challenging.",
+        "holds": ["Crimps", "Pinches", "Small feet", "Heel and Toe hooks", "Volumes", "Underclings", "Side pulls", "Rails", "Undersized holds", "Gastons", "Pockets"],
         "v": "V: 9 - 12",
         "font": "Font: 7B+ - 8A+",
         "imagePath": "grades-expert.png"
@@ -35,7 +39,8 @@
         "id": 4,
         "type": "Bouldering",
         "level": "Elite",
-        "details": "probably sponsored and in incredibly good shape.People film you bouldering stuff. Sport  'influencer'",
+        "details": "Theese climbers are world-class athletes. They are likely sponsored, competing regularly in international competitions, and setting benchmarks outdoors. These are the sport's 'influencers'.",
+        "holds": ["Crimps", "Pinches", "Small feet", "Heel and Toe hooks", "Volumes", "Underclings", "Side pulls", "Rails", "Undersized holds", "Gastons", "Pockets"],
         "v": "V: 13 - 17*",
         "font": "Font: 8B - 9a*",
         "imagePath": "grades-elite.png"

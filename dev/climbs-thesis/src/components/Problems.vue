@@ -55,7 +55,7 @@ export default {
 
 .flex-container {
     display: flex;
-    height: 37em;
+    height: 34em;
 }
 
 .flex-child {
@@ -64,7 +64,7 @@ export default {
 
 .flex-child:first-child {
     margin-right: 5px;
-    margin-top: 2em;
+    margin-top: .5em;
 } 
 
 .move-img {
@@ -110,7 +110,7 @@ export default {
 
 .img-slider {
   text-align: center;
-  margin: 1em auto;
+  margin: 1em auto 0;
   flex-grow: 5;
 }
 

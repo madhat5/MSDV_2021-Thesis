@@ -13,8 +13,15 @@
         class="step" 
           :class="{'is-active': step.id === currStepId}">
         <p><b>{{step.level}}:</b></p>
-        <p><b>{{step.v}}; <br/> {{step.font}}</b></p>
-        <p>{{step.details}}</p>
+        <p><b>{{step.v}} <br/> {{step.font}}</b></p>
+        <p><b>Climber profile:</b> {{step.details}}</p>
+        <p><b>Common holds:</b></p>
+        <!-- <p>{{step.holds}}</p> -->
+        <ul>
+          <li v-for="el in step.holds"
+            :key="el"
+          >{{el}}</li>
+        </ul>
       </div>
     </Scrollama>
   </div>

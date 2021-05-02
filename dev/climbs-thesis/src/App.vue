@@ -135,12 +135,13 @@ h3 {
 
 .section {
   margin: 0 auto;
-  margin-bottom: 4em;
+  margin-bottom: 1em;
   padding: 1em 11em;
 }
 
 .section-1 {
     background-color: #ddd;
+    padding: 2em 11em 4em;
 }
 
 .thesis-title {
