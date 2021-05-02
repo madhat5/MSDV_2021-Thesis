@@ -50,9 +50,8 @@
     </div>
     <div class="section section-4">
       <h3>The Numbers</h3>
-      <!-- <Chart/> -->
-      <Chart 
-        :data="yearsData"/>
+      <Chart/>
+      <!-- <Chart :data="yearsData"/> -->
       <!-- <BarChart
        xKey="year"
        yKey="climbs" 
@@ -76,7 +75,7 @@ import Problems from './components/Problems.vue'
 // import BarChart from './components/BarChart.vue'
 
 import holdsJson from "../public/holdsData.json"
-import yearsJson from "../public/yearlyClimbData.json"
+// import yearsJson from "../public/yearlyClimbData.json"
 
 export default {
   name: 'App',
@@ -98,7 +97,7 @@ export default {
   data() {
     return {
       holdsData: holdsJson,
-      yearsData: yearsJson,
+      // yearsData: yearsJson,
     }
   }
 }
@@ -175,9 +174,9 @@ h3 {
   margin-bottom: 8em;
 }
 
-.grades-copy {
+/* .grades-copy {
   margin-bottom: 10em;
-}
+} */
 
 #scrollama-container-flexed {
     display: flex;

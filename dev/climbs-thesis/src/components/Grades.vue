@@ -2,9 +2,9 @@
   <div class='grades-container'>
     <Scrollama @step-enter="stepEnterHandler" id="flexed">
       <div slot="graphic" class="graphic">
-        <!-- <p>{{currStepId}}</p> -->
+        <p style="display:none">{{currStepId}}</p>
         <!-- <p>{{scalesData[currStepId].level}}</p> -->
-        <img :src="'/imgs/' + scalesData[currStepId].imagePath" :alt="name" class="image"> 
+        <!-- <img :src="'/imgs/' + scalesData[currStepId].imagePath" :alt="name" class="image">  -->
       </div>
       <div
         v-for="step in scalesData" 
@@ -58,9 +58,9 @@ export default {
   justify-content: center;
 }
 
-.step.is-active {
-  /* background-color: beige; */
-}
+/* .step.is-active {
+  background-color: beige;
+} */
 
 .graphic {
   height: 80vh;
