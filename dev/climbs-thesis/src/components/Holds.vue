@@ -2,11 +2,11 @@
 <div>
   <div class="container">
     <!-- <img src="../assets/img_avatar.png" alt="Avatar" class="image"> -->
-    <img :src="'../imgs/' + imagePath" :alt="name" class="image">
+    <img :src="'../../imgs/' + imagePath" :alt="name" class="image">
     <div class="overlay">
       <div class="text title-text"> {{name}} </div>
       <div class="overlay-box"> 
-        <img :src="'../imgs/' + overlayImg" :alt="name" class="image overlay-img"> 
+        <img :src="'../../imgs/' + overlayImg" :alt="name" class="image overlay-img"> 
       </div>
       <div class="text details">
         <p>{{description}}</p>
