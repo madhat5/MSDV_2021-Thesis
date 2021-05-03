@@ -63,9 +63,13 @@ export default {
   background-color: #333333;
 }
 
-.container:hover .overlay {
+.overlay:hover {
   opacity: 85%;
 }
+
+/* .container:hover .overlay {
+  opacity: 85%;
+} */
 
 .overlay-box {
   position: absolute;
