@@ -1,0 +1,50 @@
+[{
+    "id": 0,
+    "move": "start",
+    "description": "set yourself on the start position",
+    "imagePath": "82dbd242-a752-11eb-84bf-df397a3ba76f",
+    "grades": {
+        "grade1": "v4 | 6B+",
+        "grade2": "v15 | 8C"
+    }
+},
+{
+    "id": 1,
+    "move": "move 1",
+    "description": "reach for move 1",
+    "imagePath": "0e0da804-a753-11eb-84bf-df397a3ba76f",
+    "grades": {
+        "grade1": "v4 | 6B+",
+        "grade2": "v15 | 8C"
+    }
+},
+{
+    "id": 2,
+    "move": "move 2",
+    "description": "setup and move 2",
+    "imagePath": "5859db6c-a753-11eb-84bf-df397a3ba76f",
+    "grades": {
+        "grade1": "v4 | 6B+",
+        "grade2": "v15 | 8C"
+    }
+},
+{
+    "id": 3,
+    "move": "move 3",
+    "description": "big move 3",
+    "imagePath": "69d146c8-a753-11eb-84bf-df397a3ba76f",
+    "grades": {
+        "grade1": "v4 | 6B+",
+        "grade2": "v15 | 8C"
+    }
+}, 
+{
+    "id": 4,
+    "move": "finish",
+    "description": "reach the end, top out (completing the climb)",
+    "imagePath": "8362107c-a753-11eb-84bf-df397a3ba76f",
+    "grades": {
+        "grade1": "v4 | 6B+",
+        "grade2": "v15 | 8C"
+    }
+}]
