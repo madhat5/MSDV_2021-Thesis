@@ -3,7 +3,7 @@
     <Scrollama @step-enter="stepEnterHandler" id="flexed">
       <div slot="graphic" class="graphic">
         <!-- <p style="display:none">{{currStepId}}</p> -->
-        <img :src="'/imgs/' + scalesData[currStepId].imagePath" class="image"> 
+        <img :src="'../imgs/' + scalesData[currStepId].imagePath" class="image"> 
         <!-- <p>{{scalesData[currStepId].level}}</p> -->
         <!-- <img :src="'/imgs/' + scalesData[currStepId].imagePath" :alt="name" class="image">  -->
       </div>
