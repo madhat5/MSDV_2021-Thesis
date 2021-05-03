@@ -2,8 +2,8 @@
   <div class='grades-container'>
     <Scrollama @step-enter="stepEnterHandler" id="flexed">
       <div slot="graphic" class="graphic">
+        <!-- <p style="display:none">{{currStepId}}</p> -->
         <img :src="'/imgs/' + scalesData[currStepId].imagePath" class="image"> 
-        <p style="display:none">{{currStepId}}</p>
         <!-- <p>{{scalesData[currStepId].level}}</p> -->
         <!-- <img :src="'/imgs/' + scalesData[currStepId].imagePath" :alt="name" class="image">  -->
       </div>
@@ -40,7 +40,7 @@ export default {
   },
   data() {
     return {
-      currStepId: null,
+      currStepId: 0,
       scalesData: scalesJson
     }
   },
