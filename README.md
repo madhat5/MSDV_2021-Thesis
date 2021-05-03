@@ -5,8 +5,8 @@
 By David Malary 
 
 Project links: 
-- microsite link 
-- https://github.com/madhat5/MSDV_2021-Thesis
+- [project link](https://madhat5.github.io/project-repo/) 
+- [project repo](https://github.com/madhat5/MSDV_2021-Thesis)
 
 #### Abstract
 ------
@@ -16,6 +16,10 @@ As I’ve delved into climbing, both in practice and research, one thing has qui
 #### Preview
 ------
 ![](preview.png)
+
+<!-- #### Presentation
+------
+![](preview.png) -->
 
 #### Acknowledgements
 - The GP81 family
