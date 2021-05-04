@@ -179,7 +179,8 @@ h4 {
   font-family: Didot,Didot LT STD,Hoefler Text,Garamond,Times New Roman,serif;
   font-size: 3.3em;
   text-align: center;
-  padding-top: 23%;
+  padding-top: 20%;
+  line-height: 1.5em;
 }
 
 .thesis-title .line {
