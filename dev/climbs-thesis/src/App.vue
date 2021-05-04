@@ -53,7 +53,7 @@
       <p><strong>Blair Witch</strong> (6B+/V4), Ice Pond || <strong>La Toupie Carnivore</strong> assis (8B+/V14) - Jimmy Webb</p>
 
       <Problems/>
-
+      <div class="line"></div>
       <p>Based on what we’ve seen to this point, our constant has been the climber and the variables include hold types and size and combinations, route length and angles, body positioning, route grade. With this, we’ll conclude that strength in climbing is the ability for a climber to stay on the wall while moving through the problem.</p>
 
       <!-- <p>lorem ipsum re: what i'm doing here. Comparison of 2 problems, at different levels. As we'll see, similar movements. [...] If that's the case, we can assume then that strength lies in a climber's ability to maintain position on the wall, and move/progress along the route. These are the constants, the variables being climbing angles, hold types combinations/sizes, and wall type/ rock type, route length.</p>  -->
@@ -185,9 +185,16 @@ h4 {
 
 .thesis-title .line {
   width: 80%;
-  height: 47px;
+  height: 30px;
   border-bottom: 1px solid black;
   margin: 0 auto;
+}
+
+.section-3 .line {
+  width: 60%;
+  height: 1px;
+  border-bottom: 1px solid black;
+  margin: 0 auto 3em;
 }
 
 .thesis-title h2 {
