@@ -1,7 +1,7 @@
 [{
     "id": 0,
     "move": "start",
-    "description": "set yourself on the start position",
+    "description": "Setting yourself at the start position is not always a simple prospect. In many instances it feels like you're in the middle of another move. On the left side boulder (LB), I'm setup with a small left hand crimp, and a larger better jug on the right. I'm twisted out right keeping my center of balance straight down. On the right side boulder (RB), pro climber Jimmy Webb is starting off sitting with a double undercling and hips open. This means he'll have to exhert a lot of strength to pull himself up and towards the wall to set himself up at the start prior to making the first move.",
     "imagePath": "82dbd242-a752-11eb-84bf-df397a3ba76f",
     "grades": {
         "grade1": "v4 | 6B+",
@@ -11,7 +11,7 @@
 {
     "id": 1,
     "move": "move 1",
-    "description": "reach for move 1",
+    "description": "On the LB, while keeping my right hand on the good jug, I reach for a big crimp (~1 pad) up and to my left, my feet slip off the wall - a term called cutting - but I was able to maintain my grip on both holds and bring my right foot in, with my right hip to the wall, ready for the next move. Jimmy's first move is a small crimp (~1/2 pad) directly overhead, and requires a big reach with an almost full extension. Keeping his hips open and close to the wall, he brings his left up to ready himself for the next move",
     "imagePath": "0e0da804-a753-11eb-84bf-df397a3ba76f",
     "grades": {
         "grade1": "v4 | 6B+",
@@ -21,7 +21,7 @@
 {
     "id": 2,
     "move": "move 2",
-    "description": "setup and move 2",
+    "description": "What is arguably the biggest move of both climbs happens here - this is usually dubbed as the crux of the climb. On the LB, with my right hip I throw myself up and right to slap down on a sloper. There's a little divet for me to apply more pressure on, but it is otherwise flat I walk my feet so that my left hip is to the well, and I open my hips to square up. Jimmy makes a similar move on the RB - a big throw to a sloper. The move is significanly hard however; the angle of the hold is much steeper, and the hold itself much smoother and with nothing to use but a flat hand with excessive downward force to maintain position. What makes this demonstration of climbing strength even more impressive is that is left hand is still on a small crip, and his feet cut; his ability to stay on the wall is entirely reliant on 2 bad holds.",
     "imagePath": "5859db6c-a753-11eb-84bf-df397a3ba76f",
     "grades": {
         "grade1": "v4 | 6B+",
@@ -31,7 +31,7 @@
 {
     "id": 3,
     "move": "move 3",
-    "description": "big move 3",
+    "description": "Once past the crux, the moves are again similar on both boulders - a left hand sloper. On the LB however, the hold's angle is much lower than the RB, and the texture of the boulder allowed me to find little cracks to increase my grip on the hold. On the RB Jimmy's move to the left hold is much more precarious, and is almost another crux. While maintaining his feet in their previous position, he reaches for another smooth sloper at a steep angle, and finds himself very extended, with little room for big moves.",
     "imagePath": "69d146c8-a753-11eb-84bf-df397a3ba76f",
     "grades": {
         "grade1": "v4 | 6B+",
@@ -41,7 +41,7 @@
 {
     "id": 4,
     "move": "finish",
-    "description": "reach the end, top out (completing the climb)",
+    "description": "Finishing a boulder is sometimes the trickiest part of the climb. At the point on the LB, my climb is very much at an end: the angle is much lower, I have a clear line of sight ahead, and I'm much more stable. It's a straightforward movement to pull myself up and stand at the top. On the RB side, Jimmy actually has a few more moves to go in order to top out. Furthermore, the steep angle of the boulder and the frictionless holds are still present. Jimmy make small incremental moves (called bumping) to work his way up the end of the boulder.",
     "imagePath": "8362107c-a753-11eb-84bf-df397a3ba76f",
     "grades": {
         "grade1": "v4 | 6B+",

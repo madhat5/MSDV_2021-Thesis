@@ -4,6 +4,7 @@
       <h1>What is strength in climbing?</h1>
       <div class="line"></div>
       <!-- <h2>Are climbers getting stronger or are there more strong climbers?</h2> -->
+      <h2>How do climbers use it?</h2>
     </div>
     <div class="section section-0 intro">
       <h3>Introduction</h3>
@@ -46,14 +47,16 @@
     </div>
     <div class="section section-3">
       <h3>Comparing Boulder Problems</h3>
-      <!-- <p>lorem ipsum re: what i'm doing here. Comparison of 2 problems, at different levels. As we'll see, similar movements. [...] If that's the case, we can assume then that strength lies in a climber's ability to maintain position on the wall, and move/progress along the route. These are the constants, the variables being climbing angles, hold types combinations/sizes, and wall type/ rock type, route length.</p>  -->
-      
+
       <p>At this point we can combine what we’ve learned so far, and attempt to answer our question of what is strength in climbing. We’ll do this by analyzing some of the different moves of a climb, by comparing climbers at 2 different levels (and genders?). For each boulder problem we’ll look at each move, the hold types and size, the body position, the grade, route length, and the sequences required to stay and move on the wall.</p> 
+
+      <p><strong>Blair Witch</strong> (6B+/V4), Ice Pond || <strong>La Toupie Carnivore</strong> assis (8B+/V14) - Jimmy Webb</p>
+
+      <Problems/>
 
       <p>Based on what we’ve seen to this point, our constant has been the climber and the variables include hold types and size and combinations, route length and angles, body positioning, route grade. With this, we’ll conclude that strength in climbing is the ability for a climber to stay on the wall while moving through the problem.</p>
 
-      <p><strong>Blair Witch</strong> (6B+/V4), Ice Pond || <strong>La Toupie Carnivore</strong> assis (8B+/V14) - Jimmy Webb</p>
-      <Problems/>
+      <!-- <p>lorem ipsum re: what i'm doing here. Comparison of 2 problems, at different levels. As we'll see, similar movements. [...] If that's the case, we can assume then that strength lies in a climber's ability to maintain position on the wall, and move/progress along the route. These are the constants, the variables being climbing angles, hold types combinations/sizes, and wall type/ rock type, route length.</p>  -->
     </div>
     <div class="section section-4">
       <h3>The Numbers</h3>
@@ -76,8 +79,6 @@ Is there an age for elite climbing?
     <div class="section conclusion">
       <!-- <h3>The End</h3> -->
       <h3>What is Strength in Climbing?</h3>
-
-      <p>Conclusion lorem ipsum</p>
 
       <p>Based on what we’ve seen to this point, our constant has been the climber and the variables include hold types and size and combinations, route length and angles, body positioning, route grade. With this, we’ll conclude that strength in climbing is the ability for a climber to stay on the wall while moving through the problem.</p>
     </div>
@@ -151,6 +152,10 @@ h2 {
 h3 {
   font-family: Didot,Didot LT STD,Hoefler Text,Garamond,Times New Roman,serif;
   font-size: 1.9em;
+}
+
+h4 {
+  font-size: 1.3em;
 }
 
 .section {

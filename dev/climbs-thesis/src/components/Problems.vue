@@ -17,7 +17,7 @@
     </div>
 
     <div class="img-slider flex-child">
-          <iframe frameborder="0" class="juxtapose" width="100%" height="680" :src="'https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=' + imgData"></iframe>
+          <iframe frameborder="0" class="juxtapose" width="100%" height="100%" :src="'https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=' + imgData"></iframe>
     </div>
 
     <!-- <div class="move-description">
@@ -94,7 +94,8 @@ export default {
 
 .move-description {
   text-align: center;
-  margin: 0 auto;
+  margin: -2em auto 4em;
+  text-align: left;
 }
 
 .move-button {

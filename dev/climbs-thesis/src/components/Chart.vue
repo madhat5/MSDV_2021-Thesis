@@ -1,6 +1,8 @@
 <template>
   <div>
     <!-- <svg></svg> -->
+    <!-- <h4>Are climbers getting stronger or are there more strong climbers?</h4> -->
+    <h4>How many hard climbs are achieved per year?</h4>
     <div class="bar-chart"></div>
   </div>
 </template>

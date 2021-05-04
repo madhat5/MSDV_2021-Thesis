@@ -64,7 +64,7 @@ export default {
 }
 
 .overlay:hover {
-  opacity: 85%;
+  opacity: 85% !important;
 }
 
 /* .container:hover .overlay {
