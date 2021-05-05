@@ -147,7 +147,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   color: #2c3e50;
-  margin: 60px auto 0;
+  margin: 0 auto;
   /* max-width: 1200px; */
   width: 100%;
   font-size: 16px;
@@ -186,22 +186,44 @@ h4 {
 .thesis-title {
   margin: 0 auto;
   /* width: 80%; */
-  height: 720px;
+  /* height: 720px; */
+  background-image: url('https://raw.githubusercontent.com/madhat5/MSDV_2021-Thesis/master/dev/climbs-thesis/public/imgs/bg_img-intro.png');
+  height: 100vh;  
+  color: #F5F5F5;
+  text-align: left;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.conclusion {
+  margin: 0 auto;
+  background-image: url('https://raw.githubusercontent.com/madhat5/MSDV_2021-Thesis/master/dev/climbs-thesis/public/imgs/bg_img-bookend.png');
+  height: 100vh;  
+  color: #F5F5F5;
+  padding-top: 6em;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .thesis-title h1 {
   /* font-family: Didot,Didot LT STD,Hoefler Text,Garamond,Times New Roman,serif; */
-  font-size: 3.3em;
-  text-align: center;
-  padding-top: 20%;
+  font-size: 3.5em;
+  text-align: left;
+  padding-top: 25%;
   line-height: 1.5em;
+}
+
+.thesis-title h2 {
+  text-align: left;
+  font-weight: 500;
+  font-size: 2em;
 }
 
 .thesis-title .line {
   width: 80%;
   height: 30px;
-  border-bottom: 2px solid black;
-  margin: 0 auto;
+  border-bottom: 2px solid #F5F5F5;
+  margin: 0 auto 0 0;
 }
 
 .section-3 .line {
@@ -218,9 +240,8 @@ h4 {
   margin: 0 auto 3em 0;
 }
 
-.thesis-title h2 {
-  text-align: center;
-  font-weight: 500;
+.conclusion .subhead-line {
+  border-bottom: 2px solid #F5F5F5;
 }
 
 .intro-copy {
@@ -262,5 +283,13 @@ h4 {
 
 #scrollama-container-flexed .scrollama-steps {
     flex: 1;
+}
+
+.section-4 p{
+  padding: 1em 12em 0 0;
+}
+
+.conclusion p{
+  padding: 1em 25em 0 0;
 }
 </style>

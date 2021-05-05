@@ -94,7 +94,7 @@ export default {
 
 .move-description {
   text-align: center;
-  margin: -2em auto 4em;
+  margin: -2em 10% 4em;
   text-align: left;
 }
 
