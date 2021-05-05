@@ -8,10 +8,18 @@
     </div>
     <div class="section section-0 intro">
       <h3>Introduction</h3>
-      <p>As I’ve delved into climbing, both in practice and research, one thing has quickly become apparent: the continuous effort and never-ending endeavour to get stronger. As I began to look into this further, and developed questions about climbing benchmarks around the world, as well as the rate of strength increase of climbers, I focused my research on two questions: have we as climbers gotten stronger over time, or are there more strong climbers (or both)? Our treatment for this thesis will attempt to answer these questions by understanding what strength is in climbing. We will focus on bouldering and sport/lead climbing. It should be noted that there are other types of climbing, including: top-rope; ice-climbing; mountaineering and trad climbing; free solo and deep water solo. We will analyze several aspects of climbing, including what the records and benchmarks are for climbing routes, what the various grading systems are (how climbs are measured); what makes a climb hard; how climbers get stronger; and other aspects such as the increase in popularity of the sport over time, and accompanying research and literature. As we work on answering the aforementioned questions, we will work to expand the reader’s climbing knowledge and vocabulary throughout this essay.</p>
+      <div class="subhead-line"></div>
+      <div class="intro-copy">
+        <p>As I’ve delved into climbing, both in practice and research, one thing has quickly become apparent: the continuous effort and never-ending endeavour to get stronger. As I began to look into this further, and developed questions about climbing benchmarks around the world, as well as the rate of strength increase of climbers, I focused my research on how strength is expressed in climbing.</p>
+        
+        <p>Our treatment for this thesis will attempt to answer these questions by understanding what strength is in climbing. We will focus on bouldering and sport/lead climbing. It should be noted that there are other types of climbing, including: top-rope; ice-climbing; mountaineering and trad climbing; free solo and deep water solo.</p>
+
+        <p>We will analyze several aspects of climbing, including what the records and benchmarks are for climbing routes, what the various grading systems are (how climbs are measured); what makes a climb hard; how climbers get stronger; and other aspects such as the increase in popularity of the sport over time, and accompanying research and literature. As we work on answering the aforementioned questions, we will work to expand the reader’s climbing knowledge and vocabulary throughout this essay.</p>
+      </div>
     </div>
     <div class="section section-1">
       <h3>Climbing Holds</h3>
+      <div class="subhead-line"></div>
       <div class="viz">
         <Holds
           v-for="hold in holdsData"
@@ -25,6 +33,7 @@
     </div>
     <div class="section section-2">
       <h3>Climbing Grades</h3>
+      <div class="subhead-line"></div>
     
       <div class="grades-copy">
         <p>Now that we know how to hold onto the wall, we’ll talk about climbing grades - this is how climbs are measured. There are quite a few different scales, each being developed separately (like Celsius/Fahrenheit) so we focus on the most common bouldering scales: V scale and Font scale. These grades are used both indoors and outdoors, and were developed “as a way to indicate the difficulty of a boulder problem to someone who had never tried it before”, and to compare to problems in other locations.</p>
@@ -47,6 +56,7 @@
     </div>
     <div class="section section-3">
       <h3>Comparing Boulder Problems</h3>
+      <div class="subhead-line"></div>
 
       <p>At this point we can combine what we’ve learned so far, and attempt to answer our question of what is strength in climbing. We’ll do this by analyzing some of the different moves of a climb, by comparing climbers at 2 different levels (and genders?). For each boulder problem we’ll look at each move, the hold types and size, the body position, the grade, route length, and the sequences required to stay and move on the wall.</p> 
 
@@ -60,6 +70,7 @@
     </div>
     <div class="section section-4">
       <h3>The Numbers</h3>
+      <div class="subhead-line"></div>
       <p>After gaining a better understanding of hold types, climbing grades, and what a boulder problem looks like,  we can look at metrics to analyze aspects of this strength, and seek to questions such as:
 How many hard/elite level climbs are completed per year?
 Among this elite level, what grade see the most climbs?
@@ -77,8 +88,10 @@ Is there an age for elite climbing?
       :data="yearsData"/> -->
     </div>
     <div class="section conclusion">
-      <!-- <h3>The End</h3> -->
+      <!-- <h3>The End</h3>
+      <div class="subhead-line"></div> -->
       <h3>What is Strength in Climbing?</h3>
+      <div class="subhead-line"></div>
 
       <p>Based on what we’ve seen to this point, our constant has been the climber and the variables include hold types and size and combinations, route length and angles, body positioning, route grade. With this, we’ll conclude that strength in climbing is the ability for a climber to stay on the wall while moving through the problem.</p>
     </div>
@@ -150,8 +163,9 @@ h2 {
 }
 
 h3 {
-  font-family: Didot,Didot LT STD,Hoefler Text,Garamond,Times New Roman,serif;
+  /* font-family: Didot,Didot LT STD,Hoefler Text,Garamond,Times New Roman,serif; */
   font-size: 1.9em;
+  margin-bottom: 0.5em;
 }
 
 h4 {
@@ -176,7 +190,7 @@ h4 {
 }
 
 .thesis-title h1 {
-  font-family: Didot,Didot LT STD,Hoefler Text,Garamond,Times New Roman,serif;
+  /* font-family: Didot,Didot LT STD,Hoefler Text,Garamond,Times New Roman,serif; */
   font-size: 3.3em;
   text-align: center;
   padding-top: 20%;
@@ -186,7 +200,7 @@ h4 {
 .thesis-title .line {
   width: 80%;
   height: 30px;
-  border-bottom: 1px solid black;
+  border-bottom: 2px solid black;
   margin: 0 auto;
 }
 
@@ -197,8 +211,20 @@ h4 {
   margin: 0 auto 3em;
 }
 
+.subhead-line {
+  width: 30%;
+  height: 1px;
+  border-bottom: 2px solid black;
+  margin: 0 auto 3em 0;
+}
+
 .thesis-title h2 {
   text-align: center;
+  font-weight: 500;
+}
+
+.intro-copy {
+  padding: 1em 20em 1em 0;
 }
 
 .viz {
@@ -219,9 +245,9 @@ h4 {
   margin-bottom: 8em;
 } */
 
-/* .grades-copy {
-  margin-bottom: 10em;
-} */
+.grades-copy {
+  padding: 1em 20em 0 0;
+}
 
 #scrollama-container-flexed {
     display: flex;
