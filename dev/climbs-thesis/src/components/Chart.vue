@@ -3,7 +3,10 @@
     <!-- <svg></svg> -->
     <!-- <h4>Are climbers getting stronger or are there more strong climbers?</h4> -->
     <h4>How many hard climbs are achieved per year?</h4>
-    <div class="bar-chart"></div>
+    <div class="flex-container">
+      <div class="bar-chart flex-child"></div>
+      <div class="chart-details flex-child">In this chart, we're displaying the number of elite level climbs (> V15 | 8C) accomplished per year. We organized the data according to the number of send dates recorded per climb, per year. </div>
+    </div>
   </div>
 </template>
 
@@ -43,13 +46,13 @@ export default {
       const svg = d3
         .select(".bar-chart")
         .append("svg")
-        .attr("width", 1000)
-        .attr("height", 600);
+        .attr("width", 800)
+        .attr("height", 500);
 
       // create margins & dimensions
       const margin = { top: 20, right: 20, bottom: 100, left: 100 };
-      const graphWidth = 1000 - margin.left - margin.right;
-      const graphHeight = 600 - margin.top - margin.bottom;
+      const graphWidth = 800 - margin.left - margin.right;
+      const graphHeight = 500 - margin.top - margin.bottom;
 
       const graph = svg
         .append("g")
@@ -131,5 +134,21 @@ export default {
 
 
 <style scoped>
+.flex-container {
+    display: flex;
+    /* height: 34em; */
+}
+
+.flex-child {
+    flex: 1;
+}  
+
+/* .chart-details {
+  display: flex;
+} */
+
+.bar-chart {
+  flex-grow: 3;
+}
 
 </style>
