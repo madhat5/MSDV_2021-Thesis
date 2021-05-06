@@ -207,7 +207,7 @@ h4 {
 
 .thesis-title h1 {
   /* font-family: Didot,Didot LT STD,Hoefler Text,Garamond,Times New Roman,serif; */
-  font-size: 3.5em;
+  font-size: 3.8em;
   text-align: left;
   padding-top: 25%;
   line-height: 1.5em;
