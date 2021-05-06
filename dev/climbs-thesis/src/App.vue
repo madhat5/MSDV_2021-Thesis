@@ -72,6 +72,7 @@
       <h3>The Numbers</h3>
       <div class="subhead-line"></div>
       <p>After gaining a better understanding of hold types, climbing grades, and what a boulder problem looks like,  we can look at metrics to analyze aspects of this strength, and seek to questions such as:
+        <br>
 How many hard/elite level climbs are completed per year?
 Among this elite level, what grade see the most climbs?
 What do the gym membership metrics tell us about the growth of the sport and how this compares to hard climbs metrics above?

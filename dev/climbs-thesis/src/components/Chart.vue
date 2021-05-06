@@ -93,7 +93,7 @@ export default {
         .append("rect")
         .attr("width", this.x.bandwidth)
         .attr("height", (d) => graphHeight - this.y(d.climbs))
-        .attr("fill", "green")
+        .attr("fill", "#c90e0c")
         .attr("x", (d) => this.x(d.year))
         .attr("y", (d) => this.y(d.climbs));
 
