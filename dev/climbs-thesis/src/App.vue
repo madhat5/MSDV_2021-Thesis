@@ -108,7 +108,7 @@
 
       <!-- <p>Based on what we’ve seen to this point, our constant has been the climber and the variables include hold types and size and combinations, route length and angles, body positioning, route grade. With this, we’ll conclude that strength in climbing is the ability for a climber to stay on the wall while moving through the problem.</p> -->
 
-      <p>Based on what we’ve seen, our constant has been the climber, and our variables include hold types and size, hold combinations, route length, body positioning, and route grade. With this, we’ll conclude that strength in climbing is the ability for a climber to stay on the wall while moving through the problem.</p>
+      <p>Based on what we’ve seen, our constant has been the climber, and our variables include hold types and size, hold combinations, route length, body positioning, and route grade. With this, we’ll conclude that <strong>strength in climbing is the ability for a climber to stay on the wall while moving through the problem.</strong></p>
 
       <p>With this project, we should have a better understanding of climbing, both in practice and for watching the upcoming Olympic climbing competitions.</p>
     </div>
