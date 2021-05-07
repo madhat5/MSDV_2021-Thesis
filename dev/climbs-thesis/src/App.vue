@@ -77,7 +77,7 @@
       <div class="numbers-questions">
         <div class="q-left">
           <ul>
-            <li>many hard/elite level climbs are completed per year?</li>
+            <li>How many hard/elite level climbs are completed per year?</li>
             <li>What’s the gender distribution in the sport?</li>
             <li>Are climbers getting stronger or are there more strong climbers?</li>
             <li>What do the gym membership metrics tell us about the growth of the sport and how this compares to hard climbs?</li>
