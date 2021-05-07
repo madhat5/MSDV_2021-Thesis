@@ -106,7 +106,7 @@ export default {
       const xAxis = d3.axisBottom(this.x);
       const yAxis = d3
         .axisLeft(this.y)
-        .ticks(3)
+        .ticks(4)
         .tickFormat((d) => d + " climbs");
 
       xAxisGroup.call(xAxis);
@@ -115,8 +115,15 @@ export default {
       xAxisGroup
         .selectAll("text")
         .attr("transform", "rotate(-40)")
-        .attr("text-anchor", "end");
+        .attr("text-anchor", "end")
+        .style("font-family", "Helvetica Neue,Helvetica,Arial,sans-serif")
+        .style("font-size", "1.25em");
       // });
+
+    yAxisGroup
+      .selectAll("text")
+      .style("font-family", "Helvetica Neue,Helvetica,Arial,sans-serif")
+      .style("font-size", "1.25em");
 
       svg.call(
         d3
