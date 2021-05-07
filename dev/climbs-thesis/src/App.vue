@@ -11,11 +11,11 @@
       <h3>Introduction</h3>
       <div class="subhead-line"></div>
       <div class="intro-copy">
-        <p>As I’ve delved into climbing, both in practice and research, one thing has quickly become apparent: the continuous effort and never-ending endeavour to get stronger. As I began to look into this further, and developed questions about climbing benchmarks around the world, as well as the rate of strength increase of climbers, I focused my research on how strength is expressed in climbing.</p>
+        <p>As I’ve delved into climbing, both in practice and research, one thing has quickly become apparent: the<strong>continuous effort to get stronger</strong>. As I began to look into this further, and developed questions about climbing benchmarks around the world, as well as the rate of strength increase of climbers, I focused my research on <strong>how strength is expressed</strong> in climbing.</p>
         
-        <p>Our treatment for this thesis will attempt to answer these questions by understanding what strength is in climbing. We will focus on bouldering and sport/lead climbing. It should be noted that there are other types of climbing, including: top-rope; ice-climbing; mountaineering and trad climbing; free solo and deep water solo.</p>
+        <p>Our treatment for this thesis will attempt to answer these questions by understanding <strong>what strength is in climbing</strong>. Our focus will be on <strong>bouldering</strong>, moving up a wall with our body only, no ropes or other climbing tools. It should be noted that there are other types of climbing, including: top-rope; ice-climbing; mountaineering and trad climbing; free solo and deep water solo.</p>
 
-        <p>We will analyze several aspects of climbing, including what the records and benchmarks are for climbing routes, what the various grading systems are (how climbs are measured); what makes a climb hard; how climbers get stronger; and other aspects such as the increase in popularity of the sport over time, and accompanying research and literature. As we work on answering the aforementioned questions, we will work to expand the reader’s climbing knowledge and vocabulary throughout this essay.</p>
+        <p>We will analyze several aspects of climbing, including what the records and benchmarks are for climbing routes, what the various grading systems are (how climbs are measured); what makes a climb hard; how climbers get stronger; and other aspects such as the increase in popularity of the sport over time, and accompanying research and literature. As we work on answering the aforementioned questions, we will work to expand the reader’s climbing knowledge and vocabulary throughout this project.</p>
       </div>
     </div>
     <div class="section section-1">
@@ -37,20 +37,20 @@
       <div class="subhead-line"></div>
     
       <div class="grades-copy">
-        <p>Now that we know how to hold onto the wall, we’ll talk about climbing grades - this is how climbs are measured. There are quite a few different scales, each being developed separately (like Celsius/Fahrenheit) so we focus on the most common bouldering scales: V scale and Font scale. These grades are used both indoors and outdoors, and were developed “as a way to indicate the difficulty of a boulder problem to someone who had never tried it before”, and to compare to problems in other locations.</p>
+        <p>Now that we know how to hold onto the wall, we’ll talk about <strong>climbing grades</strong> - this is how climbs are measured. There are quite a few different scales, each being developed separately (like Celsius/Fahrenheit) so we focus on the most common bouldering scales: <strong>V scale</strong> and <strong>Font scale</strong>. These grades are used both indoors and outdoors, and were developed “as a way to indicate the difficulty of a boulder problem to someone who had never tried it before”, and to compare to problems in other locations.</p>
 
-        <p>Before we dive into specific grades, let’s walk through some of the main grading systems: the V scale, YDS scale, Font scale, and French scale. Keep in mind at the end of the day, grading systems are both variable and subjective in their attempts to quantify difficulty. Free climbing grades are generally understood to reflect the hardest move or section on a particular route. - they do not indicate time commitment or duration.</p>
+        <p>Before we dive into specific grades, we'll mention some of the other grading systems: YDS (Yosemite Decimal System) scale, and French scale. Keep in mind at the end of the day, grading systems are both <strong>variable</strong> and <strong>subjective</strong> in their attempts to quantify difficulty. Free climbing grades are generally understood to reflect the hardest move or section on a particular route. - they do not indicate time commitment or duration.</p>
         
         <p>
         <b>V scale</b>
         <br/>
-        Specific to bouldering, the V scale, also known as the Hueco scale, was developed by John 'Vermin' Sherman; he based this system off of another/simpler system - John Gill’s B-system for bouldering. In this V scale, V0 moves are the equivalent of 5.10 climbing moves (part of the YDS scale, which we’ll see further down). The Vscale is open ended, with the simplest/easiest moves starting at V0 and the current hardest boulder problem is V17.
+        Specific to bouldering, the V scale, also known as the <strong>Hueco scale</strong>, was developed by John 'Vermin' Sherman; he based this system off of another/simpler system - John Gill’s B-system for bouldering. In this V scale, V0 moves are the equivalent of 5.10 climbing moves (part of the YDS scale, which we’ll see further down). The Vscale is open ended, with the simplest/easiest moves starting at V0 and the current hardest boulder problem is V17.
         </p>
 
         <p>
         <b>Font/Fontainebleau</b>
         <br/>
-        Specific to bouldering, the Fontainebleau grading system has been around much longer than the Hueco system. This scale’s grades follow a similar rating system to French free-climb ratings (which we’ll see further down).The scale includes a numerical grade ascending with difficulty; starting at level 6, letters are appended to the numbers starting (format: 7C). To differentiate the Font scale from its similar French free-climbing scale, letters are capitalized in the Font system. 
+        Specific to bouldering, the <strong>Fontainebleau</strong> grading system has been around much longer than the Hueco system. This scale’s grades follow a similar rating system to French free-climb ratings (which we’ll see further down).The scale includes a numerical grade ascending with difficulty; starting at level 6, letters are appended to the numbers starting (format: 7C). To differentiate the Font scale from its similar French free-climbing scale, letters are capitalized in the Font system. 
         </p>
       </div>
       <Grades/>
@@ -59,28 +59,40 @@
       <h3>Comparing Boulder Problems</h3>
       <div class="subhead-line"></div>
 
-      <p>At this point we can combine what we’ve learned so far, and attempt to answer our question of what is strength in climbing. We’ll do this by analyzing some of the different moves of a climb, by comparing climbers at 2 different levels (and genders?). For each boulder problem we’ll look at each move, the hold types and size, the body position, the grade, route length, and the sequences required to stay and move on the wall.</p> 
+      <!-- <p>At this point we can combine what we’ve learned so far, and attempt to answer our question of what is strength in climbing. We’ll do this by analyzing some of the different moves of a climb, by comparing climbers at 2 different levels (and genders?). For each boulder problem we’ll look at each move, the hold types and size, the body position, the grade, route length, and the sequences required to stay and move on the wall.</p>  -->
+
+      <p>At this point we can combine what we’ve learned so far, and attempt to analyze some of the different moves of a climb, by comparing climbers at 2 different levels. For each boulder problem we’ll look at each move, the hold types and size, the body position, the grade, route length, and the sequences required to stay and move on the wall. </p>
 
       <p><strong>Blair Witch</strong> (6B+/V4), Ice Pond || <strong>La Toupie Carnivore</strong> assis (8B+/V14) - Jimmy Webb</p>
 
       <Problems/>
-      <div class="line"></div>
-      <p>Based on what we’ve seen to this point, our constant has been the climber and the variables include hold types and size and combinations, route length and angles, body positioning, route grade. With this, we’ll conclude that strength in climbing is the ability for a climber to stay on the wall while moving through the problem.</p>
+      <!-- <div class="line"></div>
+      <p>Based on what we’ve seen to this point, our constant has been the climber and the variables include hold types and size and combinations, route length and angles, body positioning, route grade. With this, we’ll conclude that strength in climbing is the ability for a climber to stay on the wall while moving through the problem.</p> -->
 
     </div>
     <div class="section section-4">
       <h3>The Numbers</h3>
       <div class="subhead-line"></div>
-      <p>After gaining a better understanding of hold types, climbing grades, and what a boulder problem looks like,  we can look at metrics to analyze aspects of this strength, and seek to questions such as:
-        <br>
-How many hard/elite level climbs are completed per year?
-Among this elite level, what grade see the most climbs?
-What do the gym membership metrics tell us about the growth of the sport and how this compares to hard climbs metrics above?
-Are climbers getting stronger or are there more strong climbers?
-Are the metrics similar for other types of climbing (lead)?
-What’s the gender distribution in the sport?
-Is there an age for elite climbing?
-</p>
+      <p>After gaining a better understanding of hold types, climbing grades, and what a boulder problem looks like,  we can look at metrics to analyze aspects of this strength, and seek to questions such as:</p>
+      <div class="numbers-questions">
+        <div class="q-left">
+          <ul>
+            <li>many hard/elite level climbs are completed per year?</li>
+            <li>What’s the gender distribution in the sport?</li>
+            <li>Are climbers getting stronger or are there more strong climbers?</li>
+            <li>What do the gym membership metrics tell us about the growth of the sport and how this compares to hard climbs?</li>
+          </ul>
+        </div>
+        <div class="q-right">
+          <ul>
+            <li>Among this elite level, what grade sees the most climbs?</li>
+            <li>Are the metrics similar for other types of climbing?</li>
+            <li>Is there an age for elite climbing?</li>
+            <li>What do the body movements look like?</li>
+            <li>What about other types of climbing?</li>
+          </ul>
+        </div>
+      </div>
       <Chart/>
       <!-- <Chart :data="yearsData"/> -->
       <!-- <BarChart
@@ -94,7 +106,11 @@ Is there an age for elite climbing?
       <h3>What is Strength in Climbing?</h3>
       <div class="subhead-line"></div>
 
-      <p>Based on what we’ve seen to this point, our constant has been the climber and the variables include hold types and size and combinations, route length and angles, body positioning, route grade. With this, we’ll conclude that strength in climbing is the ability for a climber to stay on the wall while moving through the problem.</p>
+      <!-- <p>Based on what we’ve seen to this point, our constant has been the climber and the variables include hold types and size and combinations, route length and angles, body positioning, route grade. With this, we’ll conclude that strength in climbing is the ability for a climber to stay on the wall while moving through the problem.</p> -->
+
+      <p>Based on what we’ve seen, our constant has been the climber, and our variables include hold types and size, hold combinations, route length, body positioning, and route grade. With this, we’ll conclude that strength in climbing is the ability for a climber to stay on the wall while moving through the problem.</p>
+
+      <p>With this project, we should have a better understanding of climbing, both in practice and for watching the upcoming Olympic climbing competitions.</p>
     </div>
     <!-- <div class="section reference">
       <p>References? (in treatment only?) lorem ipsum</p>
@@ -286,8 +302,16 @@ h4 {
     flex: 1;
 }
 
-.section-4 p{
+.section-4 p {
   padding: 1em 12em 0 0;
+}
+
+.numbers-questions {
+  display: flex;
+}
+
+.q-left, .q-right {
+  flex: 1;
 }
 
 .conclusion p{
