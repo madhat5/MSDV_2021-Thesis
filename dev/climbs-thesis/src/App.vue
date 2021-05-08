@@ -2,7 +2,7 @@
   <div id="app">
     <div class="section thesis-title">
       <!-- <div class="intro-img"></div> -->
-      <h1>What is strength in climbing?</h1>
+      <h1>What Is Strength in Climbing?</h1>
       <div class="line"></div>
       <!-- <h2>Are climbers getting stronger or are there more strong climbers?</h2> -->
       <h2>How do climbers use it?</h2>
@@ -103,7 +103,7 @@
     <div class="section conclusion">
       <!-- <h3>The End</h3>
       <div class="subhead-line"></div> -->
-      <h3>What is Strength in Climbing?</h3>
+      <h3>What Is Strength in Climbing?</h3>
       <div class="subhead-line"></div>
 
       <!-- <p>Based on what we’ve seen to this point, our constant has been the climber and the variables include hold types and size and combinations, route length and angles, body positioning, route grade. With this, we’ll conclude that strength in climbing is the ability for a climber to stay on the wall while moving through the problem.</p> -->
